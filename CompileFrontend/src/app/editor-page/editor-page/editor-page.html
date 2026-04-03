@@ -1,0 +1,118 @@
+<!-- ══════════════════════════════════════════
+     PidginCheck — Editor Page
+════════════════════════════════════════════ -->
+
+<!-- NAV -->
+<nav class="navbar">
+  <div class="nav-brand">
+    <div class="nav-logo-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/>
+      </svg>
+    </div>
+    <span class="nav-logo-text">
+      <span class="brand-pidgin">Pidgin</span><span class="brand-check">Check</span>
+    </span>
+  </div>
+  <div class="nav-links">
+    <a routerLink="/" class="nav-link">Dashboard</a>
+    <a routerLink="/editor" class="nav-link active">Editor</a>
+    <button class="nav-theme-btn" aria-label="Toggle theme">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/>
+      </svg>
+    </button>
+  </div>
+</nav>
+
+<!-- MAIN EDITOR AREA -->
+<main class="editor-main">
+
+  <div class="orb orb-1" aria-hidden="true"></div>
+  <div class="orb orb-2" aria-hidden="true"></div>
+
+  <div class="editor-container">
+
+    <!-- ── Toolbar Row ── -->
+    <div class="toolbar">
+      <div class="toolbar-left">
+
+        <!-- Hidden file input -->
+        <input
+          #fileInput
+          type="file"
+          accept=".txt,.doc,.docx"
+          style="display:none"
+          (change)="onFileSelected($event)" />
+
+        <!-- Upload button -->
+        <app-neon-button
+          label="Upload File"
+          variant="primary"
+          (clicked)="triggerUpload()">
+        </app-neon-button>
+
+        <!-- Formatting toolbar -->
+        <app-font-selector (formatChanged)="onFontChanged($event)"></app-font-selector>
+      </div>
+
+      <!-- Right: word/char count + Download -->
+      <div class="toolbar-right">
+        <span class="word-count">
+          {{ wordCount }} words · {{ charCount }} chars
+        </span>
+        <app-neon-button
+          label="Download"
+          variant="outline"
+          (clicked)="downloadDocument()">
+        </app-neon-button>
+      </div>
+    </div>
+
+    <!-- ── Text Editor Panel ── -->
+    <div class="editor-panel">
+
+      <!-- Panel Header -->
+      <div class="panel-header">
+        <svg class="panel-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+             fill="none" stroke="currentColor" stroke-width="2"
+             stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="4 7 4 4 20 4 20 7"/>
+          <line x1="9" y1="20" x2="15" y2="20"/>
+          <line x1="12" y1="4" x2="12" y2="20"/>
+        </svg>
+        <span class="panel-title">Text Editor</span>
+      </div>
+
+      <div class="panel-divider"></div>
+
+      <!-- Textarea -->
+      <textarea
+        #editorArea
+        class="editor-textarea"
+        [(ngModel)]="editorText"
+        [ngStyle]="editorStyle"
+        placeholder="Type or paste your text here... You can also upload a document above.">
+      </textarea>
+    </div>
+
+    <!-- ── Legend Strip ── -->
+    <div class="legend-strip">
+      <div class="legend-item">
+        <span class="legend-line legend-red"></span>
+        <span class="legend-label">Spelling</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-line legend-blue"></span>
+        <span class="legend-label">Syntax</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-line legend-green"></span>
+        <span class="legend-label">Semantic</span>
+      </div>
+    </div>
+
+  </div>
+</main>

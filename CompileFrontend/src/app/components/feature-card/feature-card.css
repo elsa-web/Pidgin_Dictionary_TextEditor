@@ -1,0 +1,143 @@
+/* ── Feature Card Component ── */
+
+.feature-card {
+  --card-accent: #1a8cff;
+
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 28px 24px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  cursor: default;
+  overflow: hidden;
+  transition:
+    transform 0.3s ease,
+    border-color 0.35s ease,
+    box-shadow 0.35s ease,
+    background 0.35s ease;
+}
+
+/* Ambient glow layer */
+.feature-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: radial-gradient(
+    ellipse at 50% 0%,
+    rgba(26, 140, 255, 0.06) 0%,
+    transparent 70%
+  );
+  opacity: 0;
+  transition: opacity 0.35s ease;
+  pointer-events: none;
+}
+
+/* Top edge highlight on hover */
+.feature-card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 10%;
+  right: 10%;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--card-accent),
+    transparent
+  );
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  pointer-events: none;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  background: rgba(255, 255, 255, 0.055);
+  border-color: rgba(var(--card-accent-rgb, 26, 140, 255), 0.45);
+  border-color: color-mix(in srgb, var(--card-accent) 55%, transparent);
+  box-shadow:
+    0 0 20px color-mix(in srgb, var(--card-accent) 30%, transparent),
+    0 0 50px color-mix(in srgb, var(--card-accent) 12%, transparent),
+    0 8px 32px rgba(0, 0, 0, 0.5),
+    inset 0 0 20px color-mix(in srgb, var(--card-accent) 5%, transparent);
+}
+
+.feature-card:hover::before {
+  opacity: 1;
+}
+
+.feature-card:hover::after {
+  opacity: 1;
+}
+
+/* ── Icon Wrapper ── */
+.card-icon-wrap {
+  width: 52px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  background: rgba(26, 140, 255, 0.1);
+  border: 1px solid rgba(26, 140, 255, 0.2);
+  color: #6ab8ff;
+  transition:
+    background 0.3s ease,
+    border-color 0.3s ease,
+    color 0.3s ease,
+    box-shadow 0.3s ease;
+  flex-shrink: 0;
+}
+
+.feature-card:hover .card-icon-wrap {
+  background: color-mix(in srgb, var(--card-accent) 18%, transparent);
+  border-color: color-mix(in srgb, var(--card-accent) 60%, transparent);
+  color: var(--card-accent);
+  box-shadow: 0 0 12px color-mix(in srgb, var(--card-accent) 35%, transparent);
+}
+
+.card-icon-svg {
+  width: 24px;
+  height: 24px;
+}
+
+.card-icon-letter {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+/* ── Text ── */
+.card-title {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #e8f0fe;
+  transition: color 0.3s ease;
+}
+
+.feature-card:hover .card-title {
+  color: #ffffff;
+}
+
+.card-description {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  font-size: 0.875rem;
+  line-height: 1.65;
+  color: rgba(180, 200, 230, 0.7);
+  transition: color 0.3s ease;
+}
+
+.feature-card:hover .card-description {
+  color: rgba(200, 220, 245, 0.85);
+}

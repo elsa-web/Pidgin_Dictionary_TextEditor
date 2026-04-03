@@ -1,0 +1,41 @@
+/* ── Global Styles — PidginCheck ── */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  background-color: #03060f;
+  color: #e8f0fe;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #03060f;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(26, 140, 255, 0.25);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(26, 140, 255, 0.5);
+}
+
+/* Selection */
+::selection {
+  background: rgba(26, 140, 255, 0.3);
+  color: #ffffff;
+}

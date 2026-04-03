@@ -1,0 +1,107 @@
+<!-- ══════════════════════════════════════════
+     PidginCheck Landing Page
+════════════════════════════════════════════ -->
+
+<!-- NAV -->
+<nav class="navbar">
+  <div class="nav-brand">
+    <div class="nav-logo-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/>
+      </svg>
+    </div>
+    <span class="nav-logo-text">
+      <span class="brand-pidgin">Pidgin</span><span class="brand-check">Check</span>
+    </span>
+  </div>
+  <div class="nav-links">
+    <a href="#" class="nav-link active">Dashboard</a>
+    <a href="#" class="nav-link">Editor</a>
+    <button class="nav-theme-btn" aria-label="Toggle theme">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/>
+      </svg>
+    </button>
+  </div>
+</nav>
+
+<!-- HERO -->
+<main class="hero">
+
+  <!-- Ambient background grid -->
+  <div class="bg-grid" aria-hidden="true"></div>
+
+  <!-- Floating orbs -->
+  <div class="orb orb-1" aria-hidden="true"></div>
+  <div class="orb orb-2" aria-hidden="true"></div>
+  <div class="orb orb-3" aria-hidden="true"></div>
+
+  <!-- Hero Content -->
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span class="badge-dot"></span>
+      Pidgin English Intelligence
+    </div>
+
+    <h1 class="hero-title">
+      <span class="title-pidgin">Pidgin</span>
+      <span class="title-plain">English Analyzer</span>
+    </h1>
+
+    <p class="hero-subtitle">
+      A smart text editor that checks spelling, syntax, and semantics —<br>
+      translating Standard English into natural Pidgin expressions.
+    </p>
+
+    <!-- CTA Buttons -->
+    <div class="hero-actions">
+      <app-neon-button
+        label="Open Editor"
+        variant="primary"
+        (clicked)="openEditor()">
+      </app-neon-button>
+      <app-neon-button
+        label="Upload Document"
+        variant="outline"
+        (clicked)="uploadDocument()">
+      </app-neon-button>
+    </div>
+
+    <!-- Legend Strip -->
+    <div class="legend-strip">
+      <div class="legend-item">
+        <span class="legend-line legend-red"></span>
+        <span class="legend-label">Spelling Error</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-line legend-blue"></span>
+        <span class="legend-label">Syntax Error</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-line legend-green"></span>
+        <span class="legend-label">Semantic Suggestion</span>
+      </div>
+    </div>
+  </div>
+</main>
+
+<!-- FEATURES GRID -->
+<section class="features-section">
+  <div class="features-grid">
+    <app-feature-card
+      *ngFor="let f of features"
+      [iconSvg]="f.iconSvg"
+      [icon]="f.icon"
+      [title]="f.title"
+      [description]="f.description"
+      [accentColor]="f.accentColor">
+    </app-feature-card>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <p>© 2026 PidginCheck · Built for the culture</p>
+</footer>

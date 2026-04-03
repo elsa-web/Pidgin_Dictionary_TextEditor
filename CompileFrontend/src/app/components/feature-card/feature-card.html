@@ -1,0 +1,20 @@
+<div class="feature-card" [style.--card-accent]="accentColor">
+  <div class="card-icon-wrap">
+    <svg *ngIf="iconSvg; else letterIcon"
+         class="card-icon-svg"
+         xmlns="http://www.w3.org/2000/svg"
+         viewBox="0 0 24 24"
+         fill="none"
+         stroke="currentColor"
+         stroke-width="1.8"
+         stroke-linecap="round"
+         stroke-linejoin="round">
+      <path [attr.d]="iconSvg" />
+    </svg>
+    <ng-template #letterIcon>
+      <span class="card-icon-letter">{{ icon }}</span>
+    </ng-template>
+  </div>
+  <h3 class="card-title">{{ title }}</h3>
+  <p class="card-description">{{ description }}</p>
+</div>
