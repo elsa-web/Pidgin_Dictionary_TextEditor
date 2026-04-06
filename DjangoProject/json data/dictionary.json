@@ -1,0 +1,9346 @@
+[
+  {
+    "english": "helo",
+    "pidgin": "hello",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "hello"
+    ]
+  },
+  {
+    "english": "wrold",
+    "pidgin": "world",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "world"
+    ]
+  },
+  {
+    "english": "freind",
+    "pidgin": "friend",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "friend"
+    ]
+  },
+  {
+    "english": "becuase",
+    "pidgin": "because",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "because"
+    ]
+  },
+  {
+    "english": "recieve",
+    "pidgin": "receive",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "receive"
+    ]
+  },
+  {
+    "english": "beleive",
+    "pidgin": "believe",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "believe"
+    ]
+  },
+  {
+    "english": "occured",
+    "pidgin": "occurred",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "occurred"
+    ]
+  },
+  {
+    "english": "seperate",
+    "pidgin": "separate",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "separate"
+    ]
+  },
+  {
+    "english": "definately",
+    "pidgin": "definitely",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "definitely"
+    ]
+  },
+  {
+    "english": "grammer",
+    "pidgin": "grammar",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "grammar"
+    ]
+  },
+  {
+    "english": "wierd",
+    "pidgin": "weird",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "weird"
+    ]
+  },
+  {
+    "english": "wich",
+    "pidgin": "which",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "which"
+    ]
+  },
+  {
+    "english": "untill",
+    "pidgin": "until",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "until"
+    ]
+  },
+  {
+    "english": "accomodate",
+    "pidgin": "accommodate",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "accommodate"
+    ]
+  },
+  {
+    "english": "begining",
+    "pidgin": "beginning",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "beginning"
+    ]
+  },
+  {
+    "english": "calender",
+    "pidgin": "calendar",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "calendar"
+    ]
+  },
+  {
+    "english": "carrer",
+    "pidgin": "career",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "career"
+    ]
+  },
+  {
+    "english": "commitee",
+    "pidgin": "committee",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "committee"
+    ]
+  },
+  {
+    "english": "dependant",
+    "pidgin": "dependent",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "dependent"
+    ]
+  },
+  {
+    "english": "dissapear",
+    "pidgin": "disappear",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "disappear"
+    ]
+  },
+  {
+    "english": "enviroment",
+    "pidgin": "environment",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "environment"
+    ]
+  },
+  {
+    "english": "existance",
+    "pidgin": "existence",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "existence"
+    ]
+  },
+  {
+    "english": "familar",
+    "pidgin": "familiar",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "familiar"
+    ]
+  },
+  {
+    "english": "febuary",
+    "pidgin": "February",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "February"
+    ]
+  },
+  {
+    "english": "foward",
+    "pidgin": "forward",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "forward"
+    ]
+  },
+  {
+    "english": "goverment",
+    "pidgin": "government",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "government"
+    ]
+  },
+  {
+    "english": "harrass",
+    "pidgin": "harass",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "harass"
+    ]
+  },
+  {
+    "english": "independance",
+    "pidgin": "independence",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "independence"
+    ]
+  },
+  {
+    "english": "intresting",
+    "pidgin": "interesting",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "interesting"
+    ]
+  },
+  {
+    "english": "knowlege",
+    "pidgin": "knowledge",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "knowledge"
+    ]
+  },
+  {
+    "english": "laguage",
+    "pidgin": "language",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "language"
+    ]
+  },
+  {
+    "english": "liason",
+    "pidgin": "liaison",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "liaison"
+    ]
+  },
+  {
+    "english": "maintainance",
+    "pidgin": "maintenance",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "maintenance"
+    ]
+  },
+  {
+    "english": "medecine",
+    "pidgin": "medicine",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "medicine"
+    ]
+  },
+  {
+    "english": "memeber",
+    "pidgin": "member",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "member"
+    ]
+  },
+  {
+    "english": "millenium",
+    "pidgin": "millennium",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "millennium"
+    ]
+  },
+  {
+    "english": "mispell",
+    "pidgin": "misspell",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "misspell"
+    ]
+  },
+  {
+    "english": "neccessary",
+    "pidgin": "necessary",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "necessary"
+    ]
+  },
+  {
+    "english": "nieghbor",
+    "pidgin": "neighbor",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "neighbor"
+    ]
+  },
+  {
+    "english": "occassion",
+    "pidgin": "occasion",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "occasion"
+    ]
+  },
+  {
+    "english": "persue",
+    "pidgin": "pursue",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "pursue"
+    ]
+  },
+  {
+    "english": "posession",
+    "pidgin": "possession",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "possession"
+    ]
+  },
+  {
+    "english": "priviledge",
+    "pidgin": "privilege",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "privilege"
+    ]
+  },
+  {
+    "english": "profesional",
+    "pidgin": "professional",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "professional"
+    ]
+  },
+  {
+    "english": "pronounciation",
+    "pidgin": "pronunciation",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "pronunciation"
+    ]
+  },
+  {
+    "english": "publically",
+    "pidgin": "publicly",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "publicly"
+    ]
+  },
+  {
+    "english": "questionaire",
+    "pidgin": "questionnaire",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "questionnaire"
+    ]
+  },
+  {
+    "english": "recomend",
+    "pidgin": "recommend",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "recommend"
+    ]
+  },
+  {
+    "english": "refered",
+    "pidgin": "referred",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "referred"
+    ]
+  },
+  {
+    "english": "relevent",
+    "pidgin": "relevant",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "relevant"
+    ]
+  },
+  {
+    "english": "rember",
+    "pidgin": "remember",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "remember"
+    ]
+  },
+  {
+    "english": "responsability",
+    "pidgin": "responsibility",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "responsibility"
+    ]
+  },
+  {
+    "english": "rythm",
+    "pidgin": "rhythm",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "rhythm"
+    ]
+  },
+  {
+    "english": "sargent",
+    "pidgin": "sergeant",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "sergeant"
+    ]
+  },
+  {
+    "english": "simmilar",
+    "pidgin": "similar",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "similar"
+    ]
+  },
+  {
+    "english": "speach",
+    "pidgin": "speech",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "speech"
+    ]
+  },
+  {
+    "english": "succesful",
+    "pidgin": "successful",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "successful"
+    ]
+  },
+  {
+    "english": "suprise",
+    "pidgin": "surprise",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "surprise"
+    ]
+  },
+  {
+    "english": "tatoo",
+    "pidgin": "tattoo",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "tattoo"
+    ]
+  },
+  {
+    "english": "tendancy",
+    "pidgin": "tendency",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "tendency"
+    ]
+  },
+  {
+    "english": "thier",
+    "pidgin": "their",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "their"
+    ]
+  },
+  {
+    "english": "tommorow",
+    "pidgin": "tomorrow",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "tomorrow"
+    ]
+  },
+  {
+    "english": "tounge",
+    "pidgin": "tongue",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "tongue"
+    ]
+  },
+  {
+    "english": "truely",
+    "pidgin": "truly",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "truly"
+    ]
+  },
+  {
+    "english": "typcial",
+    "pidgin": "typical",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "typical"
+    ]
+  },
+  {
+    "english": "unfortunatly",
+    "pidgin": "unfortunately",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "unfortunately"
+    ]
+  },
+  {
+    "english": "untill",
+    "pidgin": "until",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "until"
+    ]
+  },
+  {
+    "english": "usefull",
+    "pidgin": "useful",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "useful"
+    ]
+  },
+  {
+    "english": "vaccuum",
+    "pidgin": "vacuum",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "vacuum"
+    ]
+  },
+  {
+    "english": "visious",
+    "pidgin": "vicious",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "vicious"
+    ]
+  },
+  {
+    "english": "wether",
+    "pidgin": "whether",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "whether"
+    ]
+  },
+  {
+    "english": "writting",
+    "pidgin": "writing",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "writing"
+    ]
+  },
+  {
+    "english": "yatch",
+    "pidgin": "yacht",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "yacht"
+    ]
+  },
+  {
+    "english": "yesturday",
+    "pidgin": "yesterday",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "yesterday"
+    ]
+  },
+  {
+    "english": "zaniness",
+    "pidgin": "zaniness",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "zaniness"
+    ]
+  },
+  {
+    "english": "absense",
+    "pidgin": "absence",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "absence"
+    ]
+  },
+  {
+    "english": "accidentaly",
+    "pidgin": "accidentally",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "accidentally"
+    ]
+  },
+  {
+    "english": "acheive",
+    "pidgin": "achieve",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "achieve"
+    ]
+  },
+  {
+    "english": "acnoledge",
+    "pidgin": "acknowledge",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "acknowledge"
+    ]
+  },
+  {
+    "english": "aquire",
+    "pidgin": "acquire",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "acquire"
+    ]
+  },
+  {
+    "english": "arguement",
+    "pidgin": "argument",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "argument"
+    ]
+  },
+  {
+    "english": "assasinate",
+    "pidgin": "assassinate",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "assassinate"
+    ]
+  },
+  {
+    "english": "atribute",
+    "pidgin": "attribute",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "attribute"
+    ]
+  },
+  {
+    "english": "beatiful",
+    "pidgin": "beautiful",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "beautiful"
+    ]
+  },
+  {
+    "english": "bizness",
+    "pidgin": "business",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "business"
+    ]
+  },
+  {
+    "english": "carefull",
+    "pidgin": "careful",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "careful"
+    ]
+  },
+  {
+    "english": "changable",
+    "pidgin": "changeable",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "changeable"
+    ]
+  },
+  {
+    "english": "collum",
+    "pidgin": "column",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "column"
+    ]
+  },
+  {
+    "english": "comming",
+    "pidgin": "coming",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "coming"
+    ]
+  },
+  {
+    "english": "concious",
+    "pidgin": "conscious",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "conscious"
+    ]
+  },
+  {
+    "english": "critisism",
+    "pidgin": "criticism",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "criticism"
+    ]
+  },
+  {
+    "english": "curiousity",
+    "pidgin": "curiosity",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "curiosity"
+    ]
+  },
+  {
+    "english": "dissatisfied",
+    "pidgin": "dissatisfied",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "dissatisfied"
+    ]
+  },
+  {
+    "english": "dificult",
+    "pidgin": "difficult",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "difficult"
+    ]
+  },
+  {
+    "english": "embarass",
+    "pidgin": "embarrass",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "embarrass"
+    ]
+  },
+  {
+    "english": "exagerate",
+    "pidgin": "exaggerate",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "exaggerate"
+    ]
+  },
+  {
+    "english": "experiance",
+    "pidgin": "experience",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "experience"
+    ]
+  },
+  {
+    "english": "explenation",
+    "pidgin": "explanation",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "explanation"
+    ]
+  },
+  {
+    "english": "expres",
+    "pidgin": "express",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "express"
+    ]
+  },
+  {
+    "english": "extravagent",
+    "pidgin": "extravagant",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "extravagant"
+    ]
+  },
+  {
+    "english": "facinating",
+    "pidgin": "fascinating",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "fascinating"
+    ]
+  },
+  {
+    "english": "feirce",
+    "pidgin": "fierce",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "fierce"
+    ]
+  },
+  {
+    "english": "fourty",
+    "pidgin": "forty",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "forty"
+    ]
+  },
+  {
+    "english": "frequecy",
+    "pidgin": "frequency",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "frequency"
+    ]
+  },
+  {
+    "english": "fullfil",
+    "pidgin": "fulfill",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "fulfill"
+    ]
+  },
+  {
+    "english": "garantee",
+    "pidgin": "guarantee",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "guarantee"
+    ]
+  },
+  {
+    "english": "guidence",
+    "pidgin": "guidance",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "guidance"
+    ]
+  },
+  {
+    "english": "happyness",
+    "pidgin": "happiness",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "happiness"
+    ]
+  },
+  {
+    "english": "harrasment",
+    "pidgin": "harassment",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "harassment"
+    ]
+  },
+  {
+    "english": "heighth",
+    "pidgin": "height",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "height"
+    ]
+  },
+  {
+    "english": "humerous",
+    "pidgin": "humorous",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "humorous"
+    ]
+  },
+  {
+    "english": "hypocracy",
+    "pidgin": "hypocrisy",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "hypocrisy"
+    ]
+  },
+  {
+    "english": "idependence",
+    "pidgin": "independence",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "independence"
+    ]
+  },
+  {
+    "english": "imaginative",
+    "pidgin": "imaginative",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "imaginative"
+    ]
+  },
+  {
+    "english": "immedialy",
+    "pidgin": "immediately",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "immediately"
+    ]
+  },
+  {
+    "english": "importent",
+    "pidgin": "important",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "important"
+    ]
+  },
+  {
+    "english": "imposible",
+    "pidgin": "impossible",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "impossible"
+    ]
+  },
+  {
+    "english": "impovement",
+    "pidgin": "improvement",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "improvement"
+    ]
+  },
+  {
+    "english": "interupt",
+    "pidgin": "interrupt",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "interrupt"
+    ]
+  },
+  {
+    "english": "irregardless",
+    "pidgin": "regardless",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "regardless"
+    ]
+  },
+  {
+    "english": "jewelery",
+    "pidgin": "jewelry",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "jewelry"
+    ]
+  },
+  {
+    "english": "judgement",
+    "pidgin": "judgment",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "judgment"
+    ]
+  },
+  {
+    "english": "labratory",
+    "pidgin": "laboratory",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "laboratory"
+    ]
+  },
+  {
+    "english": "liesure",
+    "pidgin": "leisure",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "leisure"
+    ]
+  },
+  {
+    "english": "litrature",
+    "pidgin": "literature",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "literature"
+    ]
+  },
+  {
+    "english": "lonliness",
+    "pidgin": "loneliness",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "loneliness"
+    ]
+  },
+  {
+    "english": "manuever",
+    "pidgin": "maneuver",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "maneuver"
+    ]
+  },
+  {
+    "english": "mathamatics",
+    "pidgin": "mathematics",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "mathematics"
+    ]
+  },
+  {
+    "english": "measurment",
+    "pidgin": "measurement",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "measurement"
+    ]
+  },
+  {
+    "english": "mischevous",
+    "pidgin": "mischievous",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "mischievous"
+    ]
+  },
+  {
+    "english": "miscelaneous",
+    "pidgin": "miscellaneous",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "miscellaneous"
+    ]
+  },
+  {
+    "english": "negociate",
+    "pidgin": "negotiate",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "negotiate"
+    ]
+  },
+  {
+    "english": "nineth",
+    "pidgin": "ninth",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "ninth"
+    ]
+  },
+  {
+    "english": "noticable",
+    "pidgin": "noticeable",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "noticeable"
+    ]
+  },
+  {
+    "english": "nutritian",
+    "pidgin": "nutrition",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "nutrition"
+    ]
+  },
+  {
+    "english": "obstacel",
+    "pidgin": "obstacle",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "obstacle"
+    ]
+  },
+  {
+    "english": "occassionally",
+    "pidgin": "occasionally",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "occasionally"
+    ]
+  },
+  {
+    "english": "omision",
+    "pidgin": "omission",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "omission"
+    ]
+  },
+  {
+    "english": "oportunity",
+    "pidgin": "opportunity",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "opportunity"
+    ]
+  },
+  {
+    "english": "orignal",
+    "pidgin": "original",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "original"
+    ]
+  },
+  {
+    "english": "outragous",
+    "pidgin": "outrageous",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "outrageous"
+    ]
+  },
+  {
+    "english": "parrallel",
+    "pidgin": "parallel",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "parallel"
+    ]
+  },
+  {
+    "english": "pastime",
+    "pidgin": "pastime",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "pastime"
+    ]
+  },
+  {
+    "english": "paticular",
+    "pidgin": "particular",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "particular"
+    ]
+  },
+  {
+    "english": "peice",
+    "pidgin": "piece",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "piece"
+    ]
+  },
+  {
+    "english": "percieve",
+    "pidgin": "perceive",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "perceive"
+    ]
+  },
+  {
+    "english": "perifery",
+    "pidgin": "periphery",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "periphery"
+    ]
+  },
+  {
+    "english": "permenant",
+    "pidgin": "permanent",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "permanent"
+    ]
+  },
+  {
+    "english": "perseverence",
+    "pidgin": "perseverance",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "perseverance"
+    ]
+  },
+  {
+    "english": "phenominal",
+    "pidgin": "phenomenal",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "phenomenal"
+    ]
+  },
+  {
+    "english": "pnemonia",
+    "pidgin": "pneumonia",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "pneumonia"
+    ]
+  },
+  {
+    "english": "politican",
+    "pidgin": "politician",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "politician"
+    ]
+  },
+  {
+    "english": "portugese",
+    "pidgin": "Portuguese",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "Portuguese"
+    ]
+  },
+  {
+    "english": "powerfull",
+    "pidgin": "powerful",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "powerful"
+    ]
+  },
+  {
+    "english": "preceed",
+    "pidgin": "precede",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "precede"
+    ]
+  },
+  {
+    "english": "prefered",
+    "pidgin": "preferred",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "preferred"
+    ]
+  },
+  {
+    "english": "prejudise",
+    "pidgin": "prejudice",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "prejudice"
+    ]
+  },
+  {
+    "english": "presance",
+    "pidgin": "presence",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "presence"
+    ]
+  },
+  {
+    "english": "privelege",
+    "pidgin": "privilege",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "privilege"
+    ]
+  },
+  {
+    "english": "probaly",
+    "pidgin": "probably",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "probably"
+    ]
+  },
+  {
+    "english": "prominant",
+    "pidgin": "prominent",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "prominent"
+    ]
+  },
+  {
+    "english": "propoganda",
+    "pidgin": "propaganda",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "propaganda"
+    ]
+  },
+  {
+    "english": "psycology",
+    "pidgin": "psychology",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "psychology"
+    ]
+  },
+  {
+    "english": "publically",
+    "pidgin": "publicly",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "publicly"
+    ]
+  },
+  {
+    "english": "purposly",
+    "pidgin": "purposely",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "purposely"
+    ]
+  },
+  {
+    "english": "pyschiatry",
+    "pidgin": "psychiatry",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "psychiatry"
+    ]
+  },
+  {
+    "english": "quaility",
+    "pidgin": "quality",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "quality"
+    ]
+  },
+  {
+    "english": "quarentine",
+    "pidgin": "quarantine",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "quarantine"
+    ]
+  },
+  {
+    "english": "questionaire",
+    "pidgin": "questionnaire",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "questionnaire"
+    ]
+  },
+  {
+    "english": "rationle",
+    "pidgin": "rationale",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "rationale"
+    ]
+  },
+  {
+    "english": "realise",
+    "pidgin": "realize",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "realize"
+    ]
+  },
+  {
+    "english": "reccomend",
+    "pidgin": "recommend",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "recommend"
+    ]
+  },
+  {
+    "english": "rehersal",
+    "pidgin": "rehearsal",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "rehearsal"
+    ]
+  },
+  {
+    "english": "relavant",
+    "pidgin": "relevant",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "relevant"
+    ]
+  },
+  {
+    "english": "religous",
+    "pidgin": "religious",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "religious"
+    ]
+  },
+  {
+    "english": "restaraunt",
+    "pidgin": "restaurant",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "restaurant"
+    ]
+  },
+  {
+    "english": "reverant",
+    "pidgin": "reverent",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "reverent"
+    ]
+  },
+  {
+    "english": "ridiculus",
+    "pidgin": "ridiculous",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "ridiculous"
+    ]
+  },
+  {
+    "english": "sacrilegious",
+    "pidgin": "sacrilegious",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "sacrilegious"
+    ]
+  },
+  {
+    "english": "saisfied",
+    "pidgin": "satisfied",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "satisfied"
+    ]
+  },
+  {
+    "english": "scholership",
+    "pidgin": "scholarship",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "scholarship"
+    ]
+  },
+  {
+    "english": "sceince",
+    "pidgin": "science",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "science"
+    ]
+  },
+  {
+    "english": "seasonel",
+    "pidgin": "seasonal",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "seasonal"
+    ]
+  },
+  {
+    "english": "secretery",
+    "pidgin": "secretary",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "secretary"
+    ]
+  },
+  {
+    "english": "sentance",
+    "pidgin": "sentence",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "sentence"
+    ]
+  },
+  {
+    "english": "shining",
+    "pidgin": "shining",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "shining"
+    ]
+  },
+  {
+    "english": "signifigant",
+    "pidgin": "significant",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "significant"
+    ]
+  },
+  {
+    "english": "sieze",
+    "pidgin": "seize",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "seize"
+    ]
+  },
+  {
+    "english": "sinceerly",
+    "pidgin": "sincerely",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "sincerely"
+    ]
+  },
+  {
+    "english": "sophistocated",
+    "pidgin": "sophisticated",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "sophisticated"
+    ]
+  },
+  {
+    "english": "specificaly",
+    "pidgin": "specifically",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "specifically"
+    ]
+  },
+  {
+    "english": "studing",
+    "pidgin": "studying",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "studying"
+    ]
+  },
+  {
+    "english": "subconcious",
+    "pidgin": "subconscious",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "subconscious"
+    ]
+  },
+  {
+    "english": "suffocait",
+    "pidgin": "suffocate",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "suffocate"
+    ]
+  },
+  {
+    "english": "suitible",
+    "pidgin": "suitable",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "suitable"
+    ]
+  },
+  {
+    "english": "supercede",
+    "pidgin": "supersede",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "supersede"
+    ]
+  },
+  {
+    "english": "symtom",
+    "pidgin": "symptom",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "symptom"
+    ]
+  },
+  {
+    "english": "temperture",
+    "pidgin": "temperature",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "temperature"
+    ]
+  },
+  {
+    "english": "tendencey",
+    "pidgin": "tendency",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "tendency"
+    ]
+  },
+  {
+    "english": "terrifyed",
+    "pidgin": "terrified",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "terrified"
+    ]
+  },
+  {
+    "english": "timeing",
+    "pidgin": "timing",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "timing"
+    ]
+  },
+  {
+    "english": "tirany",
+    "pidgin": "tyranny",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "tyranny"
+    ]
+  },
+  {
+    "english": "tradgedy",
+    "pidgin": "tragedy",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "tragedy"
+    ]
+  },
+  {
+    "english": "transfered",
+    "pidgin": "transferred",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "transferred"
+    ]
+  },
+  {
+    "english": "twelvth",
+    "pidgin": "twelfth",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "twelfth"
+    ]
+  },
+  {
+    "english": "umpteen",
+    "pidgin": "umpteen",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "umpteen"
+    ]
+  },
+  {
+    "english": "unanimus",
+    "pidgin": "unanimous",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "unanimous"
+    ]
+  },
+  {
+    "english": "uncertainity",
+    "pidgin": "uncertainty",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "uncertainty"
+    ]
+  },
+  {
+    "english": "underate",
+    "pidgin": "underrate",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "underrate"
+    ]
+  },
+  {
+    "english": "unnecesary",
+    "pidgin": "unnecessary",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "unnecessary"
+    ]
+  },
+  {
+    "english": "uproarious",
+    "pidgin": "uproarious",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "uproarious"
+    ]
+  },
+  {
+    "english": "usally",
+    "pidgin": "usually",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "usually"
+    ]
+  },
+  {
+    "english": "utterely",
+    "pidgin": "utterly",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "utterly"
+    ]
+  },
+  {
+    "english": "vaguley",
+    "pidgin": "vaguely",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "vaguely"
+    ]
+  },
+  {
+    "english": "valuble",
+    "pidgin": "valuable",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "valuable"
+    ]
+  },
+  {
+    "english": "varieity",
+    "pidgin": "variety",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "variety"
+    ]
+  },
+  {
+    "english": "vegatables",
+    "pidgin": "vegetables",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "vegetables"
+    ]
+  },
+  {
+    "english": "vehical",
+    "pidgin": "vehicle",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "vehicle"
+    ]
+  },
+  {
+    "english": "vengence",
+    "pidgin": "vengeance",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "vengeance"
+    ]
+  },
+  {
+    "english": "veterinerian",
+    "pidgin": "veterinarian",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "veterinarian"
+    ]
+  },
+  {
+    "english": "visibilty",
+    "pidgin": "visibility",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "visibility"
+    ]
+  },
+  {
+    "english": "volunteear",
+    "pidgin": "volunteer",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "volunteer"
+    ]
+  },
+  {
+    "english": "warnning",
+    "pidgin": "warning",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "warning"
+    ]
+  },
+  {
+    "english": "warantee",
+    "pidgin": "warranty",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "warranty"
+    ]
+  },
+  {
+    "english": "weaknes",
+    "pidgin": "weakness",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "weakness"
+    ]
+  },
+  {
+    "english": "wellcome",
+    "pidgin": "welcome",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "welcome"
+    ]
+  },
+  {
+    "english": "wether",
+    "pidgin": "weather",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "weather"
+    ]
+  },
+  {
+    "english": "worryed",
+    "pidgin": "worried",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "worried"
+    ]
+  },
+  {
+    "english": "wreckless",
+    "pidgin": "reckless",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "reckless"
+    ]
+  },
+  {
+    "english": "absolutly",
+    "pidgin": "absolutely",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "absolutely"
+    ]
+  },
+  {
+    "english": "acess",
+    "pidgin": "access",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "access"
+    ]
+  },
+  {
+    "english": "acomodate",
+    "pidgin": "accommodate",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "accommodate"
+    ]
+  },
+  {
+    "english": "acuracy",
+    "pidgin": "accuracy",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "accuracy"
+    ]
+  },
+  {
+    "english": "adress",
+    "pidgin": "address",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "address"
+    ]
+  },
+  {
+    "english": "advertize",
+    "pidgin": "advertise",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "advertise"
+    ]
+  },
+  {
+    "english": "agressive",
+    "pidgin": "aggressive",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "aggressive"
+    ]
+  },
+  {
+    "english": "agrement",
+    "pidgin": "agreement",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "agreement"
+    ]
+  },
+  {
+    "english": "allmost",
+    "pidgin": "almost",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "almost"
+    ]
+  },
+  {
+    "english": "alot",
+    "pidgin": "a lot",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "a lot"
+    ]
+  },
+  {
+    "english": "alright",
+    "pidgin": "all right",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "all right"
+    ]
+  },
+  {
+    "english": "altho",
+    "pidgin": "although",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "although"
+    ]
+  },
+  {
+    "english": "amature",
+    "pidgin": "amateur",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "amateur"
+    ]
+  },
+  {
+    "english": "ammount",
+    "pidgin": "amount",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "amount"
+    ]
+  },
+  {
+    "english": "analize",
+    "pidgin": "analyze",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "analyze"
+    ]
+  },
+  {
+    "english": "anual",
+    "pidgin": "annual",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "annual"
+    ]
+  },
+  {
+    "english": "aparent",
+    "pidgin": "apparent",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "apparent"
+    ]
+  },
+  {
+    "english": "apear",
+    "pidgin": "appear",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "appear"
+    ]
+  },
+  {
+    "english": "appologize",
+    "pidgin": "apologize",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "apologize"
+    ]
+  },
+  {
+    "english": "apropriate",
+    "pidgin": "appropriate",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "appropriate"
+    ]
+  },
+  {
+    "english": "aproval",
+    "pidgin": "approval",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "approval"
+    ]
+  },
+  {
+    "english": "aproximately",
+    "pidgin": "approximately",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "approximately"
+    ]
+  },
+  {
+    "english": "archetecture",
+    "pidgin": "architecture",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "architecture"
+    ]
+  },
+  {
+    "english": "artical",
+    "pidgin": "article",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "article"
+    ]
+  },
+  {
+    "english": "asign",
+    "pidgin": "assign",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "assign"
+    ]
+  },
+  {
+    "english": "atend",
+    "pidgin": "attend",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "attend"
+    ]
+  },
+  {
+    "english": "atleast",
+    "pidgin": "at least",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "at least"
+    ]
+  },
+  {
+    "english": "attatchment",
+    "pidgin": "attachment",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "attachment"
+    ]
+  },
+  {
+    "english": "atribute",
+    "pidgin": "attribute",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "attribute"
+    ]
+  },
+  {
+    "english": "audiance",
+    "pidgin": "audience",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "audience"
+    ]
+  },
+  {
+    "english": "authourity",
+    "pidgin": "authority",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "authority"
+    ]
+  },
+  {
+    "english": "availible",
+    "pidgin": "available",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "available"
+    ]
+  },
+  {
+    "english": "aweful",
+    "pidgin": "awful",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "awful"
+    ]
+  },
+  {
+    "english": "ballance",
+    "pidgin": "balance",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "balance"
+    ]
+  },
+  {
+    "english": "bannana",
+    "pidgin": "banana",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "banana"
+    ]
+  },
+  {
+    "english": "basicaly",
+    "pidgin": "basically",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "basically"
+    ]
+  },
+  {
+    "english": "becaming",
+    "pidgin": "becoming",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "becoming"
+    ]
+  },
+  {
+    "english": "bordom",
+    "pidgin": "boredom",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "boredom"
+    ]
+  },
+  {
+    "english": "boundry",
+    "pidgin": "boundary",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "boundary"
+    ]
+  },
+  {
+    "english": "brocolli",
+    "pidgin": "broccoli",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "broccoli"
+    ]
+  },
+  {
+    "english": "buisness",
+    "pidgin": "business",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "business"
+    ]
+  },
+  {
+    "english": "catagory",
+    "pidgin": "category",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "category"
+    ]
+  },
+  {
+    "english": "celebrety",
+    "pidgin": "celebrity",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "celebrity"
+    ]
+  },
+  {
+    "english": "chalenging",
+    "pidgin": "challenging",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "challenging"
+    ]
+  },
+  {
+    "english": "charachter",
+    "pidgin": "character",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "character"
+    ]
+  },
+  {
+    "english": "cheif",
+    "pidgin": "chief",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "chief"
+    ]
+  },
+  {
+    "english": "choosen",
+    "pidgin": "chosen",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "chosen"
+    ]
+  },
+  {
+    "english": "cieling",
+    "pidgin": "ceiling",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "ceiling"
+    ]
+  },
+  {
+    "english": "colegue",
+    "pidgin": "colleague",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "colleague"
+    ]
+  },
+  {
+    "english": "comunity",
+    "pidgin": "community",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "community"
+    ]
+  },
+  {
+    "english": "concieve",
+    "pidgin": "conceive",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "conceive"
+    ]
+  },
+  {
+    "english": "convinient",
+    "pidgin": "convenient",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "convenient"
+    ]
+  },
+  {
+    "english": "corupt",
+    "pidgin": "corrupt",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "corrupt"
+    ]
+  },
+  {
+    "english": "crissis",
+    "pidgin": "crisis",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "crisis"
+    ]
+  },
+  {
+    "english": "curiousity",
+    "pidgin": "curiosity",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "curiosity"
+    ]
+  },
+  {
+    "english": "custumer",
+    "pidgin": "customer",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "customer"
+    ]
+  },
+  {
+    "english": "decisoin",
+    "pidgin": "decision",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "decision"
+    ]
+  },
+  {
+    "english": "decsion",
+    "pidgin": "decision",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "decision"
+    ]
+  },
+  {
+    "english": "deffinitely",
+    "pidgin": "definitely",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "definitely"
+    ]
+  },
+  {
+    "english": "delibrate",
+    "pidgin": "deliberate",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "deliberate"
+    ]
+  },
+  {
+    "english": "demolision",
+    "pidgin": "demolition",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "demolition"
+    ]
+  },
+  {
+    "english": "dependance",
+    "pidgin": "dependence",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "dependence"
+    ]
+  },
+  {
+    "english": "depedent",
+    "pidgin": "dependent",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "dependent"
+    ]
+  },
+  {
+    "english": "desparate",
+    "pidgin": "desperate",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "desperate"
+    ]
+  },
+  {
+    "english": "desscription",
+    "pidgin": "description",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "description"
+    ]
+  },
+  {
+    "english": "diference",
+    "pidgin": "difference",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "difference"
+    ]
+  },
+  {
+    "english": "dilema",
+    "pidgin": "dilemma",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "dilemma"
+    ]
+  },
+  {
+    "english": "disapoint",
+    "pidgin": "disappoint",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "disappoint"
+    ]
+  },
+  {
+    "english": "discription",
+    "pidgin": "description",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "description"
+    ]
+  },
+  {
+    "english": "dispair",
+    "pidgin": "despair",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "despair"
+    ]
+  },
+  {
+    "english": "distinquish",
+    "pidgin": "distinguish",
+    "error_type": "SPELLING",
+    "suggestions": [
+      "distinguish"
+    ]
+  },
+  {
+    "english": "I am going",
+    "pidgin": "I de go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de go"
+    ]
+  },
+  {
+    "english": "I am eating",
+    "pidgin": "I de chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de chop"
+    ]
+  },
+  {
+    "english": "I am working",
+    "pidgin": "I de wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de wok"
+    ]
+  },
+  {
+    "english": "I am sleeping",
+    "pidgin": "I de slip",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de slip"
+    ]
+  },
+  {
+    "english": "I am running",
+    "pidgin": "I de ron",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de ron"
+    ]
+  },
+  {
+    "english": "I am coming",
+    "pidgin": "I de kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de kam"
+    ]
+  },
+  {
+    "english": "I am talking",
+    "pidgin": "I de tok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de tok"
+    ]
+  },
+  {
+    "english": "I am drinking",
+    "pidgin": "I de drink",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de drink"
+    ]
+  },
+  {
+    "english": "I am reading",
+    "pidgin": "I de rid",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de rid"
+    ]
+  },
+  {
+    "english": "I am writing",
+    "pidgin": "I de rait",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de rait"
+    ]
+  },
+  {
+    "english": "I am playing",
+    "pidgin": "I de ple",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de ple"
+    ]
+  },
+  {
+    "english": "I am cooking",
+    "pidgin": "I de kuk",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de kuk"
+    ]
+  },
+  {
+    "english": "I am singing",
+    "pidgin": "I de sing",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de sing"
+    ]
+  },
+  {
+    "english": "I am dancing",
+    "pidgin": "I de dans",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de dans"
+    ]
+  },
+  {
+    "english": "I am crying",
+    "pidgin": "I de krai",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de krai"
+    ]
+  },
+  {
+    "english": "I am laughing",
+    "pidgin": "I de laf",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de laf"
+    ]
+  },
+  {
+    "english": "I am fighting",
+    "pidgin": "I de fait",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de fait"
+    ]
+  },
+  {
+    "english": "I am walking",
+    "pidgin": "I de waka",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de waka"
+    ]
+  },
+  {
+    "english": "I am waiting",
+    "pidgin": "I de wet",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de wet"
+    ]
+  },
+  {
+    "english": "I am helping",
+    "pidgin": "I de help",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de help"
+    ]
+  },
+  {
+    "english": "he is going",
+    "pidgin": "i de go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i de go"
+    ]
+  },
+  {
+    "english": "she is going",
+    "pidgin": "i de go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i de go"
+    ]
+  },
+  {
+    "english": "he is eating",
+    "pidgin": "i de chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i de chop"
+    ]
+  },
+  {
+    "english": "she is eating",
+    "pidgin": "i de chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i de chop"
+    ]
+  },
+  {
+    "english": "he is working",
+    "pidgin": "i de wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i de wok"
+    ]
+  },
+  {
+    "english": "she is sleeping",
+    "pidgin": "i de slip",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i de slip"
+    ]
+  },
+  {
+    "english": "he is running",
+    "pidgin": "i de ron",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i de ron"
+    ]
+  },
+  {
+    "english": "she is coming",
+    "pidgin": "i de kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i de kam"
+    ]
+  },
+  {
+    "english": "he is talking",
+    "pidgin": "i de tok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i de tok"
+    ]
+  },
+  {
+    "english": "she is drinking",
+    "pidgin": "i de drink",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i de drink"
+    ]
+  },
+  {
+    "english": "they are going",
+    "pidgin": "dem de go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem de go"
+    ]
+  },
+  {
+    "english": "they are eating",
+    "pidgin": "dem de chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem de chop"
+    ]
+  },
+  {
+    "english": "they are working",
+    "pidgin": "dem de wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem de wok"
+    ]
+  },
+  {
+    "english": "they are sleeping",
+    "pidgin": "dem de slip",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem de slip"
+    ]
+  },
+  {
+    "english": "they are running",
+    "pidgin": "dem de ron",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem de ron"
+    ]
+  },
+  {
+    "english": "they are coming",
+    "pidgin": "dem de kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem de kam"
+    ]
+  },
+  {
+    "english": "they are talking",
+    "pidgin": "dem de tok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem de tok"
+    ]
+  },
+  {
+    "english": "they are drinking",
+    "pidgin": "dem de drink",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem de drink"
+    ]
+  },
+  {
+    "english": "we are going",
+    "pidgin": "wi de go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi de go"
+    ]
+  },
+  {
+    "english": "we are eating",
+    "pidgin": "wi de chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi de chop"
+    ]
+  },
+  {
+    "english": "we are working",
+    "pidgin": "wi de wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi de wok"
+    ]
+  },
+  {
+    "english": "we are sleeping",
+    "pidgin": "wi de slip",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi de slip"
+    ]
+  },
+  {
+    "english": "we are running",
+    "pidgin": "wi de ron",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi de ron"
+    ]
+  },
+  {
+    "english": "we are coming",
+    "pidgin": "wi de kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi de kam"
+    ]
+  },
+  {
+    "english": "we are talking",
+    "pidgin": "wi de tok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi de tok"
+    ]
+  },
+  {
+    "english": "you are going",
+    "pidgin": "yu de go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "yu de go"
+    ]
+  },
+  {
+    "english": "you are eating",
+    "pidgin": "yu de chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "yu de chop"
+    ]
+  },
+  {
+    "english": "you are working",
+    "pidgin": "yu de wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "yu de wok"
+    ]
+  },
+  {
+    "english": "I have eaten",
+    "pidgin": "I don chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I don chop"
+    ]
+  },
+  {
+    "english": "I have gone",
+    "pidgin": "I don go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I don go"
+    ]
+  },
+  {
+    "english": "I have done it",
+    "pidgin": "I don du am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I don du am"
+    ]
+  },
+  {
+    "english": "I have finished",
+    "pidgin": "I don finish",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I don finish"
+    ]
+  },
+  {
+    "english": "I have seen it",
+    "pidgin": "I don si am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I don si am"
+    ]
+  },
+  {
+    "english": "I have heard",
+    "pidgin": "I don hia",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I don hia"
+    ]
+  },
+  {
+    "english": "I have slept",
+    "pidgin": "I don slip",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I don slip"
+    ]
+  },
+  {
+    "english": "he has eaten",
+    "pidgin": "i don chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i don chop"
+    ]
+  },
+  {
+    "english": "she has gone",
+    "pidgin": "i don go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i don go"
+    ]
+  },
+  {
+    "english": "they have eaten",
+    "pidgin": "dem don chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem don chop"
+    ]
+  },
+  {
+    "english": "we have finished",
+    "pidgin": "wi don finish",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi don finish"
+    ]
+  },
+  {
+    "english": "you have done it",
+    "pidgin": "yu don du am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "yu don du am"
+    ]
+  },
+  {
+    "english": "I will go",
+    "pidgin": "I go go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I go go"
+    ]
+  },
+  {
+    "english": "I will eat",
+    "pidgin": "I go chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I go chop"
+    ]
+  },
+  {
+    "english": "I will come",
+    "pidgin": "I go kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I go kam"
+    ]
+  },
+  {
+    "english": "I will work",
+    "pidgin": "I go wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I go wok"
+    ]
+  },
+  {
+    "english": "I will sleep",
+    "pidgin": "I go slip",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I go slip"
+    ]
+  },
+  {
+    "english": "I will talk",
+    "pidgin": "I go tok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I go tok"
+    ]
+  },
+  {
+    "english": "I will help",
+    "pidgin": "I go help",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I go help"
+    ]
+  },
+  {
+    "english": "he will go",
+    "pidgin": "i go go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i go go"
+    ]
+  },
+  {
+    "english": "she will eat",
+    "pidgin": "i go chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i go chop"
+    ]
+  },
+  {
+    "english": "they will come",
+    "pidgin": "dem go kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem go kam"
+    ]
+  },
+  {
+    "english": "we will work",
+    "pidgin": "wi go wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi go wok"
+    ]
+  },
+  {
+    "english": "you will see",
+    "pidgin": "yu go si",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "yu go si"
+    ]
+  },
+  {
+    "english": "I went",
+    "pidgin": "I bin go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I bin go"
+    ]
+  },
+  {
+    "english": "I ate",
+    "pidgin": "I bin chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I bin chop"
+    ]
+  },
+  {
+    "english": "I slept",
+    "pidgin": "I bin slip",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I bin slip"
+    ]
+  },
+  {
+    "english": "I saw it",
+    "pidgin": "I bin si am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I bin si am"
+    ]
+  },
+  {
+    "english": "I worked",
+    "pidgin": "I bin wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I bin wok"
+    ]
+  },
+  {
+    "english": "I talked",
+    "pidgin": "I bin tok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I bin tok"
+    ]
+  },
+  {
+    "english": "I came",
+    "pidgin": "I bin kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I bin kam"
+    ]
+  },
+  {
+    "english": "he went",
+    "pidgin": "i bin go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i bin go"
+    ]
+  },
+  {
+    "english": "she ate",
+    "pidgin": "i bin chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i bin chop"
+    ]
+  },
+  {
+    "english": "they went",
+    "pidgin": "dem bin go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem bin go"
+    ]
+  },
+  {
+    "english": "we worked",
+    "pidgin": "wi bin wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi bin wok"
+    ]
+  },
+  {
+    "english": "I do not know",
+    "pidgin": "I no sabi",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I no sabi"
+    ]
+  },
+  {
+    "english": "I do not want",
+    "pidgin": "I no want",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I no want"
+    ]
+  },
+  {
+    "english": "I do not have",
+    "pidgin": "I no get",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I no get"
+    ]
+  },
+  {
+    "english": "I don't know",
+    "pidgin": "I no sabi",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I no sabi"
+    ]
+  },
+  {
+    "english": "I don't want",
+    "pidgin": "I no want",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I no want"
+    ]
+  },
+  {
+    "english": "I don't have it",
+    "pidgin": "I no get am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I no get am"
+    ]
+  },
+  {
+    "english": "I don't like it",
+    "pidgin": "I no like am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I no like am"
+    ]
+  },
+  {
+    "english": "he does not know",
+    "pidgin": "i no sabi",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i no sabi"
+    ]
+  },
+  {
+    "english": "she does not want",
+    "pidgin": "i no want",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i no want"
+    ]
+  },
+  {
+    "english": "they do not have",
+    "pidgin": "dem no get",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem no get"
+    ]
+  },
+  {
+    "english": "we do not know",
+    "pidgin": "wi no sabi",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi no sabi"
+    ]
+  },
+  {
+    "english": "you do not understand",
+    "pidgin": "yu no sabi",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "yu no sabi"
+    ]
+  },
+  {
+    "english": "I cannot go",
+    "pidgin": "I no fit go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I no fit go"
+    ]
+  },
+  {
+    "english": "I cannot do it",
+    "pidgin": "I no fit du am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I no fit du am"
+    ]
+  },
+  {
+    "english": "I cannot eat",
+    "pidgin": "I no fit chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I no fit chop"
+    ]
+  },
+  {
+    "english": "he cannot come",
+    "pidgin": "i no fit kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i no fit kam"
+    ]
+  },
+  {
+    "english": "they cannot work",
+    "pidgin": "dem no fit wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem no fit wok"
+    ]
+  },
+  {
+    "english": "I did not go",
+    "pidgin": "I neba go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I neba go"
+    ]
+  },
+  {
+    "english": "I did not eat",
+    "pidgin": "I neba chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I neba chop"
+    ]
+  },
+  {
+    "english": "he did not come",
+    "pidgin": "i neba kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i neba kam"
+    ]
+  },
+  {
+    "english": "they did not finish",
+    "pidgin": "dem neba finish",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem neba finish"
+    ]
+  },
+  {
+    "english": "I should go",
+    "pidgin": "I masta go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I masta go"
+    ]
+  },
+  {
+    "english": "I must work",
+    "pidgin": "I masta wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I masta wok"
+    ]
+  },
+  {
+    "english": "I have to eat",
+    "pidgin": "I get fo chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I get fo chop"
+    ]
+  },
+  {
+    "english": "I need to go",
+    "pidgin": "I get fo go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I get fo go"
+    ]
+  },
+  {
+    "english": "I want to eat",
+    "pidgin": "I wan chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I wan chop"
+    ]
+  },
+  {
+    "english": "I want to go",
+    "pidgin": "I wan go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I wan go"
+    ]
+  },
+  {
+    "english": "I want to sleep",
+    "pidgin": "I wan slip",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I wan slip"
+    ]
+  },
+  {
+    "english": "he wants to eat",
+    "pidgin": "i wan chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i wan chop"
+    ]
+  },
+  {
+    "english": "she wants to go",
+    "pidgin": "i wan go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i wan go"
+    ]
+  },
+  {
+    "english": "they want to work",
+    "pidgin": "dem wan wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem wan wok"
+    ]
+  },
+  {
+    "english": "I can do it",
+    "pidgin": "I fit du am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I fit du am"
+    ]
+  },
+  {
+    "english": "I can go",
+    "pidgin": "I fit go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I fit go"
+    ]
+  },
+  {
+    "english": "I can eat",
+    "pidgin": "I fit chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I fit chop"
+    ]
+  },
+  {
+    "english": "he can run",
+    "pidgin": "i fit ron",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i fit ron"
+    ]
+  },
+  {
+    "english": "they can come",
+    "pidgin": "dem fit kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem fit kam"
+    ]
+  },
+  {
+    "english": "the men",
+    "pidgin": "di man dem",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di man dem"
+    ]
+  },
+  {
+    "english": "the women",
+    "pidgin": "di wuman dem",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di wuman dem"
+    ]
+  },
+  {
+    "english": "the children",
+    "pidgin": "di pikin dem",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di pikin dem"
+    ]
+  },
+  {
+    "english": "the boys",
+    "pidgin": "di man pikin dem",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di man pikin dem"
+    ]
+  },
+  {
+    "english": "the girls",
+    "pidgin": "di wuman pikin dem",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di wuman pikin dem"
+    ]
+  },
+  {
+    "english": "the teachers",
+    "pidgin": "di tisha dem",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di tisha dem"
+    ]
+  },
+  {
+    "english": "the workers",
+    "pidgin": "di woka dem",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di woka dem"
+    ]
+  },
+  {
+    "english": "give me the book",
+    "pidgin": "giv mi di buk",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "giv mi di buk"
+    ]
+  },
+  {
+    "english": "he gave me money",
+    "pidgin": "i giv mi moni",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i giv mi moni"
+    ]
+  },
+  {
+    "english": "she gave him food",
+    "pidgin": "i giv am chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i giv am chop"
+    ]
+  },
+  {
+    "english": "this is my house",
+    "pidgin": "dis na ma haus",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dis na ma haus"
+    ]
+  },
+  {
+    "english": "that is his car",
+    "pidgin": "dat na i ka",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dat na i ka"
+    ]
+  },
+  {
+    "english": "it is her bag",
+    "pidgin": "na i bag dat",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "na i bag dat"
+    ]
+  },
+  {
+    "english": "the house is big",
+    "pidgin": "di haus big",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di haus big"
+    ]
+  },
+  {
+    "english": "the food is good",
+    "pidgin": "di chop gud",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di chop gud"
+    ]
+  },
+  {
+    "english": "this man is tall",
+    "pidgin": "dis man tol",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dis man tol"
+    ]
+  },
+  {
+    "english": "where are you going",
+    "pidgin": "wia yu de go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wia yu de go"
+    ]
+  },
+  {
+    "english": "where did you go",
+    "pidgin": "wia yu go bin go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wia yu go bin go"
+    ]
+  },
+  {
+    "english": "what are you doing",
+    "pidgin": "wetin yu de du",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wetin yu de du"
+    ]
+  },
+  {
+    "english": "what do you want",
+    "pidgin": "wetin yu want",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wetin yu want"
+    ]
+  },
+  {
+    "english": "why are you crying",
+    "pidgin": "waifoh yu de krai",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "waifoh yu de krai"
+    ]
+  },
+  {
+    "english": "who is that man",
+    "pidgin": "hu bi dat man",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "hu bi dat man"
+    ]
+  },
+  {
+    "english": "how are you",
+    "pidgin": "hau yu de",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "hau yu de"
+    ]
+  },
+  {
+    "english": "how much is it",
+    "pidgin": "hau much i bi",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "hau much i bi"
+    ]
+  },
+  {
+    "english": "when will you come",
+    "pidgin": "wen yu go kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wen yu go kam"
+    ]
+  },
+  {
+    "english": "if you go I will follow",
+    "pidgin": "if yu go, I go folow",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "if yu go, I go folow"
+    ]
+  },
+  {
+    "english": "if he comes tell me",
+    "pidgin": "if i kam, tel mi",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "if i kam, tel mi"
+    ]
+  },
+  {
+    "english": "because I am sick",
+    "pidgin": "bikos I sik",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "bikos I sik"
+    ]
+  },
+  {
+    "english": "although I tried",
+    "pidgin": "evendo I bin try",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "evendo I bin try"
+    ]
+  },
+  {
+    "english": "he told me that he was coming",
+    "pidgin": "i tel mi sey i de kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i tel mi sey i de kam"
+    ]
+  },
+  {
+    "english": "I think that she is right",
+    "pidgin": "I tink sey i raiti",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I tink sey i raiti"
+    ]
+  },
+  {
+    "english": "I know that you are tired",
+    "pidgin": "I sabi sey yu don tire",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I sabi sey yu don tire"
+    ]
+  },
+  {
+    "english": "the boy who came",
+    "pidgin": "di pikin whe bin kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di pikin whe bin kam"
+    ]
+  },
+  {
+    "english": "the woman who is cooking",
+    "pidgin": "di wuman whe de kuk",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di wuman whe de kuk"
+    ]
+  },
+  {
+    "english": "the house that I built",
+    "pidgin": "di haus whe I bin bil",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di haus whe I bin bil"
+    ]
+  },
+  {
+    "english": "bigger than him",
+    "pidgin": "big pas am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "big pas am"
+    ]
+  },
+  {
+    "english": "faster than her",
+    "pidgin": "fas pas am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "fas pas am"
+    ]
+  },
+  {
+    "english": "better than them",
+    "pidgin": "gud pas dem",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "gud pas dem"
+    ]
+  },
+  {
+    "english": "the biggest one",
+    "pidgin": "di wan whe big pas ol",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di wan whe big pas ol"
+    ]
+  },
+  {
+    "english": "the best food",
+    "pidgin": "di chop whe gud pas ol",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di chop whe gud pas ol"
+    ]
+  },
+  {
+    "english": "let us go",
+    "pidgin": "mek wi go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "mek wi go"
+    ]
+  },
+  {
+    "english": "let him eat",
+    "pidgin": "mek i chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "mek i chop"
+    ]
+  },
+  {
+    "english": "let them work",
+    "pidgin": "mek dem wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "mek dem wok"
+    ]
+  },
+  {
+    "english": "make him stop",
+    "pidgin": "mek i stop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "mek i stop"
+    ]
+  },
+  {
+    "english": "make them come",
+    "pidgin": "mek dem kam",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "mek dem kam"
+    ]
+  },
+  {
+    "english": "I was going",
+    "pidgin": "I bin de go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I bin de go"
+    ]
+  },
+  {
+    "english": "he was eating",
+    "pidgin": "i bin de chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i bin de chop"
+    ]
+  },
+  {
+    "english": "they were working",
+    "pidgin": "dem bin de wok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem bin de wok"
+    ]
+  },
+  {
+    "english": "we were sleeping",
+    "pidgin": "wi bin de slip",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wi bin de slip"
+    ]
+  },
+  {
+    "english": "I will be going",
+    "pidgin": "I go de go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I go de go"
+    ]
+  },
+  {
+    "english": "I used to go",
+    "pidgin": "I bin de go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I bin de go"
+    ]
+  },
+  {
+    "english": "I already ate",
+    "pidgin": "I don chop finish",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I don chop finish"
+    ]
+  },
+  {
+    "english": "I already went",
+    "pidgin": "I don go finish",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I don go finish"
+    ]
+  },
+  {
+    "english": "come and eat",
+    "pidgin": "kam chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "kam chop"
+    ]
+  },
+  {
+    "english": "go and sleep",
+    "pidgin": "go slip",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "go slip"
+    ]
+  },
+  {
+    "english": "sit down and rest",
+    "pidgin": "sidon, rest",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "sidon, rest"
+    ]
+  },
+  {
+    "english": "stand up and go",
+    "pidgin": "stand up, go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "stand up, go"
+    ]
+  },
+  {
+    "english": "I am also going",
+    "pidgin": "I de go tu",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I de go tu"
+    ]
+  },
+  {
+    "english": "he came too",
+    "pidgin": "i bin kam tu",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i bin kam tu"
+    ]
+  },
+  {
+    "english": "she did not come either",
+    "pidgin": "i neba kam tu",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i neba kam tu"
+    ]
+  },
+  {
+    "english": "not only me",
+    "pidgin": "na only mi",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "na only mi"
+    ]
+  },
+  {
+    "english": "only him",
+    "pidgin": "na only am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "na only am"
+    ]
+  },
+  {
+    "english": "I myself did it",
+    "pidgin": "Na mi own du am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "Na mi own du am"
+    ]
+  },
+  {
+    "english": "he himself said it",
+    "pidgin": "Na i own tok am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "Na i own tok am"
+    ]
+  },
+  {
+    "english": "this one is mine",
+    "pidgin": "dis wan na ma own",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dis wan na ma own"
+    ]
+  },
+  {
+    "english": "that one is yours",
+    "pidgin": "dat wan na yu own",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dat wan na yu own"
+    ]
+  },
+  {
+    "english": "his own is different",
+    "pidgin": "i own dif",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i own dif"
+    ]
+  },
+  {
+    "english": "the car belongs to him",
+    "pidgin": "di ka na i own",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di ka na i own"
+    ]
+  },
+  {
+    "english": "it is very good",
+    "pidgin": "i gud wel wel",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i gud wel wel"
+    ]
+  },
+  {
+    "english": "it is too much",
+    "pidgin": "i plenti wel",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i plenti wel"
+    ]
+  },
+  {
+    "english": "he is very tall",
+    "pidgin": "i tol wel wel",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i tol wel wel"
+    ]
+  },
+  {
+    "english": "she is very beautiful",
+    "pidgin": "i fine wel wel",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i fine wel wel"
+    ]
+  },
+  {
+    "english": "I am very tired",
+    "pidgin": "I tire wel wel",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I tire wel wel"
+    ]
+  },
+  {
+    "english": "go quickly",
+    "pidgin": "go fast fast",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "go fast fast"
+    ]
+  },
+  {
+    "english": "come slowly",
+    "pidgin": "kam smol smol",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "kam smol smol"
+    ]
+  },
+  {
+    "english": "they fought seriously",
+    "pidgin": "dem bin fait bad bad",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem bin fait bad bad"
+    ]
+  },
+  {
+    "english": "he talked too much",
+    "pidgin": "i tok plenti",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i tok plenti"
+    ]
+  },
+  {
+    "english": "she cried a lot",
+    "pidgin": "i bin krai plenti",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i bin krai plenti"
+    ]
+  },
+  {
+    "english": "go or stay",
+    "pidgin": "go or siti",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "go or siti"
+    ]
+  },
+  {
+    "english": "eat and drink",
+    "pidgin": "chop and drink",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "chop and drink"
+    ]
+  },
+  {
+    "english": "he is not here",
+    "pidgin": "i no de hia",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i no de hia"
+    ]
+  },
+  {
+    "english": "I am not there",
+    "pidgin": "I no de dea",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I no de dea"
+    ]
+  },
+  {
+    "english": "nobody is at home",
+    "pidgin": "nobodi de for haus",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "nobodi de for haus"
+    ]
+  },
+  {
+    "english": "there is nobody here",
+    "pidgin": "nobodi de hia",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "nobodi de hia"
+    ]
+  },
+  {
+    "english": "there is no water",
+    "pidgin": "wata no de",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wata no de"
+    ]
+  },
+  {
+    "english": "there is food",
+    "pidgin": "chop de",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "chop de"
+    ]
+  },
+  {
+    "english": "I have money",
+    "pidgin": "I get moni",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I get moni"
+    ]
+  },
+  {
+    "english": "do you have a pen",
+    "pidgin": "yu get pen",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "yu get pen"
+    ]
+  },
+  {
+    "english": "he has no family",
+    "pidgin": "i no get famili",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i no get famili"
+    ]
+  },
+  {
+    "english": "I have finished eating",
+    "pidgin": "I don finish chop",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I don finish chop"
+    ]
+  },
+  {
+    "english": "they have not yet come",
+    "pidgin": "dem neba kam yet",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem neba kam yet"
+    ]
+  },
+  {
+    "english": "I am almost done",
+    "pidgin": "I don near finish",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I don near finish"
+    ]
+  },
+  {
+    "english": "are you okay",
+    "pidgin": "yu orait",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "yu orait"
+    ]
+  },
+  {
+    "english": "is the food ready",
+    "pidgin": "di chop don ready",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "di chop don ready"
+    ]
+  },
+  {
+    "english": "it is not my fault",
+    "pidgin": "na no mi fault",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "na no mi fault"
+    ]
+  },
+  {
+    "english": "that is not true",
+    "pidgin": "dat no bi tru",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dat no bi tru"
+    ]
+  },
+  {
+    "english": "this is too expensive",
+    "pidgin": "dis kos too much",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dis kos too much"
+    ]
+  },
+  {
+    "english": "it does not matter",
+    "pidgin": "i mek no mata",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i mek no mata"
+    ]
+  },
+  {
+    "english": "what happened",
+    "pidgin": "wetin happen",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "wetin happen"
+    ]
+  },
+  {
+    "english": "nothing happened",
+    "pidgin": "nothin no happen",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "nothin no happen"
+    ]
+  },
+  {
+    "english": "I was not there",
+    "pidgin": "I neba bin dea",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I neba bin dea"
+    ]
+  },
+  {
+    "english": "she was the one who did it",
+    "pidgin": "na i bin du am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "na i bin du am"
+    ]
+  },
+  {
+    "english": "I am the one going",
+    "pidgin": "na mi de go",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "na mi de go"
+    ]
+  },
+  {
+    "english": "he is the one who talked",
+    "pidgin": "na i bin tok",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "na i bin tok"
+    ]
+  },
+  {
+    "english": "I like it very much",
+    "pidgin": "I like am wel wel",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "I like am wel wel"
+    ]
+  },
+  {
+    "english": "he does not like her",
+    "pidgin": "i no like am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i no like am"
+    ]
+  },
+  {
+    "english": "they love each other",
+    "pidgin": "dem love each oda",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "dem love each oda"
+    ]
+  },
+  {
+    "english": "she hates him",
+    "pidgin": "i vex with am",
+    "error_type": "SYNTAX",
+    "suggestions": [
+      "i vex with am"
+    ]
+  },
+  {
+    "english": "eat",
+    "pidgin": "chop",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "chop"
+    ]
+  },
+  {
+    "english": "food",
+    "pidgin": "chop",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "chop"
+    ]
+  },
+  {
+    "english": "drink",
+    "pidgin": "drink",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "drink"
+    ]
+  },
+  {
+    "english": "water",
+    "pidgin": "wata",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wata"
+    ]
+  },
+  {
+    "english": "walk",
+    "pidgin": "waka",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "waka"
+    ]
+  },
+  {
+    "english": "talk",
+    "pidgin": "tok",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tok"
+    ]
+  },
+  {
+    "english": "say",
+    "pidgin": "tok/sei",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tok/sei"
+    ]
+  },
+  {
+    "english": "hear",
+    "pidgin": "hia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hia"
+    ]
+  },
+  {
+    "english": "see",
+    "pidgin": "si",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "si"
+    ]
+  },
+  {
+    "english": "know",
+    "pidgin": "sabi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sabi"
+    ]
+  },
+  {
+    "english": "understand",
+    "pidgin": "sabi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sabi"
+    ]
+  },
+  {
+    "english": "think",
+    "pidgin": "tink",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tink"
+    ]
+  },
+  {
+    "english": "want",
+    "pidgin": "wan",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wan"
+    ]
+  },
+  {
+    "english": "like",
+    "pidgin": "like",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "like"
+    ]
+  },
+  {
+    "english": "love",
+    "pidgin": "love",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "love"
+    ]
+  },
+  {
+    "english": "hate",
+    "pidgin": "vex with",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "vex with"
+    ]
+  },
+  {
+    "english": "fear",
+    "pidgin": "fraid",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fraid"
+    ]
+  },
+  {
+    "english": "angry",
+    "pidgin": "vex",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "vex"
+    ]
+  },
+  {
+    "english": "happy",
+    "pidgin": "glad",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "glad"
+    ]
+  },
+  {
+    "english": "sad",
+    "pidgin": "feel bad",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "feel bad"
+    ]
+  },
+  {
+    "english": "tired",
+    "pidgin": "tire",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tire"
+    ]
+  },
+  {
+    "english": "sick",
+    "pidgin": "sik",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sik"
+    ]
+  },
+  {
+    "english": "die",
+    "pidgin": "dai",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dai"
+    ]
+  },
+  {
+    "english": "sleep",
+    "pidgin": "slip",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "slip"
+    ]
+  },
+  {
+    "english": "sit",
+    "pidgin": "sidon",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sidon"
+    ]
+  },
+  {
+    "english": "stand",
+    "pidgin": "stand up",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "stand up"
+    ]
+  },
+  {
+    "english": "fall",
+    "pidgin": "fol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fol"
+    ]
+  },
+  {
+    "english": "give",
+    "pidgin": "giv",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "giv"
+    ]
+  },
+  {
+    "english": "take",
+    "pidgin": "tek",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tek"
+    ]
+  },
+  {
+    "english": "bring",
+    "pidgin": "bring/kari kam",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bring/kari kam"
+    ]
+  },
+  {
+    "english": "carry",
+    "pidgin": "kari",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kari"
+    ]
+  },
+  {
+    "english": "put",
+    "pidgin": "put",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "put"
+    ]
+  },
+  {
+    "english": "remove",
+    "pidgin": "komot",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "komot"
+    ]
+  },
+  {
+    "english": "open",
+    "pidgin": "open",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "open"
+    ]
+  },
+  {
+    "english": "close",
+    "pidgin": "shut",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shut"
+    ]
+  },
+  {
+    "english": "hold",
+    "pidgin": "hol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hol"
+    ]
+  },
+  {
+    "english": "push",
+    "pidgin": "push",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "push"
+    ]
+  },
+  {
+    "english": "pull",
+    "pidgin": "pul",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pul"
+    ]
+  },
+  {
+    "english": "throw",
+    "pidgin": "throw",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "throw"
+    ]
+  },
+  {
+    "english": "catch",
+    "pidgin": "ketch",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ketch"
+    ]
+  },
+  {
+    "english": "hit",
+    "pidgin": "hit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hit"
+    ]
+  },
+  {
+    "english": "beat",
+    "pidgin": "bit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bit"
+    ]
+  },
+  {
+    "english": "break",
+    "pidgin": "brok",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "brok"
+    ]
+  },
+  {
+    "english": "cut",
+    "pidgin": "kut",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kut"
+    ]
+  },
+  {
+    "english": "wash",
+    "pidgin": "wash",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wash"
+    ]
+  },
+  {
+    "english": "cook",
+    "pidgin": "kuk",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kuk"
+    ]
+  },
+  {
+    "english": "build",
+    "pidgin": "bil",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bil"
+    ]
+  },
+  {
+    "english": "buy",
+    "pidgin": "bai",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bai"
+    ]
+  },
+  {
+    "english": "sell",
+    "pidgin": "sel",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sel"
+    ]
+  },
+  {
+    "english": "pay",
+    "pidgin": "pe",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pe"
+    ]
+  },
+  {
+    "english": "steal",
+    "pidgin": "tif",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tif"
+    ]
+  },
+  {
+    "english": "beg",
+    "pidgin": "beg",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "beg"
+    ]
+  },
+  {
+    "english": "ask",
+    "pidgin": "ask",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ask"
+    ]
+  },
+  {
+    "english": "call",
+    "pidgin": "kol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kol"
+    ]
+  },
+  {
+    "english": "send",
+    "pidgin": "send",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "send"
+    ]
+  },
+  {
+    "english": "write",
+    "pidgin": "rait",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rait"
+    ]
+  },
+  {
+    "english": "read",
+    "pidgin": "rid",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rid"
+    ]
+  },
+  {
+    "english": "learn",
+    "pidgin": "lan",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "lan"
+    ]
+  },
+  {
+    "english": "teach",
+    "pidgin": "ticha",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ticha"
+    ]
+  },
+  {
+    "english": "work",
+    "pidgin": "wok",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wok"
+    ]
+  },
+  {
+    "english": "rest",
+    "pidgin": "res",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "res"
+    ]
+  },
+  {
+    "english": "play",
+    "pidgin": "ple",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ple"
+    ]
+  },
+  {
+    "english": "sing",
+    "pidgin": "sing",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sing"
+    ]
+  },
+  {
+    "english": "dance",
+    "pidgin": "dans",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dans"
+    ]
+  },
+  {
+    "english": "laugh",
+    "pidgin": "laf",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "laf"
+    ]
+  },
+  {
+    "english": "cry",
+    "pidgin": "krai",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "krai"
+    ]
+  },
+  {
+    "english": "shout",
+    "pidgin": "shot",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shot"
+    ]
+  },
+  {
+    "english": "fight",
+    "pidgin": "fait",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fait"
+    ]
+  },
+  {
+    "english": "win",
+    "pidgin": "win",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "win"
+    ]
+  },
+  {
+    "english": "lose",
+    "pidgin": "los",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "los"
+    ]
+  },
+  {
+    "english": "find",
+    "pidgin": "fain",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fain"
+    ]
+  },
+  {
+    "english": "wait",
+    "pidgin": "wet",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wet"
+    ]
+  },
+  {
+    "english": "leave",
+    "pidgin": "komot/lif",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "komot/lif"
+    ]
+  },
+  {
+    "english": "return",
+    "pidgin": "kam bak",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kam bak"
+    ]
+  },
+  {
+    "english": "enter",
+    "pidgin": "enta",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "enta"
+    ]
+  },
+  {
+    "english": "arrive",
+    "pidgin": "rich",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rich"
+    ]
+  },
+  {
+    "english": "start",
+    "pidgin": "stat",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "stat"
+    ]
+  },
+  {
+    "english": "finish",
+    "pidgin": "finish",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "finish"
+    ]
+  },
+  {
+    "english": "try",
+    "pidgin": "trai",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "trai"
+    ]
+  },
+  {
+    "english": "help",
+    "pidgin": "help",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "help"
+    ]
+  },
+  {
+    "english": "forget",
+    "pidgin": "foget",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "foget"
+    ]
+  },
+  {
+    "english": "remember",
+    "pidgin": "memba",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "memba"
+    ]
+  },
+  {
+    "english": "show",
+    "pidgin": "sho",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sho"
+    ]
+  },
+  {
+    "english": "tell",
+    "pidgin": "tel",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tel"
+    ]
+  },
+  {
+    "english": "ask",
+    "pidgin": "ask",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ask"
+    ]
+  },
+  {
+    "english": "answer",
+    "pidgin": "ansa",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ansa"
+    ]
+  },
+  {
+    "english": "agree",
+    "pidgin": "gri",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "gri"
+    ]
+  },
+  {
+    "english": "refuse",
+    "pidgin": "rifiuz",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rifiuz"
+    ]
+  },
+  {
+    "english": "allow",
+    "pidgin": "alaw",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "alaw"
+    ]
+  },
+  {
+    "english": "stop",
+    "pidgin": "stop",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "stop"
+    ]
+  },
+  {
+    "english": "continue",
+    "pidgin": "kontinyu",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kontinyu"
+    ]
+  },
+  {
+    "english": "change",
+    "pidgin": "chenj",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "chenj"
+    ]
+  },
+  {
+    "english": "fix",
+    "pidgin": "fikis",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fikis"
+    ]
+  },
+  {
+    "english": "repair",
+    "pidgin": "riper",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "riper"
+    ]
+  },
+  {
+    "english": "make",
+    "pidgin": "mek",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mek"
+    ]
+  },
+  {
+    "english": "use",
+    "pidgin": "yus",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "yus"
+    ]
+  },
+  {
+    "english": "keep",
+    "pidgin": "kip",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kip"
+    ]
+  },
+  {
+    "english": "lose",
+    "pidgin": "los",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "los"
+    ]
+  },
+  {
+    "english": "find",
+    "pidgin": "fain",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fain"
+    ]
+  },
+  {
+    "english": "search",
+    "pidgin": "sich",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sich"
+    ]
+  },
+  {
+    "english": "follow",
+    "pidgin": "folow",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "folow"
+    ]
+  },
+  {
+    "english": "lead",
+    "pidgin": "lid",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "lid"
+    ]
+  },
+  {
+    "english": "send",
+    "pidgin": "send",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "send"
+    ]
+  },
+  {
+    "english": "receive",
+    "pidgin": "risiv",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "risiv"
+    ]
+  },
+  {
+    "english": "pay",
+    "pidgin": "pe",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pe"
+    ]
+  },
+  {
+    "english": "owe",
+    "pidgin": "ow",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ow"
+    ]
+  },
+  {
+    "english": "borrow",
+    "pidgin": "baro",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "baro"
+    ]
+  },
+  {
+    "english": "lend",
+    "pidgin": "len",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "len"
+    ]
+  },
+  {
+    "english": "save",
+    "pidgin": "sev",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sev"
+    ]
+  },
+  {
+    "english": "spend",
+    "pidgin": "spen",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "spen"
+    ]
+  },
+  {
+    "english": "waste",
+    "pidgin": "wes",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wes"
+    ]
+  },
+  {
+    "english": "share",
+    "pidgin": "shia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shia"
+    ]
+  },
+  {
+    "english": "divide",
+    "pidgin": "divaid",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "divaid"
+    ]
+  },
+  {
+    "english": "count",
+    "pidgin": "kont",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kont"
+    ]
+  },
+  {
+    "english": "measure",
+    "pidgin": "mezha",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mezha"
+    ]
+  },
+  {
+    "english": "weigh",
+    "pidgin": "we",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "we"
+    ]
+  },
+  {
+    "english": "fill",
+    "pidgin": "fil",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fil"
+    ]
+  },
+  {
+    "english": "empty",
+    "pidgin": "empti",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "empti"
+    ]
+  },
+  {
+    "english": "clean",
+    "pidgin": "klin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "klin"
+    ]
+  },
+  {
+    "english": "dirty",
+    "pidgin": "doti",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "doti"
+    ]
+  },
+  {
+    "english": "new",
+    "pidgin": "nu",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nu"
+    ]
+  },
+  {
+    "english": "old",
+    "pidgin": "ol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ol"
+    ]
+  },
+  {
+    "english": "big",
+    "pidgin": "big",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "big"
+    ]
+  },
+  {
+    "english": "small",
+    "pidgin": "smol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "smol"
+    ]
+  },
+  {
+    "english": "tall",
+    "pidgin": "tol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tol"
+    ]
+  },
+  {
+    "english": "short",
+    "pidgin": "shot",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shot"
+    ]
+  },
+  {
+    "english": "fat",
+    "pidgin": "fat",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fat"
+    ]
+  },
+  {
+    "english": "thin",
+    "pidgin": "thin/smol bodi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "thin/smol bodi"
+    ]
+  },
+  {
+    "english": "long",
+    "pidgin": "long",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "long"
+    ]
+  },
+  {
+    "english": "wide",
+    "pidgin": "waid",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "waid"
+    ]
+  },
+  {
+    "english": "narrow",
+    "pidgin": "naro",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "naro"
+    ]
+  },
+  {
+    "english": "deep",
+    "pidgin": "dip",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dip"
+    ]
+  },
+  {
+    "english": "shallow",
+    "pidgin": "shalow",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shalow"
+    ]
+  },
+  {
+    "english": "heavy",
+    "pidgin": "hevi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hevi"
+    ]
+  },
+  {
+    "english": "light",
+    "pidgin": "lait",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "lait"
+    ]
+  },
+  {
+    "english": "hard",
+    "pidgin": "had",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "had"
+    ]
+  },
+  {
+    "english": "soft",
+    "pidgin": "sof",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sof"
+    ]
+  },
+  {
+    "english": "hot",
+    "pidgin": "hot",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hot"
+    ]
+  },
+  {
+    "english": "cold",
+    "pidgin": "kol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kol"
+    ]
+  },
+  {
+    "english": "warm",
+    "pidgin": "wam",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wam"
+    ]
+  },
+  {
+    "english": "dry",
+    "pidgin": "drai",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "drai"
+    ]
+  },
+  {
+    "english": "wet",
+    "pidgin": "wet",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wet"
+    ]
+  },
+  {
+    "english": "sharp",
+    "pidgin": "shap",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shap"
+    ]
+  },
+  {
+    "english": "blunt",
+    "pidgin": "blunt",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "blunt"
+    ]
+  },
+  {
+    "english": "smooth",
+    "pidgin": "smuth",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "smuth"
+    ]
+  },
+  {
+    "english": "rough",
+    "pidgin": "rof",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rof"
+    ]
+  },
+  {
+    "english": "straight",
+    "pidgin": "stret",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "stret"
+    ]
+  },
+  {
+    "english": "crooked",
+    "pidgin": "kwuk",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kwuk"
+    ]
+  },
+  {
+    "english": "round",
+    "pidgin": "roun",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "roun"
+    ]
+  },
+  {
+    "english": "flat",
+    "pidgin": "flat",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "flat"
+    ]
+  },
+  {
+    "english": "thick",
+    "pidgin": "thick",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "thick"
+    ]
+  },
+  {
+    "english": "bright",
+    "pidgin": "breit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "breit"
+    ]
+  },
+  {
+    "english": "dark",
+    "pidgin": "dak",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dak"
+    ]
+  },
+  {
+    "english": "loud",
+    "pidgin": "laud",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "laud"
+    ]
+  },
+  {
+    "english": "quiet",
+    "pidgin": "kwait",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kwait"
+    ]
+  },
+  {
+    "english": "fast",
+    "pidgin": "fas",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fas"
+    ]
+  },
+  {
+    "english": "slow",
+    "pidgin": "slo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "slo"
+    ]
+  },
+  {
+    "english": "early",
+    "pidgin": "ali",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ali"
+    ]
+  },
+  {
+    "english": "late",
+    "pidgin": "let",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "let"
+    ]
+  },
+  {
+    "english": "soon",
+    "pidgin": "soon",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "soon"
+    ]
+  },
+  {
+    "english": "always",
+    "pidgin": "olas",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "olas"
+    ]
+  },
+  {
+    "english": "never",
+    "pidgin": "neva",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "neva"
+    ]
+  },
+  {
+    "english": "sometimes",
+    "pidgin": "somtaim",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "somtaim"
+    ]
+  },
+  {
+    "english": "often",
+    "pidgin": "ofen",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ofen"
+    ]
+  },
+  {
+    "english": "now",
+    "pidgin": "nau",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nau"
+    ]
+  },
+  {
+    "english": "then",
+    "pidgin": "den",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "den"
+    ]
+  },
+  {
+    "english": "before",
+    "pidgin": "bifo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bifo"
+    ]
+  },
+  {
+    "english": "after",
+    "pidgin": "afta",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "afta"
+    ]
+  },
+  {
+    "english": "again",
+    "pidgin": "agen",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "agen"
+    ]
+  },
+  {
+    "english": "still",
+    "pidgin": "stil",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "stil"
+    ]
+  },
+  {
+    "english": "already",
+    "pidgin": "areddi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "areddi"
+    ]
+  },
+  {
+    "english": "yet",
+    "pidgin": "yet",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "yet"
+    ]
+  },
+  {
+    "english": "just",
+    "pidgin": "jos",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "jos"
+    ]
+  },
+  {
+    "english": "also",
+    "pidgin": "tu/oso",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tu/oso"
+    ]
+  },
+  {
+    "english": "only",
+    "pidgin": "only",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "only"
+    ]
+  },
+  {
+    "english": "even",
+    "pidgin": "even",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "even"
+    ]
+  },
+  {
+    "english": "too",
+    "pidgin": "tu",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tu"
+    ]
+  },
+  {
+    "english": "very",
+    "pidgin": "wel wel",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wel wel"
+    ]
+  },
+  {
+    "english": "more",
+    "pidgin": "mo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mo"
+    ]
+  },
+  {
+    "english": "less",
+    "pidgin": "les",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "les"
+    ]
+  },
+  {
+    "english": "enough",
+    "pidgin": "inof",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "inof"
+    ]
+  },
+  {
+    "english": "too much",
+    "pidgin": "too much",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "too much"
+    ]
+  },
+  {
+    "english": "a little",
+    "pidgin": "smol smol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "smol smol"
+    ]
+  },
+  {
+    "english": "a lot",
+    "pidgin": "plenti",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "plenti"
+    ]
+  },
+  {
+    "english": "many",
+    "pidgin": "plenti/meni",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "plenti/meni"
+    ]
+  },
+  {
+    "english": "few",
+    "pidgin": "smol smol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "smol smol"
+    ]
+  },
+  {
+    "english": "all",
+    "pidgin": "ol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ol"
+    ]
+  },
+  {
+    "english": "both",
+    "pidgin": "both",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "both"
+    ]
+  },
+  {
+    "english": "each",
+    "pidgin": "ech",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ech"
+    ]
+  },
+  {
+    "english": "every",
+    "pidgin": "evri",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "evri"
+    ]
+  },
+  {
+    "english": "some",
+    "pidgin": "som",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "som"
+    ]
+  },
+  {
+    "english": "any",
+    "pidgin": "eni",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "eni"
+    ]
+  },
+  {
+    "english": "no",
+    "pidgin": "no",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "no"
+    ]
+  },
+  {
+    "english": "not",
+    "pidgin": "no",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "no"
+    ]
+  },
+  {
+    "english": "nothing",
+    "pidgin": "nothin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nothin"
+    ]
+  },
+  {
+    "english": "nobody",
+    "pidgin": "nobodi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nobodi"
+    ]
+  },
+  {
+    "english": "nowhere",
+    "pidgin": "nowia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nowia"
+    ]
+  },
+  {
+    "english": "somehow",
+    "pidgin": "somhau",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "somhau"
+    ]
+  },
+  {
+    "english": "somewhere",
+    "pidgin": "somwia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "somwia"
+    ]
+  },
+  {
+    "english": "someone",
+    "pidgin": "somwan",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "somwan"
+    ]
+  },
+  {
+    "english": "something",
+    "pidgin": "somting",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "somting"
+    ]
+  },
+  {
+    "english": "here",
+    "pidgin": "hia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hia"
+    ]
+  },
+  {
+    "english": "there",
+    "pidgin": "dea",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dea"
+    ]
+  },
+  {
+    "english": "where",
+    "pidgin": "wia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wia"
+    ]
+  },
+  {
+    "english": "when",
+    "pidgin": "wen",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wen"
+    ]
+  },
+  {
+    "english": "why",
+    "pidgin": "waifoh",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "waifoh"
+    ]
+  },
+  {
+    "english": "how",
+    "pidgin": "hau",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hau"
+    ]
+  },
+  {
+    "english": "what",
+    "pidgin": "wetin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wetin"
+    ]
+  },
+  {
+    "english": "who",
+    "pidgin": "hu",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hu"
+    ]
+  },
+  {
+    "english": "which",
+    "pidgin": "wich",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wich"
+    ]
+  },
+  {
+    "english": "this",
+    "pidgin": "dis",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dis"
+    ]
+  },
+  {
+    "english": "that",
+    "pidgin": "dat",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dat"
+    ]
+  },
+  {
+    "english": "these",
+    "pidgin": "dis dem",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dis dem"
+    ]
+  },
+  {
+    "english": "those",
+    "pidgin": "dat dem",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dat dem"
+    ]
+  },
+  {
+    "english": "I",
+    "pidgin": "I/Ai",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "I/Ai"
+    ]
+  },
+  {
+    "english": "you",
+    "pidgin": "yu",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "yu"
+    ]
+  },
+  {
+    "english": "he",
+    "pidgin": "i",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "i"
+    ]
+  },
+  {
+    "english": "she",
+    "pidgin": "i",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "i"
+    ]
+  },
+  {
+    "english": "it",
+    "pidgin": "am/i",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "am/i"
+    ]
+  },
+  {
+    "english": "we",
+    "pidgin": "wi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wi"
+    ]
+  },
+  {
+    "english": "they",
+    "pidgin": "dem",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dem"
+    ]
+  },
+  {
+    "english": "me",
+    "pidgin": "mi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mi"
+    ]
+  },
+  {
+    "english": "him",
+    "pidgin": "am",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "am"
+    ]
+  },
+  {
+    "english": "her",
+    "pidgin": "am",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "am"
+    ]
+  },
+  {
+    "english": "us",
+    "pidgin": "wi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wi"
+    ]
+  },
+  {
+    "english": "them",
+    "pidgin": "dem",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dem"
+    ]
+  },
+  {
+    "english": "my",
+    "pidgin": "ma",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ma"
+    ]
+  },
+  {
+    "english": "your",
+    "pidgin": "yu",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "yu"
+    ]
+  },
+  {
+    "english": "his",
+    "pidgin": "i",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "i"
+    ]
+  },
+  {
+    "english": "her",
+    "pidgin": "i",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "i"
+    ]
+  },
+  {
+    "english": "its",
+    "pidgin": "i",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "i"
+    ]
+  },
+  {
+    "english": "our",
+    "pidgin": "wi own",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wi own"
+    ]
+  },
+  {
+    "english": "their",
+    "pidgin": "dem own",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dem own"
+    ]
+  },
+  {
+    "english": "mine",
+    "pidgin": "ma own",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ma own"
+    ]
+  },
+  {
+    "english": "yours",
+    "pidgin": "yu own",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "yu own"
+    ]
+  },
+  {
+    "english": "his",
+    "pidgin": "i own",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "i own"
+    ]
+  },
+  {
+    "english": "ours",
+    "pidgin": "wi own",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wi own"
+    ]
+  },
+  {
+    "english": "theirs",
+    "pidgin": "dem own",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dem own"
+    ]
+  },
+  {
+    "english": "and",
+    "pidgin": "and",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "and"
+    ]
+  },
+  {
+    "english": "but",
+    "pidgin": "but",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "but"
+    ]
+  },
+  {
+    "english": "or",
+    "pidgin": "or",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "or"
+    ]
+  },
+  {
+    "english": "because",
+    "pidgin": "bikos",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bikos"
+    ]
+  },
+  {
+    "english": "although",
+    "pidgin": "evendo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "evendo"
+    ]
+  },
+  {
+    "english": "if",
+    "pidgin": "if",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "if"
+    ]
+  },
+  {
+    "english": "when",
+    "pidgin": "wen",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wen"
+    ]
+  },
+  {
+    "english": "while",
+    "pidgin": "wail",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wail"
+    ]
+  },
+  {
+    "english": "until",
+    "pidgin": "ontil",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ontil"
+    ]
+  },
+  {
+    "english": "after",
+    "pidgin": "afta",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "afta"
+    ]
+  },
+  {
+    "english": "before",
+    "pidgin": "bifo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bifo"
+    ]
+  },
+  {
+    "english": "since",
+    "pidgin": "sins",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sins"
+    ]
+  },
+  {
+    "english": "unless",
+    "pidgin": "onles",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "onles"
+    ]
+  },
+  {
+    "english": "so",
+    "pidgin": "so",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "so"
+    ]
+  },
+  {
+    "english": "therefore",
+    "pidgin": "so",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "so"
+    ]
+  },
+  {
+    "english": "however",
+    "pidgin": "but",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "but"
+    ]
+  },
+  {
+    "english": "moreover",
+    "pidgin": "oso",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "oso"
+    ]
+  },
+  {
+    "english": "meanwhile",
+    "pidgin": "wail dat",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wail dat"
+    ]
+  },
+  {
+    "english": "house",
+    "pidgin": "haus",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "haus"
+    ]
+  },
+  {
+    "english": "home",
+    "pidgin": "haus",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "haus"
+    ]
+  },
+  {
+    "english": "room",
+    "pidgin": "rum",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rum"
+    ]
+  },
+  {
+    "english": "door",
+    "pidgin": "domo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "domo"
+    ]
+  },
+  {
+    "english": "window",
+    "pidgin": "windo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "windo"
+    ]
+  },
+  {
+    "english": "floor",
+    "pidgin": "flo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "flo"
+    ]
+  },
+  {
+    "english": "roof",
+    "pidgin": "ruf",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ruf"
+    ]
+  },
+  {
+    "english": "wall",
+    "pidgin": "wol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wol"
+    ]
+  },
+  {
+    "english": "kitchen",
+    "pidgin": "kisin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kisin"
+    ]
+  },
+  {
+    "english": "bathroom",
+    "pidgin": "batrum",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "batrum"
+    ]
+  },
+  {
+    "english": "toilet",
+    "pidgin": "toilet",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "toilet"
+    ]
+  },
+  {
+    "english": "bed",
+    "pidgin": "bed",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bed"
+    ]
+  },
+  {
+    "english": "chair",
+    "pidgin": "shia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shia"
+    ]
+  },
+  {
+    "english": "table",
+    "pidgin": "tebol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tebol"
+    ]
+  },
+  {
+    "english": "stool",
+    "pidgin": "stul",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "stul"
+    ]
+  },
+  {
+    "english": "mat",
+    "pidgin": "mat",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mat"
+    ]
+  },
+  {
+    "english": "pot",
+    "pidgin": "pot",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pot"
+    ]
+  },
+  {
+    "english": "plate",
+    "pidgin": "plet",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "plet"
+    ]
+  },
+  {
+    "english": "cup",
+    "pidgin": "kap",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kap"
+    ]
+  },
+  {
+    "english": "spoon",
+    "pidgin": "spun",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "spun"
+    ]
+  },
+  {
+    "english": "knife",
+    "pidgin": "naif",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "naif"
+    ]
+  },
+  {
+    "english": "fork",
+    "pidgin": "fok",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fok"
+    ]
+  },
+  {
+    "english": "bucket",
+    "pidgin": "boket",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "boket"
+    ]
+  },
+  {
+    "english": "lamp",
+    "pidgin": "lamp",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "lamp"
+    ]
+  },
+  {
+    "english": "candle",
+    "pidgin": "kendol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kendol"
+    ]
+  },
+  {
+    "english": "fire",
+    "pidgin": "faia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "faia"
+    ]
+  },
+  {
+    "english": "water",
+    "pidgin": "wata",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wata"
+    ]
+  },
+  {
+    "english": "road",
+    "pidgin": "rod",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rod"
+    ]
+  },
+  {
+    "english": "path",
+    "pidgin": "pat",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pat"
+    ]
+  },
+  {
+    "english": "market",
+    "pidgin": "makit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "makit"
+    ]
+  },
+  {
+    "english": "shop",
+    "pidgin": "shop",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shop"
+    ]
+  },
+  {
+    "english": "school",
+    "pidgin": "skul",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "skul"
+    ]
+  },
+  {
+    "english": "church",
+    "pidgin": "choch",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "choch"
+    ]
+  },
+  {
+    "english": "hospital",
+    "pidgin": "ospitu",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ospitu"
+    ]
+  },
+  {
+    "english": "farm",
+    "pidgin": "fam",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fam"
+    ]
+  },
+  {
+    "english": "field",
+    "pidgin": "fil",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fil"
+    ]
+  },
+  {
+    "english": "river",
+    "pidgin": "riva",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "riva"
+    ]
+  },
+  {
+    "english": "stream",
+    "pidgin": "strim",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "strim"
+    ]
+  },
+  {
+    "english": "hill",
+    "pidgin": "hil",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hil"
+    ]
+  },
+  {
+    "english": "mountain",
+    "pidgin": "mauntin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mauntin"
+    ]
+  },
+  {
+    "english": "forest",
+    "pidgin": "fores",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fores"
+    ]
+  },
+  {
+    "english": "tree",
+    "pidgin": "tri",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tri"
+    ]
+  },
+  {
+    "english": "leaf",
+    "pidgin": "lif",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "lif"
+    ]
+  },
+  {
+    "english": "flower",
+    "pidgin": "flawa",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "flawa"
+    ]
+  },
+  {
+    "english": "fruit",
+    "pidgin": "frut",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "frut"
+    ]
+  },
+  {
+    "english": "seed",
+    "pidgin": "sid",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sid"
+    ]
+  },
+  {
+    "english": "root",
+    "pidgin": "rut",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rut"
+    ]
+  },
+  {
+    "english": "grass",
+    "pidgin": "gras",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "gras"
+    ]
+  },
+  {
+    "english": "stone",
+    "pidgin": "ston",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ston"
+    ]
+  },
+  {
+    "english": "sand",
+    "pidgin": "san",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "san"
+    ]
+  },
+  {
+    "english": "mud",
+    "pidgin": "mud",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mud"
+    ]
+  },
+  {
+    "english": "soil",
+    "pidgin": "sol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sol"
+    ]
+  },
+  {
+    "english": "rain",
+    "pidgin": "ren",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ren"
+    ]
+  },
+  {
+    "english": "sun",
+    "pidgin": "san",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "san"
+    ]
+  },
+  {
+    "english": "moon",
+    "pidgin": "mun",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mun"
+    ]
+  },
+  {
+    "english": "star",
+    "pidgin": "sta",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sta"
+    ]
+  },
+  {
+    "english": "cloud",
+    "pidgin": "klaud",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "klaud"
+    ]
+  },
+  {
+    "english": "wind",
+    "pidgin": "win",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "win"
+    ]
+  },
+  {
+    "english": "sky",
+    "pidgin": "ski",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ski"
+    ]
+  },
+  {
+    "english": "earth",
+    "pidgin": "at",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "at"
+    ]
+  },
+  {
+    "english": "God",
+    "pidgin": "God",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "God"
+    ]
+  },
+  {
+    "english": "devil",
+    "pidgin": "devol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "devol"
+    ]
+  },
+  {
+    "english": "spirit",
+    "pidgin": "spirit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "spirit"
+    ]
+  },
+  {
+    "english": "prayer",
+    "pidgin": "praya",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "praya"
+    ]
+  },
+  {
+    "english": "church",
+    "pidgin": "choch",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "choch"
+    ]
+  },
+  {
+    "english": "man",
+    "pidgin": "man",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "man"
+    ]
+  },
+  {
+    "english": "woman",
+    "pidgin": "wuman",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wuman"
+    ]
+  },
+  {
+    "english": "boy",
+    "pidgin": "man pikin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "man pikin"
+    ]
+  },
+  {
+    "english": "girl",
+    "pidgin": "wuman pikin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wuman pikin"
+    ]
+  },
+  {
+    "english": "child",
+    "pidgin": "pikin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pikin"
+    ]
+  },
+  {
+    "english": "baby",
+    "pidgin": "bebe",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bebe"
+    ]
+  },
+  {
+    "english": "mother",
+    "pidgin": "mama",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mama"
+    ]
+  },
+  {
+    "english": "father",
+    "pidgin": "papa",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "papa"
+    ]
+  },
+  {
+    "english": "brother",
+    "pidgin": "broda",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "broda"
+    ]
+  },
+  {
+    "english": "sister",
+    "pidgin": "sista",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sista"
+    ]
+  },
+  {
+    "english": "husband",
+    "pidgin": "oman man",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "oman man"
+    ]
+  },
+  {
+    "english": "wife",
+    "pidgin": "man wuman",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "man wuman"
+    ]
+  },
+  {
+    "english": "friend",
+    "pidgin": "paddy",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "paddy"
+    ]
+  },
+  {
+    "english": "enemy",
+    "pidgin": "enemi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "enemi"
+    ]
+  },
+  {
+    "english": "stranger",
+    "pidgin": "strenj man",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "strenj man"
+    ]
+  },
+  {
+    "english": "neighbor",
+    "pidgin": "neiba",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "neiba"
+    ]
+  },
+  {
+    "english": "boss",
+    "pidgin": "oga/bos",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "oga/bos"
+    ]
+  },
+  {
+    "english": "king",
+    "pidgin": "king",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "king"
+    ]
+  },
+  {
+    "english": "chief",
+    "pidgin": "shif",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shif"
+    ]
+  },
+  {
+    "english": "soldier",
+    "pidgin": "soldia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "soldia"
+    ]
+  },
+  {
+    "english": "police",
+    "pidgin": "polis",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "polis"
+    ]
+  },
+  {
+    "english": "teacher",
+    "pidgin": "tisha",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tisha"
+    ]
+  },
+  {
+    "english": "doctor",
+    "pidgin": "dokta",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dokta"
+    ]
+  },
+  {
+    "english": "nurse",
+    "pidgin": "nos",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nos"
+    ]
+  },
+  {
+    "english": "pastor",
+    "pidgin": "pasto",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pasto"
+    ]
+  },
+  {
+    "english": "farmer",
+    "pidgin": "fama",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fama"
+    ]
+  },
+  {
+    "english": "trader",
+    "pidgin": "treda",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "treda"
+    ]
+  },
+  {
+    "english": "driver",
+    "pidgin": "draiva",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "draiva"
+    ]
+  },
+  {
+    "english": "cook",
+    "pidgin": "kuk",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kuk"
+    ]
+  },
+  {
+    "english": "blacksmith",
+    "pidgin": "blaksmit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "blaksmit"
+    ]
+  },
+  {
+    "english": "carpenter",
+    "pidgin": "kapenta",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kapenta"
+    ]
+  },
+  {
+    "english": "tailor",
+    "pidgin": "telo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "telo"
+    ]
+  },
+  {
+    "english": "head",
+    "pidgin": "hed",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hed"
+    ]
+  },
+  {
+    "english": "hair",
+    "pidgin": "hia/biabia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hia/biabia"
+    ]
+  },
+  {
+    "english": "face",
+    "pidgin": "fes",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fes"
+    ]
+  },
+  {
+    "english": "eye",
+    "pidgin": "ai",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ai"
+    ]
+  },
+  {
+    "english": "nose",
+    "pidgin": "nos",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nos"
+    ]
+  },
+  {
+    "english": "mouth",
+    "pidgin": "mot",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mot"
+    ]
+  },
+  {
+    "english": "ear",
+    "pidgin": "ia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ia"
+    ]
+  },
+  {
+    "english": "neck",
+    "pidgin": "nek",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nek"
+    ]
+  },
+  {
+    "english": "shoulder",
+    "pidgin": "shulda",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shulda"
+    ]
+  },
+  {
+    "english": "arm",
+    "pidgin": "am",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "am"
+    ]
+  },
+  {
+    "english": "hand",
+    "pidgin": "han",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "han"
+    ]
+  },
+  {
+    "english": "finger",
+    "pidgin": "finga",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "finga"
+    ]
+  },
+  {
+    "english": "chest",
+    "pidgin": "ches",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ches"
+    ]
+  },
+  {
+    "english": "stomach",
+    "pidgin": "bele",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bele"
+    ]
+  },
+  {
+    "english": "back",
+    "pidgin": "bak",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bak"
+    ]
+  },
+  {
+    "english": "leg",
+    "pidgin": "leg",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "leg"
+    ]
+  },
+  {
+    "english": "foot",
+    "pidgin": "fut",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fut"
+    ]
+  },
+  {
+    "english": "knee",
+    "pidgin": "ni",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ni"
+    ]
+  },
+  {
+    "english": "toe",
+    "pidgin": "to",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "to"
+    ]
+  },
+  {
+    "english": "skin",
+    "pidgin": "skin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "skin"
+    ]
+  },
+  {
+    "english": "blood",
+    "pidgin": "blud",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "blud"
+    ]
+  },
+  {
+    "english": "bone",
+    "pidgin": "bon",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bon"
+    ]
+  },
+  {
+    "english": "heart",
+    "pidgin": "hat",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hat"
+    ]
+  },
+  {
+    "english": "tooth",
+    "pidgin": "tit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tit"
+    ]
+  },
+  {
+    "english": "tongue",
+    "pidgin": "tong",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tong"
+    ]
+  },
+  {
+    "english": "voice",
+    "pidgin": "vois",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "vois"
+    ]
+  },
+  {
+    "english": "cow",
+    "pidgin": "bif",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bif"
+    ]
+  },
+  {
+    "english": "goat",
+    "pidgin": "got",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "got"
+    ]
+  },
+  {
+    "english": "sheep",
+    "pidgin": "shep",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shep"
+    ]
+  },
+  {
+    "english": "pig",
+    "pidgin": "pig",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pig"
+    ]
+  },
+  {
+    "english": "chicken",
+    "pidgin": "fowol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fowol"
+    ]
+  },
+  {
+    "english": "dog",
+    "pidgin": "dog",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dog"
+    ]
+  },
+  {
+    "english": "cat",
+    "pidgin": "kat",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kat"
+    ]
+  },
+  {
+    "english": "fish",
+    "pidgin": "fish",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fish"
+    ]
+  },
+  {
+    "english": "crab",
+    "pidgin": "krab",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "krab"
+    ]
+  },
+  {
+    "english": "snail",
+    "pidgin": "snel",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "snel"
+    ]
+  },
+  {
+    "english": "snake",
+    "pidgin": "snek",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "snek"
+    ]
+  },
+  {
+    "english": "rat",
+    "pidgin": "rat",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rat"
+    ]
+  },
+  {
+    "english": "mouse",
+    "pidgin": "maus",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "maus"
+    ]
+  },
+  {
+    "english": "bird",
+    "pidgin": "bod",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bod"
+    ]
+  },
+  {
+    "english": "insect",
+    "pidgin": "insek",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "insek"
+    ]
+  },
+  {
+    "english": "ant",
+    "pidgin": "ant",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ant"
+    ]
+  },
+  {
+    "english": "mosquito",
+    "pidgin": "moskito",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "moskito"
+    ]
+  },
+  {
+    "english": "fly",
+    "pidgin": "flai",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "flai"
+    ]
+  },
+  {
+    "english": "rice",
+    "pidgin": "rais",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rais"
+    ]
+  },
+  {
+    "english": "corn",
+    "pidgin": "kon",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kon"
+    ]
+  },
+  {
+    "english": "yam",
+    "pidgin": "yam",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "yam"
+    ]
+  },
+  {
+    "english": "plantain",
+    "pidgin": "pleten",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pleten"
+    ]
+  },
+  {
+    "english": "cassava",
+    "pidgin": "garri/kasava",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "garri/kasava"
+    ]
+  },
+  {
+    "english": "palm oil",
+    "pidgin": "palmoil",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "palmoil"
+    ]
+  },
+  {
+    "english": "pepper",
+    "pidgin": "pepa",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pepa"
+    ]
+  },
+  {
+    "english": "salt",
+    "pidgin": "sol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sol"
+    ]
+  },
+  {
+    "english": "sugar",
+    "pidgin": "shuga",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shuga"
+    ]
+  },
+  {
+    "english": "meat",
+    "pidgin": "mit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mit"
+    ]
+  },
+  {
+    "english": "fish",
+    "pidgin": "fish",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fish"
+    ]
+  },
+  {
+    "english": "egg",
+    "pidgin": "eg",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "eg"
+    ]
+  },
+  {
+    "english": "milk",
+    "pidgin": "milk",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "milk"
+    ]
+  },
+  {
+    "english": "bread",
+    "pidgin": "bred",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bred"
+    ]
+  },
+  {
+    "english": "oil",
+    "pidgin": "oil",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "oil"
+    ]
+  },
+  {
+    "english": "water",
+    "pidgin": "wata",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wata"
+    ]
+  },
+  {
+    "english": "wine",
+    "pidgin": "wain",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wain"
+    ]
+  },
+  {
+    "english": "beer",
+    "pidgin": "bia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bia"
+    ]
+  },
+  {
+    "english": "palm wine",
+    "pidgin": "palmwain",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "palmwain"
+    ]
+  },
+  {
+    "english": "money",
+    "pidgin": "moni",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "moni"
+    ]
+  },
+  {
+    "english": "price",
+    "pidgin": "pris",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pris"
+    ]
+  },
+  {
+    "english": "market",
+    "pidgin": "makit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "makit"
+    ]
+  },
+  {
+    "english": "trade",
+    "pidgin": "tred",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tred"
+    ]
+  },
+  {
+    "english": "business",
+    "pidgin": "biznes",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "biznes"
+    ]
+  },
+  {
+    "english": "profit",
+    "pidgin": "profit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "profit"
+    ]
+  },
+  {
+    "english": "loss",
+    "pidgin": "los",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "los"
+    ]
+  },
+  {
+    "english": "debt",
+    "pidgin": "det",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "det"
+    ]
+  },
+  {
+    "english": "gift",
+    "pidgin": "gif",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "gif"
+    ]
+  },
+  {
+    "english": "reward",
+    "pidgin": "riwod",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "riwod"
+    ]
+  },
+  {
+    "english": "punishment",
+    "pidgin": "ponishment",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ponishment"
+    ]
+  },
+  {
+    "english": "work",
+    "pidgin": "wok",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wok"
+    ]
+  },
+  {
+    "english": "job",
+    "pidgin": "job",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "job"
+    ]
+  },
+  {
+    "english": "pay",
+    "pidgin": "pe",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pe"
+    ]
+  },
+  {
+    "english": "salary",
+    "pidgin": "salari",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "salari"
+    ]
+  },
+  {
+    "english": "morning",
+    "pidgin": "moning",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "moning"
+    ]
+  },
+  {
+    "english": "afternoon",
+    "pidgin": "aftenun",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "aftenun"
+    ]
+  },
+  {
+    "english": "evening",
+    "pidgin": "ivning",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ivning"
+    ]
+  },
+  {
+    "english": "night",
+    "pidgin": "nait",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nait"
+    ]
+  },
+  {
+    "english": "today",
+    "pidgin": "tudei",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tudei"
+    ]
+  },
+  {
+    "english": "yesterday",
+    "pidgin": "yestadei",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "yestadei"
+    ]
+  },
+  {
+    "english": "tomorrow",
+    "pidgin": "tumoro",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tumoro"
+    ]
+  },
+  {
+    "english": "week",
+    "pidgin": "wik",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wik"
+    ]
+  },
+  {
+    "english": "month",
+    "pidgin": "mont",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mont"
+    ]
+  },
+  {
+    "english": "year",
+    "pidgin": "yia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "yia"
+    ]
+  },
+  {
+    "english": "day",
+    "pidgin": "dei",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dei"
+    ]
+  },
+  {
+    "english": "time",
+    "pidgin": "taim",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "taim"
+    ]
+  },
+  {
+    "english": "hour",
+    "pidgin": "aua",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "aua"
+    ]
+  },
+  {
+    "english": "minute",
+    "pidgin": "minit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "minit"
+    ]
+  },
+  {
+    "english": "second",
+    "pidgin": "sekon",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sekon"
+    ]
+  },
+  {
+    "english": "always",
+    "pidgin": "olas",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "olas"
+    ]
+  },
+  {
+    "english": "never",
+    "pidgin": "neva",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "neva"
+    ]
+  },
+  {
+    "english": "hot",
+    "pidgin": "hot",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hot"
+    ]
+  },
+  {
+    "english": "weather",
+    "pidgin": "weda",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "weda"
+    ]
+  },
+  {
+    "english": "season",
+    "pidgin": "sizin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sizin"
+    ]
+  },
+  {
+    "english": "dry season",
+    "pidgin": "drai sizin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "drai sizin"
+    ]
+  },
+  {
+    "english": "rainy season",
+    "pidgin": "ren sizin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ren sizin"
+    ]
+  },
+  {
+    "english": "flood",
+    "pidgin": "flod",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "flod"
+    ]
+  },
+  {
+    "english": "drought",
+    "pidgin": "drout",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "drout"
+    ]
+  },
+  {
+    "english": "red",
+    "pidgin": "red",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "red"
+    ]
+  },
+  {
+    "english": "blue",
+    "pidgin": "blu",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "blu"
+    ]
+  },
+  {
+    "english": "green",
+    "pidgin": "grin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "grin"
+    ]
+  },
+  {
+    "english": "yellow",
+    "pidgin": "yelo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "yelo"
+    ]
+  },
+  {
+    "english": "white",
+    "pidgin": "weit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "weit"
+    ]
+  },
+  {
+    "english": "black",
+    "pidgin": "blak",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "blak"
+    ]
+  },
+  {
+    "english": "brown",
+    "pidgin": "braun",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "braun"
+    ]
+  },
+  {
+    "english": "grey",
+    "pidgin": "grei",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "grei"
+    ]
+  },
+  {
+    "english": "pink",
+    "pidgin": "pink",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pink"
+    ]
+  },
+  {
+    "english": "purple",
+    "pidgin": "popol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "popol"
+    ]
+  },
+  {
+    "english": "orange",
+    "pidgin": "oranj",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "oranj"
+    ]
+  },
+  {
+    "english": "one",
+    "pidgin": "wan",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wan"
+    ]
+  },
+  {
+    "english": "two",
+    "pidgin": "tu",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tu"
+    ]
+  },
+  {
+    "english": "three",
+    "pidgin": "tri",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tri"
+    ]
+  },
+  {
+    "english": "four",
+    "pidgin": "fo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fo"
+    ]
+  },
+  {
+    "english": "five",
+    "pidgin": "faiv",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "faiv"
+    ]
+  },
+  {
+    "english": "six",
+    "pidgin": "siks",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "siks"
+    ]
+  },
+  {
+    "english": "seven",
+    "pidgin": "seven",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "seven"
+    ]
+  },
+  {
+    "english": "eight",
+    "pidgin": "eit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "eit"
+    ]
+  },
+  {
+    "english": "nine",
+    "pidgin": "nain",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nain"
+    ]
+  },
+  {
+    "english": "ten",
+    "pidgin": "ten",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ten"
+    ]
+  },
+  {
+    "english": "twenty",
+    "pidgin": "twenti",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "twenti"
+    ]
+  },
+  {
+    "english": "hundred",
+    "pidgin": "handred",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "handred"
+    ]
+  },
+  {
+    "english": "thousand",
+    "pidgin": "touzand",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "touzand"
+    ]
+  },
+  {
+    "english": "first",
+    "pidgin": "fas wan",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fas wan"
+    ]
+  },
+  {
+    "english": "second",
+    "pidgin": "sekond",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sekond"
+    ]
+  },
+  {
+    "english": "last",
+    "pidgin": "las",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "las"
+    ]
+  },
+  {
+    "english": "next",
+    "pidgin": "nekis",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nekis"
+    ]
+  },
+  {
+    "english": "previous",
+    "pidgin": "bifo wan",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bifo wan"
+    ]
+  },
+  {
+    "english": "good",
+    "pidgin": "gud",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "gud"
+    ]
+  },
+  {
+    "english": "bad",
+    "pidgin": "bad",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bad"
+    ]
+  },
+  {
+    "english": "right",
+    "pidgin": "raiti",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "raiti"
+    ]
+  },
+  {
+    "english": "wrong",
+    "pidgin": "rong",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rong"
+    ]
+  },
+  {
+    "english": "true",
+    "pidgin": "tru",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tru"
+    ]
+  },
+  {
+    "english": "false",
+    "pidgin": "fols",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fols"
+    ]
+  },
+  {
+    "english": "beautiful",
+    "pidgin": "fine",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fine"
+    ]
+  },
+  {
+    "english": "ugly",
+    "pidgin": "no fine",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "no fine"
+    ]
+  },
+  {
+    "english": "strong",
+    "pidgin": "strong",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "strong"
+    ]
+  },
+  {
+    "english": "weak",
+    "pidgin": "wik",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wik"
+    ]
+  },
+  {
+    "english": "rich",
+    "pidgin": "rich",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rich"
+    ]
+  },
+  {
+    "english": "poor",
+    "pidgin": "po",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "po"
+    ]
+  },
+  {
+    "english": "hungry",
+    "pidgin": "hangi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hangi"
+    ]
+  },
+  {
+    "english": "full",
+    "pidgin": "ful",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ful"
+    ]
+  },
+  {
+    "english": "thirsty",
+    "pidgin": "tasty fo wata",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tasty fo wata"
+    ]
+  },
+  {
+    "english": "happy",
+    "pidgin": "glad/joyful",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "glad/joyful"
+    ]
+  },
+  {
+    "english": "sad",
+    "pidgin": "feel bad",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "feel bad"
+    ]
+  },
+  {
+    "english": "angry",
+    "pidgin": "vex",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "vex"
+    ]
+  },
+  {
+    "english": "afraid",
+    "pidgin": "fraid",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fraid"
+    ]
+  },
+  {
+    "english": "surprised",
+    "pidgin": "sosprai",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sosprai"
+    ]
+  },
+  {
+    "english": "confused",
+    "pidgin": "konfyuz",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "konfyuz"
+    ]
+  },
+  {
+    "english": "ashamed",
+    "pidgin": "sheme",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sheme"
+    ]
+  },
+  {
+    "english": "proud",
+    "pidgin": "prod",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "prod"
+    ]
+  },
+  {
+    "english": "jealous",
+    "pidgin": "jelus",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "jelus"
+    ]
+  },
+  {
+    "english": "bored",
+    "pidgin": "bored",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bored"
+    ]
+  },
+  {
+    "english": "pain",
+    "pidgin": "pen",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pen"
+    ]
+  },
+  {
+    "english": "headache",
+    "pidgin": "hedek",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hedek"
+    ]
+  },
+  {
+    "english": "fever",
+    "pidgin": "fiva",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fiva"
+    ]
+  },
+  {
+    "english": "malaria",
+    "pidgin": "maleria",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "maleria"
+    ]
+  },
+  {
+    "english": "cough",
+    "pidgin": "kof",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kof"
+    ]
+  },
+  {
+    "english": "cold",
+    "pidgin": "kol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kol"
+    ]
+  },
+  {
+    "english": "wound",
+    "pidgin": "woun",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "woun"
+    ]
+  },
+  {
+    "english": "scar",
+    "pidgin": "ska",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ska"
+    ]
+  },
+  {
+    "english": "medicine",
+    "pidgin": "medsin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "medsin"
+    ]
+  },
+  {
+    "english": "hospital",
+    "pidgin": "ospitu",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ospitu"
+    ]
+  },
+  {
+    "english": "pray",
+    "pidgin": "pre",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pre"
+    ]
+  },
+  {
+    "english": "thank you",
+    "pidgin": "tenki",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tenki"
+    ]
+  },
+  {
+    "english": "please",
+    "pidgin": "plis",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "plis"
+    ]
+  },
+  {
+    "english": "sorry",
+    "pidgin": "sori",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sori"
+    ]
+  },
+  {
+    "english": "welcome",
+    "pidgin": "welkom",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "welkom"
+    ]
+  },
+  {
+    "english": "goodbye",
+    "pidgin": "bai bai",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bai bai"
+    ]
+  },
+  {
+    "english": "hello",
+    "pidgin": "helo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "helo"
+    ]
+  },
+  {
+    "english": "yes",
+    "pidgin": "yes/na so",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "yes/na so"
+    ]
+  },
+  {
+    "english": "no",
+    "pidgin": "no",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "no"
+    ]
+  },
+  {
+    "english": "okay",
+    "pidgin": "orait",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "orait"
+    ]
+  },
+  {
+    "english": "maybe",
+    "pidgin": "mebi",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mebi"
+    ]
+  },
+  {
+    "english": "really",
+    "pidgin": "tru tru",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tru tru"
+    ]
+  },
+  {
+    "english": "exactly",
+    "pidgin": "ekzatli",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ekzatli"
+    ]
+  },
+  {
+    "english": "immediately",
+    "pidgin": "nau nau",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nau nau"
+    ]
+  },
+  {
+    "english": "together",
+    "pidgin": "togeda",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "togeda"
+    ]
+  },
+  {
+    "english": "alone",
+    "pidgin": "alone",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "alone"
+    ]
+  },
+  {
+    "english": "outside",
+    "pidgin": "ausa",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ausa"
+    ]
+  },
+  {
+    "english": "inside",
+    "pidgin": "insaid",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "insaid"
+    ]
+  },
+  {
+    "english": "up",
+    "pidgin": "op",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "op"
+    ]
+  },
+  {
+    "english": "down",
+    "pidgin": "daun",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "daun"
+    ]
+  },
+  {
+    "english": "near",
+    "pidgin": "nia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nia"
+    ]
+  },
+  {
+    "english": "far",
+    "pidgin": "fa",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fa"
+    ]
+  },
+  {
+    "english": "front",
+    "pidgin": "front",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "front"
+    ]
+  },
+  {
+    "english": "behind",
+    "pidgin": "bihaind",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bihaind"
+    ]
+  },
+  {
+    "english": "left",
+    "pidgin": "lef",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "lef"
+    ]
+  },
+  {
+    "english": "right",
+    "pidgin": "rait",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rait"
+    ]
+  },
+  {
+    "english": "between",
+    "pidgin": "bitwin",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bitwin"
+    ]
+  },
+  {
+    "english": "above",
+    "pidgin": "abov",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "abov"
+    ]
+  },
+  {
+    "english": "below",
+    "pidgin": "bilow",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bilow"
+    ]
+  },
+  {
+    "english": "beside",
+    "pidgin": "bsaid",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bsaid"
+    ]
+  },
+  {
+    "english": "across",
+    "pidgin": "akros",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "akros"
+    ]
+  },
+  {
+    "english": "through",
+    "pidgin": "thru",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "thru"
+    ]
+  },
+  {
+    "english": "around",
+    "pidgin": "araun",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "araun"
+    ]
+  },
+  {
+    "english": "about",
+    "pidgin": "abaut",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "abaut"
+    ]
+  },
+  {
+    "english": "with",
+    "pidgin": "with",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "with"
+    ]
+  },
+  {
+    "english": "without",
+    "pidgin": "without",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "without"
+    ]
+  },
+  {
+    "english": "for",
+    "pidgin": "fo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fo"
+    ]
+  },
+  {
+    "english": "from",
+    "pidgin": "from",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "from"
+    ]
+  },
+  {
+    "english": "to",
+    "pidgin": "to",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "to"
+    ]
+  },
+  {
+    "english": "at",
+    "pidgin": "fo/na",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fo/na"
+    ]
+  },
+  {
+    "english": "in",
+    "pidgin": "for/in",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "for/in"
+    ]
+  },
+  {
+    "english": "on",
+    "pidgin": "on",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "on"
+    ]
+  },
+  {
+    "english": "under",
+    "pidgin": "onda",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "onda"
+    ]
+  },
+  {
+    "english": "over",
+    "pidgin": "ova",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ova"
+    ]
+  },
+  {
+    "english": "into",
+    "pidgin": "inta",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "inta"
+    ]
+  },
+  {
+    "english": "out of",
+    "pidgin": "auta",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "auta"
+    ]
+  },
+  {
+    "english": "because of",
+    "pidgin": "bikos of",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bikos of"
+    ]
+  },
+  {
+    "english": "instead of",
+    "pidgin": "insted of",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "insted of"
+    ]
+  },
+  {
+    "english": "in front of",
+    "pidgin": "for front of",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "for front of"
+    ]
+  },
+  {
+    "english": "behind",
+    "pidgin": "bihaind",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bihaind"
+    ]
+  },
+  {
+    "english": "problem",
+    "pidgin": "palava/trobul",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "palava/trobul"
+    ]
+  },
+  {
+    "english": "trouble",
+    "pidgin": "trobul",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "trobul"
+    ]
+  },
+  {
+    "english": "fight",
+    "pidgin": "fait",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fait"
+    ]
+  },
+  {
+    "english": "quarrel",
+    "pidgin": "kwarel",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kwarel"
+    ]
+  },
+  {
+    "english": "gossip",
+    "pidgin": "gosip",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "gosip"
+    ]
+  },
+  {
+    "english": "lie",
+    "pidgin": "lai",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "lai"
+    ]
+  },
+  {
+    "english": "truth",
+    "pidgin": "tru",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tru"
+    ]
+  },
+  {
+    "english": "secret",
+    "pidgin": "sikrit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sikrit"
+    ]
+  },
+  {
+    "english": "news",
+    "pidgin": "nyus",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nyus"
+    ]
+  },
+  {
+    "english": "story",
+    "pidgin": "stori",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "stori"
+    ]
+  },
+  {
+    "english": "joke",
+    "pidgin": "jok",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "jok"
+    ]
+  },
+  {
+    "english": "song",
+    "pidgin": "song",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "song"
+    ]
+  },
+  {
+    "english": "dance",
+    "pidgin": "dans",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dans"
+    ]
+  },
+  {
+    "english": "game",
+    "pidgin": "gem",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "gem"
+    ]
+  },
+  {
+    "english": "competition",
+    "pidgin": "kompetishon",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kompetishon"
+    ]
+  },
+  {
+    "english": "win",
+    "pidgin": "win",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "win"
+    ]
+  },
+  {
+    "english": "lose",
+    "pidgin": "los",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "los"
+    ]
+  },
+  {
+    "english": "draw",
+    "pidgin": "dro",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dro"
+    ]
+  },
+  {
+    "english": "play",
+    "pidgin": "ple",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ple"
+    ]
+  },
+  {
+    "english": "cinema",
+    "pidgin": "sinema",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sinema"
+    ]
+  },
+  {
+    "english": "radio",
+    "pidgin": "radio",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "radio"
+    ]
+  },
+  {
+    "english": "television",
+    "pidgin": "televizon",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "televizon"
+    ]
+  },
+  {
+    "english": "phone",
+    "pidgin": "fon",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fon"
+    ]
+  },
+  {
+    "english": "letter",
+    "pidgin": "leta",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "leta"
+    ]
+  },
+  {
+    "english": "message",
+    "pidgin": "mesej",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "mesej"
+    ]
+  },
+  {
+    "english": "book",
+    "pidgin": "buk",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "buk"
+    ]
+  },
+  {
+    "english": "newspaper",
+    "pidgin": "nyupepa",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "nyupepa"
+    ]
+  },
+  {
+    "english": "pen",
+    "pidgin": "pen",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pen"
+    ]
+  },
+  {
+    "english": "pencil",
+    "pidgin": "pensol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pensol"
+    ]
+  },
+  {
+    "english": "paper",
+    "pidgin": "pepa",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "pepa"
+    ]
+  },
+  {
+    "english": "bag",
+    "pidgin": "bag",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bag"
+    ]
+  },
+  {
+    "english": "box",
+    "pidgin": "boks",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "boks"
+    ]
+  },
+  {
+    "english": "bottle",
+    "pidgin": "botol",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "botol"
+    ]
+  },
+  {
+    "english": "cup",
+    "pidgin": "kap",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "kap"
+    ]
+  },
+  {
+    "english": "clothes",
+    "pidgin": "klot",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "klot"
+    ]
+  },
+  {
+    "english": "shirt",
+    "pidgin": "shut",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shut"
+    ]
+  },
+  {
+    "english": "trousers",
+    "pidgin": "trawzas",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "trawzas"
+    ]
+  },
+  {
+    "english": "dress",
+    "pidgin": "dres",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "dres"
+    ]
+  },
+  {
+    "english": "shoes",
+    "pidgin": "shu",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shu"
+    ]
+  },
+  {
+    "english": "hat",
+    "pidgin": "hat",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "hat"
+    ]
+  },
+  {
+    "english": "glasses",
+    "pidgin": "glas",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "glas"
+    ]
+  },
+  {
+    "english": "watch",
+    "pidgin": "woch",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "woch"
+    ]
+  },
+  {
+    "english": "ring",
+    "pidgin": "ring",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ring"
+    ]
+  },
+  {
+    "english": "earring",
+    "pidgin": "iring",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "iring"
+    ]
+  },
+  {
+    "english": "necklace",
+    "pidgin": "neklis",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "neklis"
+    ]
+  },
+  {
+    "english": "bicycle",
+    "pidgin": "baisikel",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "baisikel"
+    ]
+  },
+  {
+    "english": "motorcycle",
+    "pidgin": "motosaikel",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "motosaikel"
+    ]
+  },
+  {
+    "english": "car",
+    "pidgin": "ka",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ka"
+    ]
+  },
+  {
+    "english": "bus",
+    "pidgin": "bos",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bos"
+    ]
+  },
+  {
+    "english": "truck",
+    "pidgin": "truk",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "truk"
+    ]
+  },
+  {
+    "english": "boat",
+    "pidgin": "bot",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bot"
+    ]
+  },
+  {
+    "english": "plane",
+    "pidgin": "plen",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "plen"
+    ]
+  },
+  {
+    "english": "road",
+    "pidgin": "rod",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rod"
+    ]
+  },
+  {
+    "english": "bridge",
+    "pidgin": "brij",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "brij"
+    ]
+  },
+  {
+    "english": "gate",
+    "pidgin": "geit",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "geit"
+    ]
+  },
+  {
+    "english": "fence",
+    "pidgin": "fens",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "fens"
+    ]
+  },
+  {
+    "english": "well",
+    "pidgin": "wel",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "wel"
+    ]
+  },
+  {
+    "english": "tank",
+    "pidgin": "tank",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "tank"
+    ]
+  },
+  {
+    "english": "pipe",
+    "pidgin": "paip",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "paip"
+    ]
+  },
+  {
+    "english": "wire",
+    "pidgin": "waia",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "waia"
+    ]
+  },
+  {
+    "english": "key",
+    "pidgin": "ki",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ki"
+    ]
+  },
+  {
+    "english": "lock",
+    "pidgin": "lok",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "lok"
+    ]
+  },
+  {
+    "english": "chain",
+    "pidgin": "shen",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "shen"
+    ]
+  },
+  {
+    "english": "rope",
+    "pidgin": "rop",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "rop"
+    ]
+  },
+  {
+    "english": "stick",
+    "pidgin": "stik",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "stik"
+    ]
+  },
+  {
+    "english": "axe",
+    "pidgin": "aks",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "aks"
+    ]
+  },
+  {
+    "english": "hoe",
+    "pidgin": "ho",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "ho"
+    ]
+  },
+  {
+    "english": "cutlass",
+    "pidgin": "katlas",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "katlas"
+    ]
+  },
+  {
+    "english": "gun",
+    "pidgin": "gon",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "gon"
+    ]
+  },
+  {
+    "english": "sword",
+    "pidgin": "sod",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "sod"
+    ]
+  },
+  {
+    "english": "arrow",
+    "pidgin": "aro",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "aro"
+    ]
+  },
+  {
+    "english": "bow",
+    "pidgin": "bo",
+    "error_type": "SEMANTIC",
+    "suggestions": [
+      "bo"
+    ]
+  }
+]
