@@ -1,0 +1,8790 @@
+{
+  "meta": {
+    "language": "Nigerian Pidgin English",
+    "total_entries": 1168,
+    "vocabulary_size": 869,
+    "error_type_counts": {
+      "SPELLING": 294,
+      "SYNTAX": 227,
+      "SEMANTIC": 604
+    },
+    "description": "Lexicon generated from dictionary.json. Used by the Pidgin lexer to tag tokens, detect error types, and suggest corrections."
+  },
+  "word_vocabulary": {
+    "a": {
+      "token_type": "WORD"
+    },
+    "abaut": {
+      "token_type": "WORD"
+    },
+    "abov": {
+      "token_type": "WORD"
+    },
+    "absence": {
+      "token_type": "WORD"
+    },
+    "absolutely": {
+      "token_type": "WORD"
+    },
+    "access": {
+      "token_type": "WORD"
+    },
+    "accidentally": {
+      "token_type": "WORD"
+    },
+    "accommodate": {
+      "token_type": "WORD"
+    },
+    "accuracy": {
+      "token_type": "WORD"
+    },
+    "achieve": {
+      "token_type": "WORD"
+    },
+    "acknowledge": {
+      "token_type": "WORD"
+    },
+    "acquire": {
+      "token_type": "WORD"
+    },
+    "address": {
+      "token_type": "WORD"
+    },
+    "advertise": {
+      "token_type": "WORD"
+    },
+    "afta": {
+      "token_type": "WORD"
+    },
+    "aftenun": {
+      "token_type": "WORD"
+    },
+    "agen": {
+      "token_type": "WORD"
+    },
+    "aggressive": {
+      "token_type": "WORD"
+    },
+    "agreement": {
+      "token_type": "WORD"
+    },
+    "ai": {
+      "token_type": "WORD"
+    },
+    "akros": {
+      "token_type": "WORD"
+    },
+    "aks": {
+      "token_type": "WORD"
+    },
+    "alaw": {
+      "token_type": "WORD"
+    },
+    "ali": {
+      "token_type": "WORD"
+    },
+    "all": {
+      "token_type": "WORD"
+    },
+    "almost": {
+      "token_type": "WORD"
+    },
+    "alone": {
+      "token_type": "WORD"
+    },
+    "although": {
+      "token_type": "WORD"
+    },
+    "am": {
+      "token_type": "PRONOUN"
+    },
+    "am/i": {
+      "token_type": "PRONOUN"
+    },
+    "amateur": {
+      "token_type": "WORD"
+    },
+    "amount": {
+      "token_type": "WORD"
+    },
+    "analyze": {
+      "token_type": "WORD"
+    },
+    "and": {
+      "token_type": "CONJUNCTION"
+    },
+    "annual": {
+      "token_type": "WORD"
+    },
+    "ansa": {
+      "token_type": "VERB"
+    },
+    "ant": {
+      "token_type": "WORD"
+    },
+    "apologize": {
+      "token_type": "WORD"
+    },
+    "apparent": {
+      "token_type": "WORD"
+    },
+    "appear": {
+      "token_type": "WORD"
+    },
+    "appropriate": {
+      "token_type": "WORD"
+    },
+    "approval": {
+      "token_type": "WORD"
+    },
+    "approximately": {
+      "token_type": "WORD"
+    },
+    "araun": {
+      "token_type": "WORD"
+    },
+    "architecture": {
+      "token_type": "WORD"
+    },
+    "areddi": {
+      "token_type": "WORD"
+    },
+    "argument": {
+      "token_type": "WORD"
+    },
+    "aro": {
+      "token_type": "WORD"
+    },
+    "article": {
+      "token_type": "WORD"
+    },
+    "ask": {
+      "token_type": "VERB"
+    },
+    "assassinate": {
+      "token_type": "WORD"
+    },
+    "assign": {
+      "token_type": "WORD"
+    },
+    "at": {
+      "token_type": "WORD"
+    },
+    "attachment": {
+      "token_type": "WORD"
+    },
+    "attend": {
+      "token_type": "WORD"
+    },
+    "attribute": {
+      "token_type": "WORD"
+    },
+    "aua": {
+      "token_type": "WORD"
+    },
+    "audience": {
+      "token_type": "WORD"
+    },
+    "ausa": {
+      "token_type": "WORD"
+    },
+    "auta": {
+      "token_type": "WORD"
+    },
+    "authority": {
+      "token_type": "WORD"
+    },
+    "available": {
+      "token_type": "WORD"
+    },
+    "awful": {
+      "token_type": "WORD"
+    },
+    "bad": {
+      "token_type": "WORD"
+    },
+    "bag": {
+      "token_type": "WORD"
+    },
+    "bai": {
+      "token_type": "VERB"
+    },
+    "baisikel": {
+      "token_type": "WORD"
+    },
+    "bak": {
+      "token_type": "WORD"
+    },
+    "balance": {
+      "token_type": "WORD"
+    },
+    "banana": {
+      "token_type": "WORD"
+    },
+    "baro": {
+      "token_type": "WORD"
+    },
+    "basically": {
+      "token_type": "WORD"
+    },
+    "batrum": {
+      "token_type": "WORD"
+    },
+    "beautiful": {
+      "token_type": "WORD"
+    },
+    "bebe": {
+      "token_type": "WORD"
+    },
+    "because": {
+      "token_type": "WORD"
+    },
+    "becoming": {
+      "token_type": "WORD"
+    },
+    "bed": {
+      "token_type": "VERB"
+    },
+    "beg": {
+      "token_type": "WORD"
+    },
+    "beginning": {
+      "token_type": "WORD"
+    },
+    "bele": {
+      "token_type": "WORD"
+    },
+    "believe": {
+      "token_type": "WORD"
+    },
+    "bi": {
+      "token_type": "WORD"
+    },
+    "bia": {
+      "token_type": "WORD"
+    },
+    "bif": {
+      "token_type": "WORD"
+    },
+    "bifo": {
+      "token_type": "WORD"
+    },
+    "big": {
+      "token_type": "WORD"
+    },
+    "bihaind": {
+      "token_type": "WORD"
+    },
+    "bikos": {
+      "token_type": "WORD"
+    },
+    "bil": {
+      "token_type": "WORD"
+    },
+    "bilow": {
+      "token_type": "WORD"
+    },
+    "bin": {
+      "token_type": "WORD"
+    },
+    "bit": {
+      "token_type": "WORD"
+    },
+    "bitwin": {
+      "token_type": "WORD"
+    },
+    "biznes": {
+      "token_type": "WORD"
+    },
+    "blak": {
+      "token_type": "WORD"
+    },
+    "blaksmit": {
+      "token_type": "WORD"
+    },
+    "blu": {
+      "token_type": "WORD"
+    },
+    "blud": {
+      "token_type": "WORD"
+    },
+    "blunt": {
+      "token_type": "WORD"
+    },
+    "bo": {
+      "token_type": "WORD"
+    },
+    "bod": {
+      "token_type": "WORD"
+    },
+    "bodi": {
+      "token_type": "WORD"
+    },
+    "boket": {
+      "token_type": "WORD"
+    },
+    "boks": {
+      "token_type": "WORD"
+    },
+    "bon": {
+      "token_type": "WORD"
+    },
+    "bored": {
+      "token_type": "VERB"
+    },
+    "boredom": {
+      "token_type": "WORD"
+    },
+    "bos": {
+      "token_type": "WORD"
+    },
+    "bot": {
+      "token_type": "WORD"
+    },
+    "both": {
+      "token_type": "WORD"
+    },
+    "botol": {
+      "token_type": "WORD"
+    },
+    "boundary": {
+      "token_type": "WORD"
+    },
+    "braun": {
+      "token_type": "WORD"
+    },
+    "bred": {
+      "token_type": "WORD"
+    },
+    "breit": {
+      "token_type": "WORD"
+    },
+    "brij": {
+      "token_type": "WORD"
+    },
+    "bring/kari": {
+      "token_type": "WORD"
+    },
+    "broccoli": {
+      "token_type": "WORD"
+    },
+    "broda": {
+      "token_type": "WORD"
+    },
+    "brok": {
+      "token_type": "WORD"
+    },
+    "bsaid": {
+      "token_type": "WORD"
+    },
+    "buk": {
+      "token_type": "WORD"
+    },
+    "business": {
+      "token_type": "WORD"
+    },
+    "but": {
+      "token_type": "CONJUNCTION"
+    },
+    "calendar": {
+      "token_type": "WORD"
+    },
+    "career": {
+      "token_type": "WORD"
+    },
+    "careful": {
+      "token_type": "WORD"
+    },
+    "category": {
+      "token_type": "WORD"
+    },
+    "ceiling": {
+      "token_type": "WORD"
+    },
+    "celebrity": {
+      "token_type": "WORD"
+    },
+    "challenging": {
+      "token_type": "WORD"
+    },
+    "changeable": {
+      "token_type": "WORD"
+    },
+    "character": {
+      "token_type": "WORD"
+    },
+    "chenj": {
+      "token_type": "WORD"
+    },
+    "ches": {
+      "token_type": "WORD"
+    },
+    "chief": {
+      "token_type": "WORD"
+    },
+    "choch": {
+      "token_type": "WORD"
+    },
+    "chop": {
+      "token_type": "VERB"
+    },
+    "chosen": {
+      "token_type": "WORD"
+    },
+    "colleague": {
+      "token_type": "WORD"
+    },
+    "column": {
+      "token_type": "WORD"
+    },
+    "coming": {
+      "token_type": "WORD"
+    },
+    "committee": {
+      "token_type": "WORD"
+    },
+    "community": {
+      "token_type": "WORD"
+    },
+    "conceive": {
+      "token_type": "WORD"
+    },
+    "conscious": {
+      "token_type": "WORD"
+    },
+    "convenient": {
+      "token_type": "WORD"
+    },
+    "corrupt": {
+      "token_type": "WORD"
+    },
+    "crisis": {
+      "token_type": "WORD"
+    },
+    "criticism": {
+      "token_type": "WORD"
+    },
+    "curiosity": {
+      "token_type": "WORD"
+    },
+    "customer": {
+      "token_type": "WORD"
+    },
+    "dai": {
+      "token_type": "WORD"
+    },
+    "dak": {
+      "token_type": "WORD"
+    },
+    "dans": {
+      "token_type": "VERB"
+    },
+    "dat": {
+      "token_type": "WORD"
+    },
+    "daun": {
+      "token_type": "WORD"
+    },
+    "de": {
+      "token_type": "ASPECT_MARKER"
+    },
+    "dea": {
+      "token_type": "WORD"
+    },
+    "decision": {
+      "token_type": "WORD"
+    },
+    "definitely": {
+      "token_type": "WORD"
+    },
+    "dei": {
+      "token_type": "WORD"
+    },
+    "deliberate": {
+      "token_type": "WORD"
+    },
+    "dem": {
+      "token_type": "PRONOUN"
+    },
+    "demolition": {
+      "token_type": "WORD"
+    },
+    "den": {
+      "token_type": "WORD"
+    },
+    "dependence": {
+      "token_type": "WORD"
+    },
+    "dependent": {
+      "token_type": "WORD"
+    },
+    "description": {
+      "token_type": "WORD"
+    },
+    "despair": {
+      "token_type": "WORD"
+    },
+    "desperate": {
+      "token_type": "WORD"
+    },
+    "det": {
+      "token_type": "WORD"
+    },
+    "devol": {
+      "token_type": "WORD"
+    },
+    "di": {
+      "token_type": "WORD"
+    },
+    "dif": {
+      "token_type": "WORD"
+    },
+    "difference": {
+      "token_type": "WORD"
+    },
+    "difficult": {
+      "token_type": "WORD"
+    },
+    "dilemma": {
+      "token_type": "WORD"
+    },
+    "dip": {
+      "token_type": "WORD"
+    },
+    "dis": {
+      "token_type": "WORD"
+    },
+    "disappear": {
+      "token_type": "WORD"
+    },
+    "disappoint": {
+      "token_type": "WORD"
+    },
+    "dissatisfied": {
+      "token_type": "WORD"
+    },
+    "distinguish": {
+      "token_type": "WORD"
+    },
+    "divaid": {
+      "token_type": "WORD"
+    },
+    "dog": {
+      "token_type": "WORD"
+    },
+    "dokta": {
+      "token_type": "WORD"
+    },
+    "domo": {
+      "token_type": "WORD"
+    },
+    "don": {
+      "token_type": "ASPECT_MARKER"
+    },
+    "doti": {
+      "token_type": "WORD"
+    },
+    "drai": {
+      "token_type": "WORD"
+    },
+    "draiva": {
+      "token_type": "WORD"
+    },
+    "dres": {
+      "token_type": "WORD"
+    },
+    "drink": {
+      "token_type": "VERB"
+    },
+    "dro": {
+      "token_type": "WORD"
+    },
+    "drout": {
+      "token_type": "WORD"
+    },
+    "du": {
+      "token_type": "WORD"
+    },
+    "each": {
+      "token_type": "WORD"
+    },
+    "ech": {
+      "token_type": "WORD"
+    },
+    "eg": {
+      "token_type": "WORD"
+    },
+    "eit": {
+      "token_type": "WORD"
+    },
+    "ekzatli": {
+      "token_type": "WORD"
+    },
+    "embarrass": {
+      "token_type": "WORD"
+    },
+    "empti": {
+      "token_type": "WORD"
+    },
+    "enemi": {
+      "token_type": "WORD"
+    },
+    "eni": {
+      "token_type": "WORD"
+    },
+    "enta": {
+      "token_type": "WORD"
+    },
+    "environment": {
+      "token_type": "WORD"
+    },
+    "even": {
+      "token_type": "WORD"
+    },
+    "evendo": {
+      "token_type": "WORD"
+    },
+    "evri": {
+      "token_type": "WORD"
+    },
+    "exaggerate": {
+      "token_type": "WORD"
+    },
+    "existence": {
+      "token_type": "WORD"
+    },
+    "experience": {
+      "token_type": "WORD"
+    },
+    "explanation": {
+      "token_type": "WORD"
+    },
+    "express": {
+      "token_type": "WORD"
+    },
+    "extravagant": {
+      "token_type": "WORD"
+    },
+    "fa": {
+      "token_type": "WORD"
+    },
+    "faia": {
+      "token_type": "WORD"
+    },
+    "fain": {
+      "token_type": "WORD"
+    },
+    "fait": {
+      "token_type": "VERB"
+    },
+    "faiv": {
+      "token_type": "WORD"
+    },
+    "fam": {
+      "token_type": "WORD"
+    },
+    "fama": {
+      "token_type": "WORD"
+    },
+    "famili": {
+      "token_type": "WORD"
+    },
+    "familiar": {
+      "token_type": "WORD"
+    },
+    "fas": {
+      "token_type": "WORD"
+    },
+    "fascinating": {
+      "token_type": "WORD"
+    },
+    "fast": {
+      "token_type": "WORD"
+    },
+    "fat": {
+      "token_type": "WORD"
+    },
+    "fault": {
+      "token_type": "WORD"
+    },
+    "february": {
+      "token_type": "WORD"
+    },
+    "feel": {
+      "token_type": "WORD"
+    },
+    "fens": {
+      "token_type": "WORD"
+    },
+    "fes": {
+      "token_type": "WORD"
+    },
+    "fierce": {
+      "token_type": "WORD"
+    },
+    "fikis": {
+      "token_type": "WORD"
+    },
+    "fil": {
+      "token_type": "WORD"
+    },
+    "fine": {
+      "token_type": "WORD"
+    },
+    "finga": {
+      "token_type": "WORD"
+    },
+    "finish": {
+      "token_type": "VERB"
+    },
+    "fish": {
+      "token_type": "WORD"
+    },
+    "fit": {
+      "token_type": "MODAL"
+    },
+    "fiva": {
+      "token_type": "WORD"
+    },
+    "flai": {
+      "token_type": "WORD"
+    },
+    "flat": {
+      "token_type": "WORD"
+    },
+    "flawa": {
+      "token_type": "WORD"
+    },
+    "flo": {
+      "token_type": "WORD"
+    },
+    "flod": {
+      "token_type": "WORD"
+    },
+    "fo": {
+      "token_type": "WORD"
+    },
+    "fo/na": {
+      "token_type": "WORD"
+    },
+    "foget": {
+      "token_type": "WORD"
+    },
+    "fok": {
+      "token_type": "WORD"
+    },
+    "fol": {
+      "token_type": "WORD"
+    },
+    "folow": {
+      "token_type": "WORD"
+    },
+    "fols": {
+      "token_type": "WORD"
+    },
+    "fon": {
+      "token_type": "WORD"
+    },
+    "for": {
+      "token_type": "PREPOSITION"
+    },
+    "for/in": {
+      "token_type": "WORD"
+    },
+    "fores": {
+      "token_type": "WORD"
+    },
+    "forty": {
+      "token_type": "WORD"
+    },
+    "forward": {
+      "token_type": "WORD"
+    },
+    "fowol": {
+      "token_type": "WORD"
+    },
+    "fraid": {
+      "token_type": "WORD"
+    },
+    "frequency": {
+      "token_type": "WORD"
+    },
+    "friend": {
+      "token_type": "WORD"
+    },
+    "from": {
+      "token_type": "WORD"
+    },
+    "front": {
+      "token_type": "WORD"
+    },
+    "frut": {
+      "token_type": "WORD"
+    },
+    "ful": {
+      "token_type": "WORD"
+    },
+    "fulfill": {
+      "token_type": "WORD"
+    },
+    "fut": {
+      "token_type": "WORD"
+    },
+    "garri/kasava": {
+      "token_type": "WORD"
+    },
+    "geit": {
+      "token_type": "WORD"
+    },
+    "gem": {
+      "token_type": "WORD"
+    },
+    "get": {
+      "token_type": "WORD"
+    },
+    "gif": {
+      "token_type": "WORD"
+    },
+    "giv": {
+      "token_type": "VERB"
+    },
+    "glad": {
+      "token_type": "WORD"
+    },
+    "glad/joyful": {
+      "token_type": "WORD"
+    },
+    "glas": {
+      "token_type": "WORD"
+    },
+    "go": {
+      "token_type": "FUTURE_MARKER"
+    },
+    "go,": {
+      "token_type": "WORD"
+    },
+    "god": {
+      "token_type": "WORD"
+    },
+    "gon": {
+      "token_type": "WORD"
+    },
+    "gosip": {
+      "token_type": "WORD"
+    },
+    "got": {
+      "token_type": "WORD"
+    },
+    "government": {
+      "token_type": "WORD"
+    },
+    "grammar": {
+      "token_type": "WORD"
+    },
+    "gras": {
+      "token_type": "WORD"
+    },
+    "grei": {
+      "token_type": "WORD"
+    },
+    "gri": {
+      "token_type": "WORD"
+    },
+    "grin": {
+      "token_type": "WORD"
+    },
+    "guarantee": {
+      "token_type": "WORD"
+    },
+    "gud": {
+      "token_type": "WORD"
+    },
+    "guidance": {
+      "token_type": "WORD"
+    },
+    "had": {
+      "token_type": "WORD"
+    },
+    "han": {
+      "token_type": "WORD"
+    },
+    "handred": {
+      "token_type": "VERB"
+    },
+    "hangi": {
+      "token_type": "WORD"
+    },
+    "happen": {
+      "token_type": "WORD"
+    },
+    "happiness": {
+      "token_type": "WORD"
+    },
+    "harass": {
+      "token_type": "WORD"
+    },
+    "harassment": {
+      "token_type": "WORD"
+    },
+    "hat": {
+      "token_type": "WORD"
+    },
+    "hau": {
+      "token_type": "WORD"
+    },
+    "haus": {
+      "token_type": "WORD"
+    },
+    "hed": {
+      "token_type": "WORD"
+    },
+    "hedek": {
+      "token_type": "WORD"
+    },
+    "height": {
+      "token_type": "WORD"
+    },
+    "hello": {
+      "token_type": "WORD"
+    },
+    "helo": {
+      "token_type": "WORD"
+    },
+    "help": {
+      "token_type": "VERB"
+    },
+    "hevi": {
+      "token_type": "WORD"
+    },
+    "hia": {
+      "token_type": "VERB"
+    },
+    "hia/biabia": {
+      "token_type": "WORD"
+    },
+    "hil": {
+      "token_type": "WORD"
+    },
+    "hit": {
+      "token_type": "WORD"
+    },
+    "ho": {
+      "token_type": "WORD"
+    },
+    "hol": {
+      "token_type": "WORD"
+    },
+    "hot": {
+      "token_type": "WORD"
+    },
+    "hu": {
+      "token_type": "WORD"
+    },
+    "humorous": {
+      "token_type": "WORD"
+    },
+    "hypocrisy": {
+      "token_type": "WORD"
+    },
+    "i": {
+      "token_type": "PRONOUN"
+    },
+    "i/ai": {
+      "token_type": "PRONOUN"
+    },
+    "ia": {
+      "token_type": "WORD"
+    },
+    "if": {
+      "token_type": "CONJUNCTION"
+    },
+    "imaginative": {
+      "token_type": "WORD"
+    },
+    "immediately": {
+      "token_type": "WORD"
+    },
+    "important": {
+      "token_type": "WORD"
+    },
+    "impossible": {
+      "token_type": "WORD"
+    },
+    "improvement": {
+      "token_type": "WORD"
+    },
+    "independence": {
+      "token_type": "WORD"
+    },
+    "inof": {
+      "token_type": "WORD"
+    },
+    "insaid": {
+      "token_type": "WORD"
+    },
+    "insek": {
+      "token_type": "WORD"
+    },
+    "insted": {
+      "token_type": "WORD"
+    },
+    "inta": {
+      "token_type": "WORD"
+    },
+    "interesting": {
+      "token_type": "WORD"
+    },
+    "interrupt": {
+      "token_type": "WORD"
+    },
+    "iring": {
+      "token_type": "VERB"
+    },
+    "ivning": {
+      "token_type": "VERB"
+    },
+    "jelus": {
+      "token_type": "WORD"
+    },
+    "jewelry": {
+      "token_type": "WORD"
+    },
+    "job": {
+      "token_type": "WORD"
+    },
+    "jok": {
+      "token_type": "WORD"
+    },
+    "jos": {
+      "token_type": "WORD"
+    },
+    "judgment": {
+      "token_type": "WORD"
+    },
+    "ka": {
+      "token_type": "WORD"
+    },
+    "kam": {
+      "token_type": "WORD"
+    },
+    "kam,": {
+      "token_type": "WORD"
+    },
+    "kap": {
+      "token_type": "WORD"
+    },
+    "kapenta": {
+      "token_type": "WORD"
+    },
+    "kari": {
+      "token_type": "VERB"
+    },
+    "kat": {
+      "token_type": "WORD"
+    },
+    "katlas": {
+      "token_type": "WORD"
+    },
+    "kendol": {
+      "token_type": "WORD"
+    },
+    "ketch": {
+      "token_type": "WORD"
+    },
+    "ki": {
+      "token_type": "WORD"
+    },
+    "king": {
+      "token_type": "VERB"
+    },
+    "kip": {
+      "token_type": "WORD"
+    },
+    "kisin": {
+      "token_type": "WORD"
+    },
+    "klaud": {
+      "token_type": "WORD"
+    },
+    "klin": {
+      "token_type": "WORD"
+    },
+    "klot": {
+      "token_type": "WORD"
+    },
+    "knowledge": {
+      "token_type": "WORD"
+    },
+    "kof": {
+      "token_type": "WORD"
+    },
+    "kol": {
+      "token_type": "VERB"
+    },
+    "komot": {
+      "token_type": "WORD"
+    },
+    "komot/lif": {
+      "token_type": "VERB"
+    },
+    "kompetishon": {
+      "token_type": "WORD"
+    },
+    "kon": {
+      "token_type": "WORD"
+    },
+    "konfyuz": {
+      "token_type": "VERB"
+    },
+    "kont": {
+      "token_type": "WORD"
+    },
+    "kontinyu": {
+      "token_type": "WORD"
+    },
+    "kos": {
+      "token_type": "WORD"
+    },
+    "krab": {
+      "token_type": "WORD"
+    },
+    "krai": {
+      "token_type": "VERB"
+    },
+    "kuk": {
+      "token_type": "VERB"
+    },
+    "kut": {
+      "token_type": "WORD"
+    },
+    "kwait": {
+      "token_type": "WORD"
+    },
+    "kwarel": {
+      "token_type": "WORD"
+    },
+    "kwuk": {
+      "token_type": "VERB"
+    },
+    "laboratory": {
+      "token_type": "WORD"
+    },
+    "laf": {
+      "token_type": "VERB"
+    },
+    "lai": {
+      "token_type": "WORD"
+    },
+    "lait": {
+      "token_type": "WORD"
+    },
+    "lamp": {
+      "token_type": "WORD"
+    },
+    "lan": {
+      "token_type": "WORD"
+    },
+    "language": {
+      "token_type": "WORD"
+    },
+    "las": {
+      "token_type": "WORD"
+    },
+    "laud": {
+      "token_type": "WORD"
+    },
+    "least": {
+      "token_type": "WORD"
+    },
+    "lef": {
+      "token_type": "WORD"
+    },
+    "leg": {
+      "token_type": "WORD"
+    },
+    "leisure": {
+      "token_type": "WORD"
+    },
+    "len": {
+      "token_type": "WORD"
+    },
+    "les": {
+      "token_type": "WORD"
+    },
+    "let": {
+      "token_type": "WORD"
+    },
+    "leta": {
+      "token_type": "WORD"
+    },
+    "liaison": {
+      "token_type": "WORD"
+    },
+    "lid": {
+      "token_type": "WORD"
+    },
+    "lif": {
+      "token_type": "WORD"
+    },
+    "like": {
+      "token_type": "VERB"
+    },
+    "literature": {
+      "token_type": "WORD"
+    },
+    "lok": {
+      "token_type": "WORD"
+    },
+    "loneliness": {
+      "token_type": "WORD"
+    },
+    "long": {
+      "token_type": "WORD"
+    },
+    "los": {
+      "token_type": "WORD"
+    },
+    "lot": {
+      "token_type": "WORD"
+    },
+    "love": {
+      "token_type": "VERB"
+    },
+    "ma": {
+      "token_type": "WORD"
+    },
+    "maintenance": {
+      "token_type": "WORD"
+    },
+    "makit": {
+      "token_type": "WORD"
+    },
+    "maleria": {
+      "token_type": "WORD"
+    },
+    "mama": {
+      "token_type": "WORD"
+    },
+    "man": {
+      "token_type": "WORD"
+    },
+    "maneuver": {
+      "token_type": "WORD"
+    },
+    "masta": {
+      "token_type": "WORD"
+    },
+    "mat": {
+      "token_type": "WORD"
+    },
+    "mata": {
+      "token_type": "WORD"
+    },
+    "mathematics": {
+      "token_type": "WORD"
+    },
+    "mauntin": {
+      "token_type": "WORD"
+    },
+    "maus": {
+      "token_type": "WORD"
+    },
+    "measurement": {
+      "token_type": "WORD"
+    },
+    "mebi": {
+      "token_type": "WORD"
+    },
+    "medicine": {
+      "token_type": "WORD"
+    },
+    "medsin": {
+      "token_type": "WORD"
+    },
+    "mek": {
+      "token_type": "VERB"
+    },
+    "memba": {
+      "token_type": "WORD"
+    },
+    "member": {
+      "token_type": "WORD"
+    },
+    "mesej": {
+      "token_type": "WORD"
+    },
+    "mezha": {
+      "token_type": "WORD"
+    },
+    "mi": {
+      "token_type": "PRONOUN"
+    },
+    "milk": {
+      "token_type": "WORD"
+    },
+    "millennium": {
+      "token_type": "WORD"
+    },
+    "minit": {
+      "token_type": "WORD"
+    },
+    "miscellaneous": {
+      "token_type": "WORD"
+    },
+    "mischievous": {
+      "token_type": "WORD"
+    },
+    "misspell": {
+      "token_type": "WORD"
+    },
+    "mit": {
+      "token_type": "WORD"
+    },
+    "mo": {
+      "token_type": "WORD"
+    },
+    "moni": {
+      "token_type": "WORD"
+    },
+    "moning": {
+      "token_type": "VERB"
+    },
+    "mont": {
+      "token_type": "WORD"
+    },
+    "moskito": {
+      "token_type": "WORD"
+    },
+    "mot": {
+      "token_type": "WORD"
+    },
+    "motosaikel": {
+      "token_type": "WORD"
+    },
+    "much": {
+      "token_type": "WORD"
+    },
+    "mud": {
+      "token_type": "WORD"
+    },
+    "mun": {
+      "token_type": "WORD"
+    },
+    "na": {
+      "token_type": "COPULA"
+    },
+    "naif": {
+      "token_type": "WORD"
+    },
+    "nain": {
+      "token_type": "WORD"
+    },
+    "nait": {
+      "token_type": "WORD"
+    },
+    "naro": {
+      "token_type": "WORD"
+    },
+    "nau": {
+      "token_type": "WORD"
+    },
+    "near": {
+      "token_type": "WORD"
+    },
+    "neba": {
+      "token_type": "WORD"
+    },
+    "necessary": {
+      "token_type": "WORD"
+    },
+    "negotiate": {
+      "token_type": "WORD"
+    },
+    "neiba": {
+      "token_type": "WORD"
+    },
+    "neighbor": {
+      "token_type": "WORD"
+    },
+    "nek": {
+      "token_type": "WORD"
+    },
+    "nekis": {
+      "token_type": "WORD"
+    },
+    "neklis": {
+      "token_type": "WORD"
+    },
+    "neva": {
+      "token_type": "WORD"
+    },
+    "ni": {
+      "token_type": "WORD"
+    },
+    "nia": {
+      "token_type": "WORD"
+    },
+    "ninth": {
+      "token_type": "WORD"
+    },
+    "no": {
+      "token_type": "NEGATION"
+    },
+    "nobodi": {
+      "token_type": "WORD"
+    },
+    "nos": {
+      "token_type": "WORD"
+    },
+    "nothin": {
+      "token_type": "VERB"
+    },
+    "noticeable": {
+      "token_type": "WORD"
+    },
+    "nowia": {
+      "token_type": "WORD"
+    },
+    "nu": {
+      "token_type": "WORD"
+    },
+    "nutrition": {
+      "token_type": "WORD"
+    },
+    "nyupepa": {
+      "token_type": "WORD"
+    },
+    "nyus": {
+      "token_type": "WORD"
+    },
+    "obstacle": {
+      "token_type": "WORD"
+    },
+    "occasion": {
+      "token_type": "WORD"
+    },
+    "occasionally": {
+      "token_type": "WORD"
+    },
+    "occurred": {
+      "token_type": "WORD"
+    },
+    "oda": {
+      "token_type": "WORD"
+    },
+    "of": {
+      "token_type": "WORD"
+    },
+    "ofen": {
+      "token_type": "WORD"
+    },
+    "oga/bos": {
+      "token_type": "WORD"
+    },
+    "oil": {
+      "token_type": "WORD"
+    },
+    "ol": {
+      "token_type": "WORD"
+    },
+    "olas": {
+      "token_type": "WORD"
+    },
+    "oman": {
+      "token_type": "WORD"
+    },
+    "omission": {
+      "token_type": "WORD"
+    },
+    "on": {
+      "token_type": "WORD"
+    },
+    "onda": {
+      "token_type": "WORD"
+    },
+    "onles": {
+      "token_type": "WORD"
+    },
+    "only": {
+      "token_type": "WORD"
+    },
+    "ontil": {
+      "token_type": "WORD"
+    },
+    "op": {
+      "token_type": "WORD"
+    },
+    "open": {
+      "token_type": "VERB"
+    },
+    "opportunity": {
+      "token_type": "WORD"
+    },
+    "or": {
+      "token_type": "CONJUNCTION"
+    },
+    "orait": {
+      "token_type": "WORD"
+    },
+    "oranj": {
+      "token_type": "WORD"
+    },
+    "original": {
+      "token_type": "WORD"
+    },
+    "oso": {
+      "token_type": "WORD"
+    },
+    "ospitu": {
+      "token_type": "WORD"
+    },
+    "outrageous": {
+      "token_type": "WORD"
+    },
+    "ova": {
+      "token_type": "WORD"
+    },
+    "ow": {
+      "token_type": "WORD"
+    },
+    "own": {
+      "token_type": "WORD"
+    },
+    "paddy": {
+      "token_type": "WORD"
+    },
+    "paip": {
+      "token_type": "WORD"
+    },
+    "palava/trobul": {
+      "token_type": "WORD"
+    },
+    "palmoil": {
+      "token_type": "WORD"
+    },
+    "palmwain": {
+      "token_type": "WORD"
+    },
+    "papa": {
+      "token_type": "WORD"
+    },
+    "parallel": {
+      "token_type": "WORD"
+    },
+    "particular": {
+      "token_type": "WORD"
+    },
+    "pas": {
+      "token_type": "WORD"
+    },
+    "pastime": {
+      "token_type": "WORD"
+    },
+    "pasto": {
+      "token_type": "WORD"
+    },
+    "pat": {
+      "token_type": "WORD"
+    },
+    "pe": {
+      "token_type": "VERB"
+    },
+    "pen": {
+      "token_type": "WORD"
+    },
+    "pensol": {
+      "token_type": "WORD"
+    },
+    "pepa": {
+      "token_type": "WORD"
+    },
+    "perceive": {
+      "token_type": "WORD"
+    },
+    "periphery": {
+      "token_type": "WORD"
+    },
+    "permanent": {
+      "token_type": "WORD"
+    },
+    "perseverance": {
+      "token_type": "WORD"
+    },
+    "phenomenal": {
+      "token_type": "WORD"
+    },
+    "piece": {
+      "token_type": "WORD"
+    },
+    "pig": {
+      "token_type": "WORD"
+    },
+    "pikin": {
+      "token_type": "WORD"
+    },
+    "pink": {
+      "token_type": "WORD"
+    },
+    "ple": {
+      "token_type": "VERB"
+    },
+    "plen": {
+      "token_type": "WORD"
+    },
+    "plenti": {
+      "token_type": "WORD"
+    },
+    "plenti/meni": {
+      "token_type": "WORD"
+    },
+    "plet": {
+      "token_type": "WORD"
+    },
+    "pleten": {
+      "token_type": "WORD"
+    },
+    "plis": {
+      "token_type": "WORD"
+    },
+    "pneumonia": {
+      "token_type": "WORD"
+    },
+    "po": {
+      "token_type": "WORD"
+    },
+    "polis": {
+      "token_type": "WORD"
+    },
+    "politician": {
+      "token_type": "WORD"
+    },
+    "ponishment": {
+      "token_type": "WORD"
+    },
+    "popol": {
+      "token_type": "WORD"
+    },
+    "portuguese": {
+      "token_type": "WORD"
+    },
+    "possession": {
+      "token_type": "WORD"
+    },
+    "pot": {
+      "token_type": "WORD"
+    },
+    "powerful": {
+      "token_type": "WORD"
+    },
+    "praya": {
+      "token_type": "WORD"
+    },
+    "pre": {
+      "token_type": "WORD"
+    },
+    "precede": {
+      "token_type": "WORD"
+    },
+    "preferred": {
+      "token_type": "WORD"
+    },
+    "prejudice": {
+      "token_type": "WORD"
+    },
+    "presence": {
+      "token_type": "WORD"
+    },
+    "pris": {
+      "token_type": "WORD"
+    },
+    "privilege": {
+      "token_type": "WORD"
+    },
+    "probably": {
+      "token_type": "WORD"
+    },
+    "prod": {
+      "token_type": "WORD"
+    },
+    "professional": {
+      "token_type": "WORD"
+    },
+    "profit": {
+      "token_type": "WORD"
+    },
+    "prominent": {
+      "token_type": "WORD"
+    },
+    "pronunciation": {
+      "token_type": "WORD"
+    },
+    "propaganda": {
+      "token_type": "WORD"
+    },
+    "psychiatry": {
+      "token_type": "WORD"
+    },
+    "psychology": {
+      "token_type": "WORD"
+    },
+    "publicly": {
+      "token_type": "WORD"
+    },
+    "pul": {
+      "token_type": "WORD"
+    },
+    "purposely": {
+      "token_type": "WORD"
+    },
+    "pursue": {
+      "token_type": "WORD"
+    },
+    "push": {
+      "token_type": "WORD"
+    },
+    "put": {
+      "token_type": "VERB"
+    },
+    "quality": {
+      "token_type": "WORD"
+    },
+    "quarantine": {
+      "token_type": "WORD"
+    },
+    "questionnaire": {
+      "token_type": "WORD"
+    },
+    "radio": {
+      "token_type": "WORD"
+    },
+    "rais": {
+      "token_type": "WORD"
+    },
+    "rait": {
+      "token_type": "VERB"
+    },
+    "raiti": {
+      "token_type": "WORD"
+    },
+    "rat": {
+      "token_type": "WORD"
+    },
+    "rationale": {
+      "token_type": "WORD"
+    },
+    "ready": {
+      "token_type": "WORD"
+    },
+    "realize": {
+      "token_type": "WORD"
+    },
+    "receive": {
+      "token_type": "WORD"
+    },
+    "reckless": {
+      "token_type": "WORD"
+    },
+    "recommend": {
+      "token_type": "WORD"
+    },
+    "red": {
+      "token_type": "VERB"
+    },
+    "referred": {
+      "token_type": "WORD"
+    },
+    "regardless": {
+      "token_type": "WORD"
+    },
+    "rehearsal": {
+      "token_type": "WORD"
+    },
+    "relevant": {
+      "token_type": "WORD"
+    },
+    "religious": {
+      "token_type": "WORD"
+    },
+    "remember": {
+      "token_type": "WORD"
+    },
+    "ren": {
+      "token_type": "WORD"
+    },
+    "res": {
+      "token_type": "WORD"
+    },
+    "responsibility": {
+      "token_type": "WORD"
+    },
+    "rest": {
+      "token_type": "WORD"
+    },
+    "restaurant": {
+      "token_type": "WORD"
+    },
+    "reverent": {
+      "token_type": "WORD"
+    },
+    "rhythm": {
+      "token_type": "WORD"
+    },
+    "rich": {
+      "token_type": "WORD"
+    },
+    "rid": {
+      "token_type": "VERB"
+    },
+    "ridiculous": {
+      "token_type": "WORD"
+    },
+    "rifiuz": {
+      "token_type": "WORD"
+    },
+    "right": {
+      "token_type": "WORD"
+    },
+    "ring": {
+      "token_type": "VERB"
+    },
+    "riper": {
+      "token_type": "WORD"
+    },
+    "risiv": {
+      "token_type": "WORD"
+    },
+    "riva": {
+      "token_type": "WORD"
+    },
+    "riwod": {
+      "token_type": "WORD"
+    },
+    "rod": {
+      "token_type": "WORD"
+    },
+    "rof": {
+      "token_type": "WORD"
+    },
+    "ron": {
+      "token_type": "WORD"
+    },
+    "rong": {
+      "token_type": "WORD"
+    },
+    "rop": {
+      "token_type": "WORD"
+    },
+    "roun": {
+      "token_type": "WORD"
+    },
+    "ruf": {
+      "token_type": "WORD"
+    },
+    "rum": {
+      "token_type": "WORD"
+    },
+    "rut": {
+      "token_type": "WORD"
+    },
+    "sabi": {
+      "token_type": "VERB"
+    },
+    "sacrilegious": {
+      "token_type": "WORD"
+    },
+    "salari": {
+      "token_type": "WORD"
+    },
+    "san": {
+      "token_type": "WORD"
+    },
+    "satisfied": {
+      "token_type": "WORD"
+    },
+    "scholarship": {
+      "token_type": "WORD"
+    },
+    "science": {
+      "token_type": "WORD"
+    },
+    "seasonal": {
+      "token_type": "WORD"
+    },
+    "secretary": {
+      "token_type": "WORD"
+    },
+    "seize": {
+      "token_type": "WORD"
+    },
+    "sekon": {
+      "token_type": "WORD"
+    },
+    "sekond": {
+      "token_type": "WORD"
+    },
+    "sel": {
+      "token_type": "VERB"
+    },
+    "send": {
+      "token_type": "VERB"
+    },
+    "sentence": {
+      "token_type": "WORD"
+    },
+    "separate": {
+      "token_type": "WORD"
+    },
+    "sergeant": {
+      "token_type": "WORD"
+    },
+    "sev": {
+      "token_type": "WORD"
+    },
+    "seven": {
+      "token_type": "WORD"
+    },
+    "sey": {
+      "token_type": "WORD"
+    },
+    "shalow": {
+      "token_type": "WORD"
+    },
+    "shap": {
+      "token_type": "WORD"
+    },
+    "sheme": {
+      "token_type": "VERB"
+    },
+    "shen": {
+      "token_type": "WORD"
+    },
+    "shep": {
+      "token_type": "WORD"
+    },
+    "shia": {
+      "token_type": "WORD"
+    },
+    "shif": {
+      "token_type": "WORD"
+    },
+    "shining": {
+      "token_type": "WORD"
+    },
+    "sho": {
+      "token_type": "WORD"
+    },
+    "shop": {
+      "token_type": "WORD"
+    },
+    "shot": {
+      "token_type": "WORD"
+    },
+    "shu": {
+      "token_type": "WORD"
+    },
+    "shuga": {
+      "token_type": "WORD"
+    },
+    "shulda": {
+      "token_type": "WORD"
+    },
+    "shut": {
+      "token_type": "VERB"
+    },
+    "si": {
+      "token_type": "VERB"
+    },
+    "sich": {
+      "token_type": "WORD"
+    },
+    "sid": {
+      "token_type": "VERB"
+    },
+    "sidon": {
+      "token_type": "WORD"
+    },
+    "sidon,": {
+      "token_type": "WORD"
+    },
+    "significant": {
+      "token_type": "WORD"
+    },
+    "sik": {
+      "token_type": "WORD"
+    },
+    "sikrit": {
+      "token_type": "WORD"
+    },
+    "siks": {
+      "token_type": "WORD"
+    },
+    "similar": {
+      "token_type": "WORD"
+    },
+    "sincerely": {
+      "token_type": "WORD"
+    },
+    "sinema": {
+      "token_type": "WORD"
+    },
+    "sing": {
+      "token_type": "VERB"
+    },
+    "sins": {
+      "token_type": "WORD"
+    },
+    "sista": {
+      "token_type": "WORD"
+    },
+    "siti": {
+      "token_type": "WORD"
+    },
+    "sizin": {
+      "token_type": "WORD"
+    },
+    "ska": {
+      "token_type": "WORD"
+    },
+    "ski": {
+      "token_type": "WORD"
+    },
+    "skin": {
+      "token_type": "WORD"
+    },
+    "skul": {
+      "token_type": "WORD"
+    },
+    "slip": {
+      "token_type": "VERB"
+    },
+    "slo": {
+      "token_type": "WORD"
+    },
+    "smol": {
+      "token_type": "WORD"
+    },
+    "smuth": {
+      "token_type": "WORD"
+    },
+    "snek": {
+      "token_type": "WORD"
+    },
+    "snel": {
+      "token_type": "WORD"
+    },
+    "so": {
+      "token_type": "WORD"
+    },
+    "sod": {
+      "token_type": "WORD"
+    },
+    "sof": {
+      "token_type": "WORD"
+    },
+    "sol": {
+      "token_type": "WORD"
+    },
+    "soldia": {
+      "token_type": "WORD"
+    },
+    "som": {
+      "token_type": "WORD"
+    },
+    "somhau": {
+      "token_type": "WORD"
+    },
+    "somtaim": {
+      "token_type": "WORD"
+    },
+    "somting": {
+      "token_type": "VERB"
+    },
+    "somwan": {
+      "token_type": "WORD"
+    },
+    "somwia": {
+      "token_type": "WORD"
+    },
+    "song": {
+      "token_type": "WORD"
+    },
+    "soon": {
+      "token_type": "WORD"
+    },
+    "sophisticated": {
+      "token_type": "WORD"
+    },
+    "sori": {
+      "token_type": "WORD"
+    },
+    "sosprai": {
+      "token_type": "VERB"
+    },
+    "specifically": {
+      "token_type": "WORD"
+    },
+    "speech": {
+      "token_type": "WORD"
+    },
+    "spen": {
+      "token_type": "WORD"
+    },
+    "spirit": {
+      "token_type": "WORD"
+    },
+    "spun": {
+      "token_type": "WORD"
+    },
+    "sta": {
+      "token_type": "WORD"
+    },
+    "stand": {
+      "token_type": "WORD"
+    },
+    "stat": {
+      "token_type": "VERB"
+    },
+    "stik": {
+      "token_type": "WORD"
+    },
+    "stil": {
+      "token_type": "WORD"
+    },
+    "ston": {
+      "token_type": "WORD"
+    },
+    "stop": {
+      "token_type": "VERB"
+    },
+    "stori": {
+      "token_type": "WORD"
+    },
+    "strenj": {
+      "token_type": "WORD"
+    },
+    "stret": {
+      "token_type": "WORD"
+    },
+    "strim": {
+      "token_type": "WORD"
+    },
+    "strong": {
+      "token_type": "WORD"
+    },
+    "studying": {
+      "token_type": "WORD"
+    },
+    "stul": {
+      "token_type": "WORD"
+    },
+    "subconscious": {
+      "token_type": "WORD"
+    },
+    "successful": {
+      "token_type": "WORD"
+    },
+    "suffocate": {
+      "token_type": "WORD"
+    },
+    "suitable": {
+      "token_type": "WORD"
+    },
+    "supersede": {
+      "token_type": "WORD"
+    },
+    "surprise": {
+      "token_type": "WORD"
+    },
+    "symptom": {
+      "token_type": "WORD"
+    },
+    "taim": {
+      "token_type": "WORD"
+    },
+    "tank": {
+      "token_type": "WORD"
+    },
+    "tasty": {
+      "token_type": "WORD"
+    },
+    "tattoo": {
+      "token_type": "WORD"
+    },
+    "tebol": {
+      "token_type": "WORD"
+    },
+    "tek": {
+      "token_type": "VERB"
+    },
+    "tel": {
+      "token_type": "VERB"
+    },
+    "televizon": {
+      "token_type": "WORD"
+    },
+    "telo": {
+      "token_type": "WORD"
+    },
+    "temperature": {
+      "token_type": "WORD"
+    },
+    "ten": {
+      "token_type": "WORD"
+    },
+    "tendency": {
+      "token_type": "WORD"
+    },
+    "tenki": {
+      "token_type": "WORD"
+    },
+    "terrified": {
+      "token_type": "WORD"
+    },
+    "their": {
+      "token_type": "WORD"
+    },
+    "thick": {
+      "token_type": "WORD"
+    },
+    "thin/smol": {
+      "token_type": "WORD"
+    },
+    "throw": {
+      "token_type": "WORD"
+    },
+    "thru": {
+      "token_type": "WORD"
+    },
+    "ticha": {
+      "token_type": "WORD"
+    },
+    "tif": {
+      "token_type": "WORD"
+    },
+    "timing": {
+      "token_type": "WORD"
+    },
+    "tink": {
+      "token_type": "WORD"
+    },
+    "tire": {
+      "token_type": "VERB"
+    },
+    "tisha": {
+      "token_type": "WORD"
+    },
+    "tit": {
+      "token_type": "WORD"
+    },
+    "to": {
+      "token_type": "PREPOSITION"
+    },
+    "togeda": {
+      "token_type": "WORD"
+    },
+    "toilet": {
+      "token_type": "WORD"
+    },
+    "tok": {
+      "token_type": "VERB"
+    },
+    "tok/sei": {
+      "token_type": "VERB"
+    },
+    "tol": {
+      "token_type": "WORD"
+    },
+    "tomorrow": {
+      "token_type": "WORD"
+    },
+    "tong": {
+      "token_type": "WORD"
+    },
+    "tongue": {
+      "token_type": "WORD"
+    },
+    "too": {
+      "token_type": "WORD"
+    },
+    "touzand": {
+      "token_type": "WORD"
+    },
+    "tragedy": {
+      "token_type": "WORD"
+    },
+    "trai": {
+      "token_type": "WORD"
+    },
+    "transferred": {
+      "token_type": "WORD"
+    },
+    "trawzas": {
+      "token_type": "WORD"
+    },
+    "tred": {
+      "token_type": "WORD"
+    },
+    "treda": {
+      "token_type": "WORD"
+    },
+    "tri": {
+      "token_type": "WORD"
+    },
+    "trobul": {
+      "token_type": "WORD"
+    },
+    "tru": {
+      "token_type": "WORD"
+    },
+    "truk": {
+      "token_type": "WORD"
+    },
+    "truly": {
+      "token_type": "WORD"
+    },
+    "try": {
+      "token_type": "WORD"
+    },
+    "tu": {
+      "token_type": "WORD"
+    },
+    "tu/oso": {
+      "token_type": "WORD"
+    },
+    "tudei": {
+      "token_type": "WORD"
+    },
+    "tumoro": {
+      "token_type": "WORD"
+    },
+    "twelfth": {
+      "token_type": "WORD"
+    },
+    "twenti": {
+      "token_type": "WORD"
+    },
+    "typical": {
+      "token_type": "WORD"
+    },
+    "tyranny": {
+      "token_type": "WORD"
+    },
+    "umpteen": {
+      "token_type": "WORD"
+    },
+    "unanimous": {
+      "token_type": "WORD"
+    },
+    "uncertainty": {
+      "token_type": "WORD"
+    },
+    "underrate": {
+      "token_type": "WORD"
+    },
+    "unfortunately": {
+      "token_type": "WORD"
+    },
+    "unnecessary": {
+      "token_type": "WORD"
+    },
+    "until": {
+      "token_type": "WORD"
+    },
+    "up": {
+      "token_type": "WORD"
+    },
+    "up,": {
+      "token_type": "WORD"
+    },
+    "uproarious": {
+      "token_type": "WORD"
+    },
+    "useful": {
+      "token_type": "WORD"
+    },
+    "usually": {
+      "token_type": "WORD"
+    },
+    "utterly": {
+      "token_type": "WORD"
+    },
+    "vacuum": {
+      "token_type": "WORD"
+    },
+    "vaguely": {
+      "token_type": "WORD"
+    },
+    "valuable": {
+      "token_type": "WORD"
+    },
+    "variety": {
+      "token_type": "WORD"
+    },
+    "vegetables": {
+      "token_type": "WORD"
+    },
+    "vehicle": {
+      "token_type": "WORD"
+    },
+    "vengeance": {
+      "token_type": "WORD"
+    },
+    "veterinarian": {
+      "token_type": "WORD"
+    },
+    "vex": {
+      "token_type": "WORD"
+    },
+    "vicious": {
+      "token_type": "WORD"
+    },
+    "visibility": {
+      "token_type": "WORD"
+    },
+    "vois": {
+      "token_type": "WORD"
+    },
+    "volunteer": {
+      "token_type": "WORD"
+    },
+    "waia": {
+      "token_type": "WORD"
+    },
+    "waid": {
+      "token_type": "WORD"
+    },
+    "waifoh": {
+      "token_type": "WORD"
+    },
+    "wail": {
+      "token_type": "WORD"
+    },
+    "wain": {
+      "token_type": "WORD"
+    },
+    "waka": {
+      "token_type": "VERB"
+    },
+    "wam": {
+      "token_type": "WORD"
+    },
+    "wan": {
+      "token_type": "VERB"
+    },
+    "want": {
+      "token_type": "WORD"
+    },
+    "warning": {
+      "token_type": "WORD"
+    },
+    "warranty": {
+      "token_type": "WORD"
+    },
+    "wash": {
+      "token_type": "WORD"
+    },
+    "wata": {
+      "token_type": "WORD"
+    },
+    "we": {
+      "token_type": "WORD"
+    },
+    "weakness": {
+      "token_type": "WORD"
+    },
+    "weather": {
+      "token_type": "WORD"
+    },
+    "weda": {
+      "token_type": "WORD"
+    },
+    "weird": {
+      "token_type": "WORD"
+    },
+    "weit": {
+      "token_type": "WORD"
+    },
+    "wel": {
+      "token_type": "WORD"
+    },
+    "welcome": {
+      "token_type": "WORD"
+    },
+    "welkom": {
+      "token_type": "WORD"
+    },
+    "wen": {
+      "token_type": "WORD"
+    },
+    "wes": {
+      "token_type": "WORD"
+    },
+    "wet": {
+      "token_type": "VERB"
+    },
+    "wetin": {
+      "token_type": "WORD"
+    },
+    "whe": {
+      "token_type": "WORD"
+    },
+    "whether": {
+      "token_type": "WORD"
+    },
+    "which": {
+      "token_type": "WORD"
+    },
+    "wi": {
+      "token_type": "PRONOUN"
+    },
+    "wia": {
+      "token_type": "WORD"
+    },
+    "wich": {
+      "token_type": "WORD"
+    },
+    "wik": {
+      "token_type": "WORD"
+    },
+    "win": {
+      "token_type": "WORD"
+    },
+    "windo": {
+      "token_type": "WORD"
+    },
+    "with": {
+      "token_type": "PREPOSITION"
+    },
+    "without": {
+      "token_type": "WORD"
+    },
+    "woch": {
+      "token_type": "WORD"
+    },
+    "wok": {
+      "token_type": "VERB"
+    },
+    "woka": {
+      "token_type": "WORD"
+    },
+    "wol": {
+      "token_type": "WORD"
+    },
+    "world": {
+      "token_type": "WORD"
+    },
+    "worried": {
+      "token_type": "WORD"
+    },
+    "woun": {
+      "token_type": "WORD"
+    },
+    "writing": {
+      "token_type": "WORD"
+    },
+    "wuman": {
+      "token_type": "WORD"
+    },
+    "yacht": {
+      "token_type": "WORD"
+    },
+    "yam": {
+      "token_type": "WORD"
+    },
+    "yelo": {
+      "token_type": "WORD"
+    },
+    "yes/na": {
+      "token_type": "WORD"
+    },
+    "yestadei": {
+      "token_type": "WORD"
+    },
+    "yesterday": {
+      "token_type": "WORD"
+    },
+    "yet": {
+      "token_type": "WORD"
+    },
+    "yia": {
+      "token_type": "WORD"
+    },
+    "yu": {
+      "token_type": "PRONOUN"
+    },
+    "yus": {
+      "token_type": "VERB"
+    },
+    "zaniness": {
+      "token_type": "WORD"
+    }
+  },
+  "spell_correction": {
+    "helo": {
+      "correct": "hello",
+      "pidgin_equivalent": "hello"
+    },
+    "wrold": {
+      "correct": "world",
+      "pidgin_equivalent": "world"
+    },
+    "freind": {
+      "correct": "friend",
+      "pidgin_equivalent": "friend"
+    },
+    "becuase": {
+      "correct": "because",
+      "pidgin_equivalent": "because"
+    },
+    "recieve": {
+      "correct": "receive",
+      "pidgin_equivalent": "receive"
+    },
+    "beleive": {
+      "correct": "believe",
+      "pidgin_equivalent": "believe"
+    },
+    "occured": {
+      "correct": "occurred",
+      "pidgin_equivalent": "occurred"
+    },
+    "seperate": {
+      "correct": "separate",
+      "pidgin_equivalent": "separate"
+    },
+    "definately": {
+      "correct": "definitely",
+      "pidgin_equivalent": "definitely"
+    },
+    "grammer": {
+      "correct": "grammar",
+      "pidgin_equivalent": "grammar"
+    },
+    "wierd": {
+      "correct": "weird",
+      "pidgin_equivalent": "weird"
+    },
+    "wich": {
+      "correct": "which",
+      "pidgin_equivalent": "which"
+    },
+    "untill": {
+      "correct": "until",
+      "pidgin_equivalent": "until"
+    },
+    "accomodate": {
+      "correct": "accommodate",
+      "pidgin_equivalent": "accommodate"
+    },
+    "begining": {
+      "correct": "beginning",
+      "pidgin_equivalent": "beginning"
+    },
+    "calender": {
+      "correct": "calendar",
+      "pidgin_equivalent": "calendar"
+    },
+    "carrer": {
+      "correct": "career",
+      "pidgin_equivalent": "career"
+    },
+    "commitee": {
+      "correct": "committee",
+      "pidgin_equivalent": "committee"
+    },
+    "dependant": {
+      "correct": "dependent",
+      "pidgin_equivalent": "dependent"
+    },
+    "dissapear": {
+      "correct": "disappear",
+      "pidgin_equivalent": "disappear"
+    },
+    "enviroment": {
+      "correct": "environment",
+      "pidgin_equivalent": "environment"
+    },
+    "existance": {
+      "correct": "existence",
+      "pidgin_equivalent": "existence"
+    },
+    "familar": {
+      "correct": "familiar",
+      "pidgin_equivalent": "familiar"
+    },
+    "febuary": {
+      "correct": "February",
+      "pidgin_equivalent": "February"
+    },
+    "foward": {
+      "correct": "forward",
+      "pidgin_equivalent": "forward"
+    },
+    "goverment": {
+      "correct": "government",
+      "pidgin_equivalent": "government"
+    },
+    "harrass": {
+      "correct": "harass",
+      "pidgin_equivalent": "harass"
+    },
+    "independance": {
+      "correct": "independence",
+      "pidgin_equivalent": "independence"
+    },
+    "intresting": {
+      "correct": "interesting",
+      "pidgin_equivalent": "interesting"
+    },
+    "knowlege": {
+      "correct": "knowledge",
+      "pidgin_equivalent": "knowledge"
+    },
+    "laguage": {
+      "correct": "language",
+      "pidgin_equivalent": "language"
+    },
+    "liason": {
+      "correct": "liaison",
+      "pidgin_equivalent": "liaison"
+    },
+    "maintainance": {
+      "correct": "maintenance",
+      "pidgin_equivalent": "maintenance"
+    },
+    "medecine": {
+      "correct": "medicine",
+      "pidgin_equivalent": "medicine"
+    },
+    "memeber": {
+      "correct": "member",
+      "pidgin_equivalent": "member"
+    },
+    "millenium": {
+      "correct": "millennium",
+      "pidgin_equivalent": "millennium"
+    },
+    "mispell": {
+      "correct": "misspell",
+      "pidgin_equivalent": "misspell"
+    },
+    "neccessary": {
+      "correct": "necessary",
+      "pidgin_equivalent": "necessary"
+    },
+    "nieghbor": {
+      "correct": "neighbor",
+      "pidgin_equivalent": "neighbor"
+    },
+    "occassion": {
+      "correct": "occasion",
+      "pidgin_equivalent": "occasion"
+    },
+    "persue": {
+      "correct": "pursue",
+      "pidgin_equivalent": "pursue"
+    },
+    "posession": {
+      "correct": "possession",
+      "pidgin_equivalent": "possession"
+    },
+    "priviledge": {
+      "correct": "privilege",
+      "pidgin_equivalent": "privilege"
+    },
+    "profesional": {
+      "correct": "professional",
+      "pidgin_equivalent": "professional"
+    },
+    "pronounciation": {
+      "correct": "pronunciation",
+      "pidgin_equivalent": "pronunciation"
+    },
+    "publically": {
+      "correct": "publicly",
+      "pidgin_equivalent": "publicly"
+    },
+    "questionaire": {
+      "correct": "questionnaire",
+      "pidgin_equivalent": "questionnaire"
+    },
+    "recomend": {
+      "correct": "recommend",
+      "pidgin_equivalent": "recommend"
+    },
+    "refered": {
+      "correct": "referred",
+      "pidgin_equivalent": "referred"
+    },
+    "relevent": {
+      "correct": "relevant",
+      "pidgin_equivalent": "relevant"
+    },
+    "rember": {
+      "correct": "remember",
+      "pidgin_equivalent": "remember"
+    },
+    "responsability": {
+      "correct": "responsibility",
+      "pidgin_equivalent": "responsibility"
+    },
+    "rythm": {
+      "correct": "rhythm",
+      "pidgin_equivalent": "rhythm"
+    },
+    "sargent": {
+      "correct": "sergeant",
+      "pidgin_equivalent": "sergeant"
+    },
+    "simmilar": {
+      "correct": "similar",
+      "pidgin_equivalent": "similar"
+    },
+    "speach": {
+      "correct": "speech",
+      "pidgin_equivalent": "speech"
+    },
+    "succesful": {
+      "correct": "successful",
+      "pidgin_equivalent": "successful"
+    },
+    "suprise": {
+      "correct": "surprise",
+      "pidgin_equivalent": "surprise"
+    },
+    "tatoo": {
+      "correct": "tattoo",
+      "pidgin_equivalent": "tattoo"
+    },
+    "tendancy": {
+      "correct": "tendency",
+      "pidgin_equivalent": "tendency"
+    },
+    "thier": {
+      "correct": "their",
+      "pidgin_equivalent": "their"
+    },
+    "tommorow": {
+      "correct": "tomorrow",
+      "pidgin_equivalent": "tomorrow"
+    },
+    "tounge": {
+      "correct": "tongue",
+      "pidgin_equivalent": "tongue"
+    },
+    "truely": {
+      "correct": "truly",
+      "pidgin_equivalent": "truly"
+    },
+    "typcial": {
+      "correct": "typical",
+      "pidgin_equivalent": "typical"
+    },
+    "unfortunatly": {
+      "correct": "unfortunately",
+      "pidgin_equivalent": "unfortunately"
+    },
+    "usefull": {
+      "correct": "useful",
+      "pidgin_equivalent": "useful"
+    },
+    "vaccuum": {
+      "correct": "vacuum",
+      "pidgin_equivalent": "vacuum"
+    },
+    "visious": {
+      "correct": "vicious",
+      "pidgin_equivalent": "vicious"
+    },
+    "wether": {
+      "correct": "weather",
+      "pidgin_equivalent": "weather"
+    },
+    "writting": {
+      "correct": "writing",
+      "pidgin_equivalent": "writing"
+    },
+    "yatch": {
+      "correct": "yacht",
+      "pidgin_equivalent": "yacht"
+    },
+    "yesturday": {
+      "correct": "yesterday",
+      "pidgin_equivalent": "yesterday"
+    },
+    "zaniness": {
+      "correct": "zaniness",
+      "pidgin_equivalent": "zaniness"
+    },
+    "absense": {
+      "correct": "absence",
+      "pidgin_equivalent": "absence"
+    },
+    "accidentaly": {
+      "correct": "accidentally",
+      "pidgin_equivalent": "accidentally"
+    },
+    "acheive": {
+      "correct": "achieve",
+      "pidgin_equivalent": "achieve"
+    },
+    "acnoledge": {
+      "correct": "acknowledge",
+      "pidgin_equivalent": "acknowledge"
+    },
+    "aquire": {
+      "correct": "acquire",
+      "pidgin_equivalent": "acquire"
+    },
+    "arguement": {
+      "correct": "argument",
+      "pidgin_equivalent": "argument"
+    },
+    "assasinate": {
+      "correct": "assassinate",
+      "pidgin_equivalent": "assassinate"
+    },
+    "atribute": {
+      "correct": "attribute",
+      "pidgin_equivalent": "attribute"
+    },
+    "beatiful": {
+      "correct": "beautiful",
+      "pidgin_equivalent": "beautiful"
+    },
+    "bizness": {
+      "correct": "business",
+      "pidgin_equivalent": "business"
+    },
+    "carefull": {
+      "correct": "careful",
+      "pidgin_equivalent": "careful"
+    },
+    "changable": {
+      "correct": "changeable",
+      "pidgin_equivalent": "changeable"
+    },
+    "collum": {
+      "correct": "column",
+      "pidgin_equivalent": "column"
+    },
+    "comming": {
+      "correct": "coming",
+      "pidgin_equivalent": "coming"
+    },
+    "concious": {
+      "correct": "conscious",
+      "pidgin_equivalent": "conscious"
+    },
+    "critisism": {
+      "correct": "criticism",
+      "pidgin_equivalent": "criticism"
+    },
+    "curiousity": {
+      "correct": "curiosity",
+      "pidgin_equivalent": "curiosity"
+    },
+    "dissatisfied": {
+      "correct": "dissatisfied",
+      "pidgin_equivalent": "dissatisfied"
+    },
+    "dificult": {
+      "correct": "difficult",
+      "pidgin_equivalent": "difficult"
+    },
+    "embarass": {
+      "correct": "embarrass",
+      "pidgin_equivalent": "embarrass"
+    },
+    "exagerate": {
+      "correct": "exaggerate",
+      "pidgin_equivalent": "exaggerate"
+    },
+    "experiance": {
+      "correct": "experience",
+      "pidgin_equivalent": "experience"
+    },
+    "explenation": {
+      "correct": "explanation",
+      "pidgin_equivalent": "explanation"
+    },
+    "expres": {
+      "correct": "express",
+      "pidgin_equivalent": "express"
+    },
+    "extravagent": {
+      "correct": "extravagant",
+      "pidgin_equivalent": "extravagant"
+    },
+    "facinating": {
+      "correct": "fascinating",
+      "pidgin_equivalent": "fascinating"
+    },
+    "feirce": {
+      "correct": "fierce",
+      "pidgin_equivalent": "fierce"
+    },
+    "fourty": {
+      "correct": "forty",
+      "pidgin_equivalent": "forty"
+    },
+    "frequecy": {
+      "correct": "frequency",
+      "pidgin_equivalent": "frequency"
+    },
+    "fullfil": {
+      "correct": "fulfill",
+      "pidgin_equivalent": "fulfill"
+    },
+    "garantee": {
+      "correct": "guarantee",
+      "pidgin_equivalent": "guarantee"
+    },
+    "guidence": {
+      "correct": "guidance",
+      "pidgin_equivalent": "guidance"
+    },
+    "happyness": {
+      "correct": "happiness",
+      "pidgin_equivalent": "happiness"
+    },
+    "harrasment": {
+      "correct": "harassment",
+      "pidgin_equivalent": "harassment"
+    },
+    "heighth": {
+      "correct": "height",
+      "pidgin_equivalent": "height"
+    },
+    "humerous": {
+      "correct": "humorous",
+      "pidgin_equivalent": "humorous"
+    },
+    "hypocracy": {
+      "correct": "hypocrisy",
+      "pidgin_equivalent": "hypocrisy"
+    },
+    "idependence": {
+      "correct": "independence",
+      "pidgin_equivalent": "independence"
+    },
+    "imaginative": {
+      "correct": "imaginative",
+      "pidgin_equivalent": "imaginative"
+    },
+    "immedialy": {
+      "correct": "immediately",
+      "pidgin_equivalent": "immediately"
+    },
+    "importent": {
+      "correct": "important",
+      "pidgin_equivalent": "important"
+    },
+    "imposible": {
+      "correct": "impossible",
+      "pidgin_equivalent": "impossible"
+    },
+    "impovement": {
+      "correct": "improvement",
+      "pidgin_equivalent": "improvement"
+    },
+    "interupt": {
+      "correct": "interrupt",
+      "pidgin_equivalent": "interrupt"
+    },
+    "irregardless": {
+      "correct": "regardless",
+      "pidgin_equivalent": "regardless"
+    },
+    "jewelery": {
+      "correct": "jewelry",
+      "pidgin_equivalent": "jewelry"
+    },
+    "judgement": {
+      "correct": "judgment",
+      "pidgin_equivalent": "judgment"
+    },
+    "labratory": {
+      "correct": "laboratory",
+      "pidgin_equivalent": "laboratory"
+    },
+    "liesure": {
+      "correct": "leisure",
+      "pidgin_equivalent": "leisure"
+    },
+    "litrature": {
+      "correct": "literature",
+      "pidgin_equivalent": "literature"
+    },
+    "lonliness": {
+      "correct": "loneliness",
+      "pidgin_equivalent": "loneliness"
+    },
+    "manuever": {
+      "correct": "maneuver",
+      "pidgin_equivalent": "maneuver"
+    },
+    "mathamatics": {
+      "correct": "mathematics",
+      "pidgin_equivalent": "mathematics"
+    },
+    "measurment": {
+      "correct": "measurement",
+      "pidgin_equivalent": "measurement"
+    },
+    "mischevous": {
+      "correct": "mischievous",
+      "pidgin_equivalent": "mischievous"
+    },
+    "miscelaneous": {
+      "correct": "miscellaneous",
+      "pidgin_equivalent": "miscellaneous"
+    },
+    "negociate": {
+      "correct": "negotiate",
+      "pidgin_equivalent": "negotiate"
+    },
+    "nineth": {
+      "correct": "ninth",
+      "pidgin_equivalent": "ninth"
+    },
+    "noticable": {
+      "correct": "noticeable",
+      "pidgin_equivalent": "noticeable"
+    },
+    "nutritian": {
+      "correct": "nutrition",
+      "pidgin_equivalent": "nutrition"
+    },
+    "obstacel": {
+      "correct": "obstacle",
+      "pidgin_equivalent": "obstacle"
+    },
+    "occassionally": {
+      "correct": "occasionally",
+      "pidgin_equivalent": "occasionally"
+    },
+    "omision": {
+      "correct": "omission",
+      "pidgin_equivalent": "omission"
+    },
+    "oportunity": {
+      "correct": "opportunity",
+      "pidgin_equivalent": "opportunity"
+    },
+    "orignal": {
+      "correct": "original",
+      "pidgin_equivalent": "original"
+    },
+    "outragous": {
+      "correct": "outrageous",
+      "pidgin_equivalent": "outrageous"
+    },
+    "parrallel": {
+      "correct": "parallel",
+      "pidgin_equivalent": "parallel"
+    },
+    "pastime": {
+      "correct": "pastime",
+      "pidgin_equivalent": "pastime"
+    },
+    "paticular": {
+      "correct": "particular",
+      "pidgin_equivalent": "particular"
+    },
+    "peice": {
+      "correct": "piece",
+      "pidgin_equivalent": "piece"
+    },
+    "percieve": {
+      "correct": "perceive",
+      "pidgin_equivalent": "perceive"
+    },
+    "perifery": {
+      "correct": "periphery",
+      "pidgin_equivalent": "periphery"
+    },
+    "permenant": {
+      "correct": "permanent",
+      "pidgin_equivalent": "permanent"
+    },
+    "perseverence": {
+      "correct": "perseverance",
+      "pidgin_equivalent": "perseverance"
+    },
+    "phenominal": {
+      "correct": "phenomenal",
+      "pidgin_equivalent": "phenomenal"
+    },
+    "pnemonia": {
+      "correct": "pneumonia",
+      "pidgin_equivalent": "pneumonia"
+    },
+    "politican": {
+      "correct": "politician",
+      "pidgin_equivalent": "politician"
+    },
+    "portugese": {
+      "correct": "Portuguese",
+      "pidgin_equivalent": "Portuguese"
+    },
+    "powerfull": {
+      "correct": "powerful",
+      "pidgin_equivalent": "powerful"
+    },
+    "preceed": {
+      "correct": "precede",
+      "pidgin_equivalent": "precede"
+    },
+    "prefered": {
+      "correct": "preferred",
+      "pidgin_equivalent": "preferred"
+    },
+    "prejudise": {
+      "correct": "prejudice",
+      "pidgin_equivalent": "prejudice"
+    },
+    "presance": {
+      "correct": "presence",
+      "pidgin_equivalent": "presence"
+    },
+    "privelege": {
+      "correct": "privilege",
+      "pidgin_equivalent": "privilege"
+    },
+    "probaly": {
+      "correct": "probably",
+      "pidgin_equivalent": "probably"
+    },
+    "prominant": {
+      "correct": "prominent",
+      "pidgin_equivalent": "prominent"
+    },
+    "propoganda": {
+      "correct": "propaganda",
+      "pidgin_equivalent": "propaganda"
+    },
+    "psycology": {
+      "correct": "psychology",
+      "pidgin_equivalent": "psychology"
+    },
+    "purposly": {
+      "correct": "purposely",
+      "pidgin_equivalent": "purposely"
+    },
+    "pyschiatry": {
+      "correct": "psychiatry",
+      "pidgin_equivalent": "psychiatry"
+    },
+    "quaility": {
+      "correct": "quality",
+      "pidgin_equivalent": "quality"
+    },
+    "quarentine": {
+      "correct": "quarantine",
+      "pidgin_equivalent": "quarantine"
+    },
+    "rationle": {
+      "correct": "rationale",
+      "pidgin_equivalent": "rationale"
+    },
+    "realise": {
+      "correct": "realize",
+      "pidgin_equivalent": "realize"
+    },
+    "reccomend": {
+      "correct": "recommend",
+      "pidgin_equivalent": "recommend"
+    },
+    "rehersal": {
+      "correct": "rehearsal",
+      "pidgin_equivalent": "rehearsal"
+    },
+    "relavant": {
+      "correct": "relevant",
+      "pidgin_equivalent": "relevant"
+    },
+    "religous": {
+      "correct": "religious",
+      "pidgin_equivalent": "religious"
+    },
+    "restaraunt": {
+      "correct": "restaurant",
+      "pidgin_equivalent": "restaurant"
+    },
+    "reverant": {
+      "correct": "reverent",
+      "pidgin_equivalent": "reverent"
+    },
+    "ridiculus": {
+      "correct": "ridiculous",
+      "pidgin_equivalent": "ridiculous"
+    },
+    "sacrilegious": {
+      "correct": "sacrilegious",
+      "pidgin_equivalent": "sacrilegious"
+    },
+    "saisfied": {
+      "correct": "satisfied",
+      "pidgin_equivalent": "satisfied"
+    },
+    "scholership": {
+      "correct": "scholarship",
+      "pidgin_equivalent": "scholarship"
+    },
+    "sceince": {
+      "correct": "science",
+      "pidgin_equivalent": "science"
+    },
+    "seasonel": {
+      "correct": "seasonal",
+      "pidgin_equivalent": "seasonal"
+    },
+    "secretery": {
+      "correct": "secretary",
+      "pidgin_equivalent": "secretary"
+    },
+    "sentance": {
+      "correct": "sentence",
+      "pidgin_equivalent": "sentence"
+    },
+    "shining": {
+      "correct": "shining",
+      "pidgin_equivalent": "shining"
+    },
+    "signifigant": {
+      "correct": "significant",
+      "pidgin_equivalent": "significant"
+    },
+    "sieze": {
+      "correct": "seize",
+      "pidgin_equivalent": "seize"
+    },
+    "sinceerly": {
+      "correct": "sincerely",
+      "pidgin_equivalent": "sincerely"
+    },
+    "sophistocated": {
+      "correct": "sophisticated",
+      "pidgin_equivalent": "sophisticated"
+    },
+    "specificaly": {
+      "correct": "specifically",
+      "pidgin_equivalent": "specifically"
+    },
+    "studing": {
+      "correct": "studying",
+      "pidgin_equivalent": "studying"
+    },
+    "subconcious": {
+      "correct": "subconscious",
+      "pidgin_equivalent": "subconscious"
+    },
+    "suffocait": {
+      "correct": "suffocate",
+      "pidgin_equivalent": "suffocate"
+    },
+    "suitible": {
+      "correct": "suitable",
+      "pidgin_equivalent": "suitable"
+    },
+    "supercede": {
+      "correct": "supersede",
+      "pidgin_equivalent": "supersede"
+    },
+    "symtom": {
+      "correct": "symptom",
+      "pidgin_equivalent": "symptom"
+    },
+    "temperture": {
+      "correct": "temperature",
+      "pidgin_equivalent": "temperature"
+    },
+    "tendencey": {
+      "correct": "tendency",
+      "pidgin_equivalent": "tendency"
+    },
+    "terrifyed": {
+      "correct": "terrified",
+      "pidgin_equivalent": "terrified"
+    },
+    "timeing": {
+      "correct": "timing",
+      "pidgin_equivalent": "timing"
+    },
+    "tirany": {
+      "correct": "tyranny",
+      "pidgin_equivalent": "tyranny"
+    },
+    "tradgedy": {
+      "correct": "tragedy",
+      "pidgin_equivalent": "tragedy"
+    },
+    "transfered": {
+      "correct": "transferred",
+      "pidgin_equivalent": "transferred"
+    },
+    "twelvth": {
+      "correct": "twelfth",
+      "pidgin_equivalent": "twelfth"
+    },
+    "umpteen": {
+      "correct": "umpteen",
+      "pidgin_equivalent": "umpteen"
+    },
+    "unanimus": {
+      "correct": "unanimous",
+      "pidgin_equivalent": "unanimous"
+    },
+    "uncertainity": {
+      "correct": "uncertainty",
+      "pidgin_equivalent": "uncertainty"
+    },
+    "underate": {
+      "correct": "underrate",
+      "pidgin_equivalent": "underrate"
+    },
+    "unnecesary": {
+      "correct": "unnecessary",
+      "pidgin_equivalent": "unnecessary"
+    },
+    "uproarious": {
+      "correct": "uproarious",
+      "pidgin_equivalent": "uproarious"
+    },
+    "usally": {
+      "correct": "usually",
+      "pidgin_equivalent": "usually"
+    },
+    "utterely": {
+      "correct": "utterly",
+      "pidgin_equivalent": "utterly"
+    },
+    "vaguley": {
+      "correct": "vaguely",
+      "pidgin_equivalent": "vaguely"
+    },
+    "valuble": {
+      "correct": "valuable",
+      "pidgin_equivalent": "valuable"
+    },
+    "varieity": {
+      "correct": "variety",
+      "pidgin_equivalent": "variety"
+    },
+    "vegatables": {
+      "correct": "vegetables",
+      "pidgin_equivalent": "vegetables"
+    },
+    "vehical": {
+      "correct": "vehicle",
+      "pidgin_equivalent": "vehicle"
+    },
+    "vengence": {
+      "correct": "vengeance",
+      "pidgin_equivalent": "vengeance"
+    },
+    "veterinerian": {
+      "correct": "veterinarian",
+      "pidgin_equivalent": "veterinarian"
+    },
+    "visibilty": {
+      "correct": "visibility",
+      "pidgin_equivalent": "visibility"
+    },
+    "volunteear": {
+      "correct": "volunteer",
+      "pidgin_equivalent": "volunteer"
+    },
+    "warnning": {
+      "correct": "warning",
+      "pidgin_equivalent": "warning"
+    },
+    "warantee": {
+      "correct": "warranty",
+      "pidgin_equivalent": "warranty"
+    },
+    "weaknes": {
+      "correct": "weakness",
+      "pidgin_equivalent": "weakness"
+    },
+    "wellcome": {
+      "correct": "welcome",
+      "pidgin_equivalent": "welcome"
+    },
+    "worryed": {
+      "correct": "worried",
+      "pidgin_equivalent": "worried"
+    },
+    "wreckless": {
+      "correct": "reckless",
+      "pidgin_equivalent": "reckless"
+    },
+    "absolutly": {
+      "correct": "absolutely",
+      "pidgin_equivalent": "absolutely"
+    },
+    "acess": {
+      "correct": "access",
+      "pidgin_equivalent": "access"
+    },
+    "acomodate": {
+      "correct": "accommodate",
+      "pidgin_equivalent": "accommodate"
+    },
+    "acuracy": {
+      "correct": "accuracy",
+      "pidgin_equivalent": "accuracy"
+    },
+    "adress": {
+      "correct": "address",
+      "pidgin_equivalent": "address"
+    },
+    "advertize": {
+      "correct": "advertise",
+      "pidgin_equivalent": "advertise"
+    },
+    "agressive": {
+      "correct": "aggressive",
+      "pidgin_equivalent": "aggressive"
+    },
+    "agrement": {
+      "correct": "agreement",
+      "pidgin_equivalent": "agreement"
+    },
+    "allmost": {
+      "correct": "almost",
+      "pidgin_equivalent": "almost"
+    },
+    "alot": {
+      "correct": "a lot",
+      "pidgin_equivalent": "a lot"
+    },
+    "alright": {
+      "correct": "all right",
+      "pidgin_equivalent": "all right"
+    },
+    "altho": {
+      "correct": "although",
+      "pidgin_equivalent": "although"
+    },
+    "amature": {
+      "correct": "amateur",
+      "pidgin_equivalent": "amateur"
+    },
+    "ammount": {
+      "correct": "amount",
+      "pidgin_equivalent": "amount"
+    },
+    "analize": {
+      "correct": "analyze",
+      "pidgin_equivalent": "analyze"
+    },
+    "anual": {
+      "correct": "annual",
+      "pidgin_equivalent": "annual"
+    },
+    "aparent": {
+      "correct": "apparent",
+      "pidgin_equivalent": "apparent"
+    },
+    "apear": {
+      "correct": "appear",
+      "pidgin_equivalent": "appear"
+    },
+    "appologize": {
+      "correct": "apologize",
+      "pidgin_equivalent": "apologize"
+    },
+    "apropriate": {
+      "correct": "appropriate",
+      "pidgin_equivalent": "appropriate"
+    },
+    "aproval": {
+      "correct": "approval",
+      "pidgin_equivalent": "approval"
+    },
+    "aproximately": {
+      "correct": "approximately",
+      "pidgin_equivalent": "approximately"
+    },
+    "archetecture": {
+      "correct": "architecture",
+      "pidgin_equivalent": "architecture"
+    },
+    "artical": {
+      "correct": "article",
+      "pidgin_equivalent": "article"
+    },
+    "asign": {
+      "correct": "assign",
+      "pidgin_equivalent": "assign"
+    },
+    "atend": {
+      "correct": "attend",
+      "pidgin_equivalent": "attend"
+    },
+    "atleast": {
+      "correct": "at least",
+      "pidgin_equivalent": "at least"
+    },
+    "attatchment": {
+      "correct": "attachment",
+      "pidgin_equivalent": "attachment"
+    },
+    "audiance": {
+      "correct": "audience",
+      "pidgin_equivalent": "audience"
+    },
+    "authourity": {
+      "correct": "authority",
+      "pidgin_equivalent": "authority"
+    },
+    "availible": {
+      "correct": "available",
+      "pidgin_equivalent": "available"
+    },
+    "aweful": {
+      "correct": "awful",
+      "pidgin_equivalent": "awful"
+    },
+    "ballance": {
+      "correct": "balance",
+      "pidgin_equivalent": "balance"
+    },
+    "bannana": {
+      "correct": "banana",
+      "pidgin_equivalent": "banana"
+    },
+    "basicaly": {
+      "correct": "basically",
+      "pidgin_equivalent": "basically"
+    },
+    "becaming": {
+      "correct": "becoming",
+      "pidgin_equivalent": "becoming"
+    },
+    "bordom": {
+      "correct": "boredom",
+      "pidgin_equivalent": "boredom"
+    },
+    "boundry": {
+      "correct": "boundary",
+      "pidgin_equivalent": "boundary"
+    },
+    "brocolli": {
+      "correct": "broccoli",
+      "pidgin_equivalent": "broccoli"
+    },
+    "buisness": {
+      "correct": "business",
+      "pidgin_equivalent": "business"
+    },
+    "catagory": {
+      "correct": "category",
+      "pidgin_equivalent": "category"
+    },
+    "celebrety": {
+      "correct": "celebrity",
+      "pidgin_equivalent": "celebrity"
+    },
+    "chalenging": {
+      "correct": "challenging",
+      "pidgin_equivalent": "challenging"
+    },
+    "charachter": {
+      "correct": "character",
+      "pidgin_equivalent": "character"
+    },
+    "cheif": {
+      "correct": "chief",
+      "pidgin_equivalent": "chief"
+    },
+    "choosen": {
+      "correct": "chosen",
+      "pidgin_equivalent": "chosen"
+    },
+    "cieling": {
+      "correct": "ceiling",
+      "pidgin_equivalent": "ceiling"
+    },
+    "colegue": {
+      "correct": "colleague",
+      "pidgin_equivalent": "colleague"
+    },
+    "comunity": {
+      "correct": "community",
+      "pidgin_equivalent": "community"
+    },
+    "concieve": {
+      "correct": "conceive",
+      "pidgin_equivalent": "conceive"
+    },
+    "convinient": {
+      "correct": "convenient",
+      "pidgin_equivalent": "convenient"
+    },
+    "corupt": {
+      "correct": "corrupt",
+      "pidgin_equivalent": "corrupt"
+    },
+    "crissis": {
+      "correct": "crisis",
+      "pidgin_equivalent": "crisis"
+    },
+    "custumer": {
+      "correct": "customer",
+      "pidgin_equivalent": "customer"
+    },
+    "decisoin": {
+      "correct": "decision",
+      "pidgin_equivalent": "decision"
+    },
+    "decsion": {
+      "correct": "decision",
+      "pidgin_equivalent": "decision"
+    },
+    "deffinitely": {
+      "correct": "definitely",
+      "pidgin_equivalent": "definitely"
+    },
+    "delibrate": {
+      "correct": "deliberate",
+      "pidgin_equivalent": "deliberate"
+    },
+    "demolision": {
+      "correct": "demolition",
+      "pidgin_equivalent": "demolition"
+    },
+    "dependance": {
+      "correct": "dependence",
+      "pidgin_equivalent": "dependence"
+    },
+    "depedent": {
+      "correct": "dependent",
+      "pidgin_equivalent": "dependent"
+    },
+    "desparate": {
+      "correct": "desperate",
+      "pidgin_equivalent": "desperate"
+    },
+    "desscription": {
+      "correct": "description",
+      "pidgin_equivalent": "description"
+    },
+    "diference": {
+      "correct": "difference",
+      "pidgin_equivalent": "difference"
+    },
+    "dilema": {
+      "correct": "dilemma",
+      "pidgin_equivalent": "dilemma"
+    },
+    "disapoint": {
+      "correct": "disappoint",
+      "pidgin_equivalent": "disappoint"
+    },
+    "discription": {
+      "correct": "description",
+      "pidgin_equivalent": "description"
+    },
+    "dispair": {
+      "correct": "despair",
+      "pidgin_equivalent": "despair"
+    },
+    "distinquish": {
+      "correct": "distinguish",
+      "pidgin_equivalent": "distinguish"
+    }
+  },
+  "syntax_patterns": {
+    "I am going": {
+      "pidgin_equivalent": "I de go",
+      "suggestions": [
+        "I de go"
+      ]
+    },
+    "I am eating": {
+      "pidgin_equivalent": "I de chop",
+      "suggestions": [
+        "I de chop"
+      ]
+    },
+    "I am working": {
+      "pidgin_equivalent": "I de wok",
+      "suggestions": [
+        "I de wok"
+      ]
+    },
+    "I am sleeping": {
+      "pidgin_equivalent": "I de slip",
+      "suggestions": [
+        "I de slip"
+      ]
+    },
+    "I am running": {
+      "pidgin_equivalent": "I de ron",
+      "suggestions": [
+        "I de ron"
+      ]
+    },
+    "I am coming": {
+      "pidgin_equivalent": "I de kam",
+      "suggestions": [
+        "I de kam"
+      ]
+    },
+    "I am talking": {
+      "pidgin_equivalent": "I de tok",
+      "suggestions": [
+        "I de tok"
+      ]
+    },
+    "I am drinking": {
+      "pidgin_equivalent": "I de drink",
+      "suggestions": [
+        "I de drink"
+      ]
+    },
+    "I am reading": {
+      "pidgin_equivalent": "I de rid",
+      "suggestions": [
+        "I de rid"
+      ]
+    },
+    "I am writing": {
+      "pidgin_equivalent": "I de rait",
+      "suggestions": [
+        "I de rait"
+      ]
+    },
+    "I am playing": {
+      "pidgin_equivalent": "I de ple",
+      "suggestions": [
+        "I de ple"
+      ]
+    },
+    "I am cooking": {
+      "pidgin_equivalent": "I de kuk",
+      "suggestions": [
+        "I de kuk"
+      ]
+    },
+    "I am singing": {
+      "pidgin_equivalent": "I de sing",
+      "suggestions": [
+        "I de sing"
+      ]
+    },
+    "I am dancing": {
+      "pidgin_equivalent": "I de dans",
+      "suggestions": [
+        "I de dans"
+      ]
+    },
+    "I am crying": {
+      "pidgin_equivalent": "I de krai",
+      "suggestions": [
+        "I de krai"
+      ]
+    },
+    "I am laughing": {
+      "pidgin_equivalent": "I de laf",
+      "suggestions": [
+        "I de laf"
+      ]
+    },
+    "I am fighting": {
+      "pidgin_equivalent": "I de fait",
+      "suggestions": [
+        "I de fait"
+      ]
+    },
+    "I am walking": {
+      "pidgin_equivalent": "I de waka",
+      "suggestions": [
+        "I de waka"
+      ]
+    },
+    "I am waiting": {
+      "pidgin_equivalent": "I de wet",
+      "suggestions": [
+        "I de wet"
+      ]
+    },
+    "I am helping": {
+      "pidgin_equivalent": "I de help",
+      "suggestions": [
+        "I de help"
+      ]
+    },
+    "he is going": {
+      "pidgin_equivalent": "i de go",
+      "suggestions": [
+        "i de go"
+      ]
+    },
+    "she is going": {
+      "pidgin_equivalent": "i de go",
+      "suggestions": [
+        "i de go"
+      ]
+    },
+    "he is eating": {
+      "pidgin_equivalent": "i de chop",
+      "suggestions": [
+        "i de chop"
+      ]
+    },
+    "she is eating": {
+      "pidgin_equivalent": "i de chop",
+      "suggestions": [
+        "i de chop"
+      ]
+    },
+    "he is working": {
+      "pidgin_equivalent": "i de wok",
+      "suggestions": [
+        "i de wok"
+      ]
+    },
+    "she is sleeping": {
+      "pidgin_equivalent": "i de slip",
+      "suggestions": [
+        "i de slip"
+      ]
+    },
+    "he is running": {
+      "pidgin_equivalent": "i de ron",
+      "suggestions": [
+        "i de ron"
+      ]
+    },
+    "she is coming": {
+      "pidgin_equivalent": "i de kam",
+      "suggestions": [
+        "i de kam"
+      ]
+    },
+    "he is talking": {
+      "pidgin_equivalent": "i de tok",
+      "suggestions": [
+        "i de tok"
+      ]
+    },
+    "she is drinking": {
+      "pidgin_equivalent": "i de drink",
+      "suggestions": [
+        "i de drink"
+      ]
+    },
+    "they are going": {
+      "pidgin_equivalent": "dem de go",
+      "suggestions": [
+        "dem de go"
+      ]
+    },
+    "they are eating": {
+      "pidgin_equivalent": "dem de chop",
+      "suggestions": [
+        "dem de chop"
+      ]
+    },
+    "they are working": {
+      "pidgin_equivalent": "dem de wok",
+      "suggestions": [
+        "dem de wok"
+      ]
+    },
+    "they are sleeping": {
+      "pidgin_equivalent": "dem de slip",
+      "suggestions": [
+        "dem de slip"
+      ]
+    },
+    "they are running": {
+      "pidgin_equivalent": "dem de ron",
+      "suggestions": [
+        "dem de ron"
+      ]
+    },
+    "they are coming": {
+      "pidgin_equivalent": "dem de kam",
+      "suggestions": [
+        "dem de kam"
+      ]
+    },
+    "they are talking": {
+      "pidgin_equivalent": "dem de tok",
+      "suggestions": [
+        "dem de tok"
+      ]
+    },
+    "they are drinking": {
+      "pidgin_equivalent": "dem de drink",
+      "suggestions": [
+        "dem de drink"
+      ]
+    },
+    "we are going": {
+      "pidgin_equivalent": "wi de go",
+      "suggestions": [
+        "wi de go"
+      ]
+    },
+    "we are eating": {
+      "pidgin_equivalent": "wi de chop",
+      "suggestions": [
+        "wi de chop"
+      ]
+    },
+    "we are working": {
+      "pidgin_equivalent": "wi de wok",
+      "suggestions": [
+        "wi de wok"
+      ]
+    },
+    "we are sleeping": {
+      "pidgin_equivalent": "wi de slip",
+      "suggestions": [
+        "wi de slip"
+      ]
+    },
+    "we are running": {
+      "pidgin_equivalent": "wi de ron",
+      "suggestions": [
+        "wi de ron"
+      ]
+    },
+    "we are coming": {
+      "pidgin_equivalent": "wi de kam",
+      "suggestions": [
+        "wi de kam"
+      ]
+    },
+    "we are talking": {
+      "pidgin_equivalent": "wi de tok",
+      "suggestions": [
+        "wi de tok"
+      ]
+    },
+    "you are going": {
+      "pidgin_equivalent": "yu de go",
+      "suggestions": [
+        "yu de go"
+      ]
+    },
+    "you are eating": {
+      "pidgin_equivalent": "yu de chop",
+      "suggestions": [
+        "yu de chop"
+      ]
+    },
+    "you are working": {
+      "pidgin_equivalent": "yu de wok",
+      "suggestions": [
+        "yu de wok"
+      ]
+    },
+    "I have eaten": {
+      "pidgin_equivalent": "I don chop",
+      "suggestions": [
+        "I don chop"
+      ]
+    },
+    "I have gone": {
+      "pidgin_equivalent": "I don go",
+      "suggestions": [
+        "I don go"
+      ]
+    },
+    "I have done it": {
+      "pidgin_equivalent": "I don du am",
+      "suggestions": [
+        "I don du am"
+      ]
+    },
+    "I have finished": {
+      "pidgin_equivalent": "I don finish",
+      "suggestions": [
+        "I don finish"
+      ]
+    },
+    "I have seen it": {
+      "pidgin_equivalent": "I don si am",
+      "suggestions": [
+        "I don si am"
+      ]
+    },
+    "I have heard": {
+      "pidgin_equivalent": "I don hia",
+      "suggestions": [
+        "I don hia"
+      ]
+    },
+    "I have slept": {
+      "pidgin_equivalent": "I don slip",
+      "suggestions": [
+        "I don slip"
+      ]
+    },
+    "he has eaten": {
+      "pidgin_equivalent": "i don chop",
+      "suggestions": [
+        "i don chop"
+      ]
+    },
+    "she has gone": {
+      "pidgin_equivalent": "i don go",
+      "suggestions": [
+        "i don go"
+      ]
+    },
+    "they have eaten": {
+      "pidgin_equivalent": "dem don chop",
+      "suggestions": [
+        "dem don chop"
+      ]
+    },
+    "we have finished": {
+      "pidgin_equivalent": "wi don finish",
+      "suggestions": [
+        "wi don finish"
+      ]
+    },
+    "you have done it": {
+      "pidgin_equivalent": "yu don du am",
+      "suggestions": [
+        "yu don du am"
+      ]
+    },
+    "I will go": {
+      "pidgin_equivalent": "I go go",
+      "suggestions": [
+        "I go go"
+      ]
+    },
+    "I will eat": {
+      "pidgin_equivalent": "I go chop",
+      "suggestions": [
+        "I go chop"
+      ]
+    },
+    "I will come": {
+      "pidgin_equivalent": "I go kam",
+      "suggestions": [
+        "I go kam"
+      ]
+    },
+    "I will work": {
+      "pidgin_equivalent": "I go wok",
+      "suggestions": [
+        "I go wok"
+      ]
+    },
+    "I will sleep": {
+      "pidgin_equivalent": "I go slip",
+      "suggestions": [
+        "I go slip"
+      ]
+    },
+    "I will talk": {
+      "pidgin_equivalent": "I go tok",
+      "suggestions": [
+        "I go tok"
+      ]
+    },
+    "I will help": {
+      "pidgin_equivalent": "I go help",
+      "suggestions": [
+        "I go help"
+      ]
+    },
+    "he will go": {
+      "pidgin_equivalent": "i go go",
+      "suggestions": [
+        "i go go"
+      ]
+    },
+    "she will eat": {
+      "pidgin_equivalent": "i go chop",
+      "suggestions": [
+        "i go chop"
+      ]
+    },
+    "they will come": {
+      "pidgin_equivalent": "dem go kam",
+      "suggestions": [
+        "dem go kam"
+      ]
+    },
+    "we will work": {
+      "pidgin_equivalent": "wi go wok",
+      "suggestions": [
+        "wi go wok"
+      ]
+    },
+    "you will see": {
+      "pidgin_equivalent": "yu go si",
+      "suggestions": [
+        "yu go si"
+      ]
+    },
+    "I went": {
+      "pidgin_equivalent": "I bin go",
+      "suggestions": [
+        "I bin go"
+      ]
+    },
+    "I ate": {
+      "pidgin_equivalent": "I bin chop",
+      "suggestions": [
+        "I bin chop"
+      ]
+    },
+    "I slept": {
+      "pidgin_equivalent": "I bin slip",
+      "suggestions": [
+        "I bin slip"
+      ]
+    },
+    "I saw it": {
+      "pidgin_equivalent": "I bin si am",
+      "suggestions": [
+        "I bin si am"
+      ]
+    },
+    "I worked": {
+      "pidgin_equivalent": "I bin wok",
+      "suggestions": [
+        "I bin wok"
+      ]
+    },
+    "I talked": {
+      "pidgin_equivalent": "I bin tok",
+      "suggestions": [
+        "I bin tok"
+      ]
+    },
+    "I came": {
+      "pidgin_equivalent": "I bin kam",
+      "suggestions": [
+        "I bin kam"
+      ]
+    },
+    "he went": {
+      "pidgin_equivalent": "i bin go",
+      "suggestions": [
+        "i bin go"
+      ]
+    },
+    "she ate": {
+      "pidgin_equivalent": "i bin chop",
+      "suggestions": [
+        "i bin chop"
+      ]
+    },
+    "they went": {
+      "pidgin_equivalent": "dem bin go",
+      "suggestions": [
+        "dem bin go"
+      ]
+    },
+    "we worked": {
+      "pidgin_equivalent": "wi bin wok",
+      "suggestions": [
+        "wi bin wok"
+      ]
+    },
+    "I do not know": {
+      "pidgin_equivalent": "I no sabi",
+      "suggestions": [
+        "I no sabi"
+      ]
+    },
+    "I do not want": {
+      "pidgin_equivalent": "I no want",
+      "suggestions": [
+        "I no want"
+      ]
+    },
+    "I do not have": {
+      "pidgin_equivalent": "I no get",
+      "suggestions": [
+        "I no get"
+      ]
+    },
+    "I don't know": {
+      "pidgin_equivalent": "I no sabi",
+      "suggestions": [
+        "I no sabi"
+      ]
+    },
+    "I don't want": {
+      "pidgin_equivalent": "I no want",
+      "suggestions": [
+        "I no want"
+      ]
+    },
+    "I don't have it": {
+      "pidgin_equivalent": "I no get am",
+      "suggestions": [
+        "I no get am"
+      ]
+    },
+    "I don't like it": {
+      "pidgin_equivalent": "I no like am",
+      "suggestions": [
+        "I no like am"
+      ]
+    },
+    "he does not know": {
+      "pidgin_equivalent": "i no sabi",
+      "suggestions": [
+        "i no sabi"
+      ]
+    },
+    "she does not want": {
+      "pidgin_equivalent": "i no want",
+      "suggestions": [
+        "i no want"
+      ]
+    },
+    "they do not have": {
+      "pidgin_equivalent": "dem no get",
+      "suggestions": [
+        "dem no get"
+      ]
+    },
+    "we do not know": {
+      "pidgin_equivalent": "wi no sabi",
+      "suggestions": [
+        "wi no sabi"
+      ]
+    },
+    "you do not understand": {
+      "pidgin_equivalent": "yu no sabi",
+      "suggestions": [
+        "yu no sabi"
+      ]
+    },
+    "I cannot go": {
+      "pidgin_equivalent": "I no fit go",
+      "suggestions": [
+        "I no fit go"
+      ]
+    },
+    "I cannot do it": {
+      "pidgin_equivalent": "I no fit du am",
+      "suggestions": [
+        "I no fit du am"
+      ]
+    },
+    "I cannot eat": {
+      "pidgin_equivalent": "I no fit chop",
+      "suggestions": [
+        "I no fit chop"
+      ]
+    },
+    "he cannot come": {
+      "pidgin_equivalent": "i no fit kam",
+      "suggestions": [
+        "i no fit kam"
+      ]
+    },
+    "they cannot work": {
+      "pidgin_equivalent": "dem no fit wok",
+      "suggestions": [
+        "dem no fit wok"
+      ]
+    },
+    "I did not go": {
+      "pidgin_equivalent": "I neba go",
+      "suggestions": [
+        "I neba go"
+      ]
+    },
+    "I did not eat": {
+      "pidgin_equivalent": "I neba chop",
+      "suggestions": [
+        "I neba chop"
+      ]
+    },
+    "he did not come": {
+      "pidgin_equivalent": "i neba kam",
+      "suggestions": [
+        "i neba kam"
+      ]
+    },
+    "they did not finish": {
+      "pidgin_equivalent": "dem neba finish",
+      "suggestions": [
+        "dem neba finish"
+      ]
+    },
+    "I should go": {
+      "pidgin_equivalent": "I masta go",
+      "suggestions": [
+        "I masta go"
+      ]
+    },
+    "I must work": {
+      "pidgin_equivalent": "I masta wok",
+      "suggestions": [
+        "I masta wok"
+      ]
+    },
+    "I have to eat": {
+      "pidgin_equivalent": "I get fo chop",
+      "suggestions": [
+        "I get fo chop"
+      ]
+    },
+    "I need to go": {
+      "pidgin_equivalent": "I get fo go",
+      "suggestions": [
+        "I get fo go"
+      ]
+    },
+    "I want to eat": {
+      "pidgin_equivalent": "I wan chop",
+      "suggestions": [
+        "I wan chop"
+      ]
+    },
+    "I want to go": {
+      "pidgin_equivalent": "I wan go",
+      "suggestions": [
+        "I wan go"
+      ]
+    },
+    "I want to sleep": {
+      "pidgin_equivalent": "I wan slip",
+      "suggestions": [
+        "I wan slip"
+      ]
+    },
+    "he wants to eat": {
+      "pidgin_equivalent": "i wan chop",
+      "suggestions": [
+        "i wan chop"
+      ]
+    },
+    "she wants to go": {
+      "pidgin_equivalent": "i wan go",
+      "suggestions": [
+        "i wan go"
+      ]
+    },
+    "they want to work": {
+      "pidgin_equivalent": "dem wan wok",
+      "suggestions": [
+        "dem wan wok"
+      ]
+    },
+    "I can do it": {
+      "pidgin_equivalent": "I fit du am",
+      "suggestions": [
+        "I fit du am"
+      ]
+    },
+    "I can go": {
+      "pidgin_equivalent": "I fit go",
+      "suggestions": [
+        "I fit go"
+      ]
+    },
+    "I can eat": {
+      "pidgin_equivalent": "I fit chop",
+      "suggestions": [
+        "I fit chop"
+      ]
+    },
+    "he can run": {
+      "pidgin_equivalent": "i fit ron",
+      "suggestions": [
+        "i fit ron"
+      ]
+    },
+    "they can come": {
+      "pidgin_equivalent": "dem fit kam",
+      "suggestions": [
+        "dem fit kam"
+      ]
+    },
+    "the men": {
+      "pidgin_equivalent": "di man dem",
+      "suggestions": [
+        "di man dem"
+      ]
+    },
+    "the women": {
+      "pidgin_equivalent": "di wuman dem",
+      "suggestions": [
+        "di wuman dem"
+      ]
+    },
+    "the children": {
+      "pidgin_equivalent": "di pikin dem",
+      "suggestions": [
+        "di pikin dem"
+      ]
+    },
+    "the boys": {
+      "pidgin_equivalent": "di man pikin dem",
+      "suggestions": [
+        "di man pikin dem"
+      ]
+    },
+    "the girls": {
+      "pidgin_equivalent": "di wuman pikin dem",
+      "suggestions": [
+        "di wuman pikin dem"
+      ]
+    },
+    "the teachers": {
+      "pidgin_equivalent": "di tisha dem",
+      "suggestions": [
+        "di tisha dem"
+      ]
+    },
+    "the workers": {
+      "pidgin_equivalent": "di woka dem",
+      "suggestions": [
+        "di woka dem"
+      ]
+    },
+    "give me the book": {
+      "pidgin_equivalent": "giv mi di buk",
+      "suggestions": [
+        "giv mi di buk"
+      ]
+    },
+    "he gave me money": {
+      "pidgin_equivalent": "i giv mi moni",
+      "suggestions": [
+        "i giv mi moni"
+      ]
+    },
+    "she gave him food": {
+      "pidgin_equivalent": "i giv am chop",
+      "suggestions": [
+        "i giv am chop"
+      ]
+    },
+    "this is my house": {
+      "pidgin_equivalent": "dis na ma haus",
+      "suggestions": [
+        "dis na ma haus"
+      ]
+    },
+    "that is his car": {
+      "pidgin_equivalent": "dat na i ka",
+      "suggestions": [
+        "dat na i ka"
+      ]
+    },
+    "it is her bag": {
+      "pidgin_equivalent": "na i bag dat",
+      "suggestions": [
+        "na i bag dat"
+      ]
+    },
+    "the house is big": {
+      "pidgin_equivalent": "di haus big",
+      "suggestions": [
+        "di haus big"
+      ]
+    },
+    "the food is good": {
+      "pidgin_equivalent": "di chop gud",
+      "suggestions": [
+        "di chop gud"
+      ]
+    },
+    "this man is tall": {
+      "pidgin_equivalent": "dis man tol",
+      "suggestions": [
+        "dis man tol"
+      ]
+    },
+    "where are you going": {
+      "pidgin_equivalent": "wia yu de go",
+      "suggestions": [
+        "wia yu de go"
+      ]
+    },
+    "where did you go": {
+      "pidgin_equivalent": "wia yu go bin go",
+      "suggestions": [
+        "wia yu go bin go"
+      ]
+    },
+    "what are you doing": {
+      "pidgin_equivalent": "wetin yu de du",
+      "suggestions": [
+        "wetin yu de du"
+      ]
+    },
+    "what do you want": {
+      "pidgin_equivalent": "wetin yu want",
+      "suggestions": [
+        "wetin yu want"
+      ]
+    },
+    "why are you crying": {
+      "pidgin_equivalent": "waifoh yu de krai",
+      "suggestions": [
+        "waifoh yu de krai"
+      ]
+    },
+    "who is that man": {
+      "pidgin_equivalent": "hu bi dat man",
+      "suggestions": [
+        "hu bi dat man"
+      ]
+    },
+    "how are you": {
+      "pidgin_equivalent": "hau yu de",
+      "suggestions": [
+        "hau yu de"
+      ]
+    },
+    "how much is it": {
+      "pidgin_equivalent": "hau much i bi",
+      "suggestions": [
+        "hau much i bi"
+      ]
+    },
+    "when will you come": {
+      "pidgin_equivalent": "wen yu go kam",
+      "suggestions": [
+        "wen yu go kam"
+      ]
+    },
+    "if you go I will follow": {
+      "pidgin_equivalent": "if yu go, I go folow",
+      "suggestions": [
+        "if yu go, I go folow"
+      ]
+    },
+    "if he comes tell me": {
+      "pidgin_equivalent": "if i kam, tel mi",
+      "suggestions": [
+        "if i kam, tel mi"
+      ]
+    },
+    "because I am sick": {
+      "pidgin_equivalent": "bikos I sik",
+      "suggestions": [
+        "bikos I sik"
+      ]
+    },
+    "although I tried": {
+      "pidgin_equivalent": "evendo I bin try",
+      "suggestions": [
+        "evendo I bin try"
+      ]
+    },
+    "he told me that he was coming": {
+      "pidgin_equivalent": "i tel mi sey i de kam",
+      "suggestions": [
+        "i tel mi sey i de kam"
+      ]
+    },
+    "I think that she is right": {
+      "pidgin_equivalent": "I tink sey i raiti",
+      "suggestions": [
+        "I tink sey i raiti"
+      ]
+    },
+    "I know that you are tired": {
+      "pidgin_equivalent": "I sabi sey yu don tire",
+      "suggestions": [
+        "I sabi sey yu don tire"
+      ]
+    },
+    "the boy who came": {
+      "pidgin_equivalent": "di pikin whe bin kam",
+      "suggestions": [
+        "di pikin whe bin kam"
+      ]
+    },
+    "the woman who is cooking": {
+      "pidgin_equivalent": "di wuman whe de kuk",
+      "suggestions": [
+        "di wuman whe de kuk"
+      ]
+    },
+    "the house that I built": {
+      "pidgin_equivalent": "di haus whe I bin bil",
+      "suggestions": [
+        "di haus whe I bin bil"
+      ]
+    },
+    "bigger than him": {
+      "pidgin_equivalent": "big pas am",
+      "suggestions": [
+        "big pas am"
+      ]
+    },
+    "faster than her": {
+      "pidgin_equivalent": "fas pas am",
+      "suggestions": [
+        "fas pas am"
+      ]
+    },
+    "better than them": {
+      "pidgin_equivalent": "gud pas dem",
+      "suggestions": [
+        "gud pas dem"
+      ]
+    },
+    "the biggest one": {
+      "pidgin_equivalent": "di wan whe big pas ol",
+      "suggestions": [
+        "di wan whe big pas ol"
+      ]
+    },
+    "the best food": {
+      "pidgin_equivalent": "di chop whe gud pas ol",
+      "suggestions": [
+        "di chop whe gud pas ol"
+      ]
+    },
+    "let us go": {
+      "pidgin_equivalent": "mek wi go",
+      "suggestions": [
+        "mek wi go"
+      ]
+    },
+    "let him eat": {
+      "pidgin_equivalent": "mek i chop",
+      "suggestions": [
+        "mek i chop"
+      ]
+    },
+    "let them work": {
+      "pidgin_equivalent": "mek dem wok",
+      "suggestions": [
+        "mek dem wok"
+      ]
+    },
+    "make him stop": {
+      "pidgin_equivalent": "mek i stop",
+      "suggestions": [
+        "mek i stop"
+      ]
+    },
+    "make them come": {
+      "pidgin_equivalent": "mek dem kam",
+      "suggestions": [
+        "mek dem kam"
+      ]
+    },
+    "I was going": {
+      "pidgin_equivalent": "I bin de go",
+      "suggestions": [
+        "I bin de go"
+      ]
+    },
+    "he was eating": {
+      "pidgin_equivalent": "i bin de chop",
+      "suggestions": [
+        "i bin de chop"
+      ]
+    },
+    "they were working": {
+      "pidgin_equivalent": "dem bin de wok",
+      "suggestions": [
+        "dem bin de wok"
+      ]
+    },
+    "we were sleeping": {
+      "pidgin_equivalent": "wi bin de slip",
+      "suggestions": [
+        "wi bin de slip"
+      ]
+    },
+    "I will be going": {
+      "pidgin_equivalent": "I go de go",
+      "suggestions": [
+        "I go de go"
+      ]
+    },
+    "I used to go": {
+      "pidgin_equivalent": "I bin de go",
+      "suggestions": [
+        "I bin de go"
+      ]
+    },
+    "I already ate": {
+      "pidgin_equivalent": "I don chop finish",
+      "suggestions": [
+        "I don chop finish"
+      ]
+    },
+    "I already went": {
+      "pidgin_equivalent": "I don go finish",
+      "suggestions": [
+        "I don go finish"
+      ]
+    },
+    "come and eat": {
+      "pidgin_equivalent": "kam chop",
+      "suggestions": [
+        "kam chop"
+      ]
+    },
+    "go and sleep": {
+      "pidgin_equivalent": "go slip",
+      "suggestions": [
+        "go slip"
+      ]
+    },
+    "sit down and rest": {
+      "pidgin_equivalent": "sidon, rest",
+      "suggestions": [
+        "sidon, rest"
+      ]
+    },
+    "stand up and go": {
+      "pidgin_equivalent": "stand up, go",
+      "suggestions": [
+        "stand up, go"
+      ]
+    },
+    "I am also going": {
+      "pidgin_equivalent": "I de go tu",
+      "suggestions": [
+        "I de go tu"
+      ]
+    },
+    "he came too": {
+      "pidgin_equivalent": "i bin kam tu",
+      "suggestions": [
+        "i bin kam tu"
+      ]
+    },
+    "she did not come either": {
+      "pidgin_equivalent": "i neba kam tu",
+      "suggestions": [
+        "i neba kam tu"
+      ]
+    },
+    "not only me": {
+      "pidgin_equivalent": "na only mi",
+      "suggestions": [
+        "na only mi"
+      ]
+    },
+    "only him": {
+      "pidgin_equivalent": "na only am",
+      "suggestions": [
+        "na only am"
+      ]
+    },
+    "I myself did it": {
+      "pidgin_equivalent": "Na mi own du am",
+      "suggestions": [
+        "Na mi own du am"
+      ]
+    },
+    "he himself said it": {
+      "pidgin_equivalent": "Na i own tok am",
+      "suggestions": [
+        "Na i own tok am"
+      ]
+    },
+    "this one is mine": {
+      "pidgin_equivalent": "dis wan na ma own",
+      "suggestions": [
+        "dis wan na ma own"
+      ]
+    },
+    "that one is yours": {
+      "pidgin_equivalent": "dat wan na yu own",
+      "suggestions": [
+        "dat wan na yu own"
+      ]
+    },
+    "his own is different": {
+      "pidgin_equivalent": "i own dif",
+      "suggestions": [
+        "i own dif"
+      ]
+    },
+    "the car belongs to him": {
+      "pidgin_equivalent": "di ka na i own",
+      "suggestions": [
+        "di ka na i own"
+      ]
+    },
+    "it is very good": {
+      "pidgin_equivalent": "i gud wel wel",
+      "suggestions": [
+        "i gud wel wel"
+      ]
+    },
+    "it is too much": {
+      "pidgin_equivalent": "i plenti wel",
+      "suggestions": [
+        "i plenti wel"
+      ]
+    },
+    "he is very tall": {
+      "pidgin_equivalent": "i tol wel wel",
+      "suggestions": [
+        "i tol wel wel"
+      ]
+    },
+    "she is very beautiful": {
+      "pidgin_equivalent": "i fine wel wel",
+      "suggestions": [
+        "i fine wel wel"
+      ]
+    },
+    "I am very tired": {
+      "pidgin_equivalent": "I tire wel wel",
+      "suggestions": [
+        "I tire wel wel"
+      ]
+    },
+    "go quickly": {
+      "pidgin_equivalent": "go fast fast",
+      "suggestions": [
+        "go fast fast"
+      ]
+    },
+    "come slowly": {
+      "pidgin_equivalent": "kam smol smol",
+      "suggestions": [
+        "kam smol smol"
+      ]
+    },
+    "they fought seriously": {
+      "pidgin_equivalent": "dem bin fait bad bad",
+      "suggestions": [
+        "dem bin fait bad bad"
+      ]
+    },
+    "he talked too much": {
+      "pidgin_equivalent": "i tok plenti",
+      "suggestions": [
+        "i tok plenti"
+      ]
+    },
+    "she cried a lot": {
+      "pidgin_equivalent": "i bin krai plenti",
+      "suggestions": [
+        "i bin krai plenti"
+      ]
+    },
+    "go or stay": {
+      "pidgin_equivalent": "go or siti",
+      "suggestions": [
+        "go or siti"
+      ]
+    },
+    "eat and drink": {
+      "pidgin_equivalent": "chop and drink",
+      "suggestions": [
+        "chop and drink"
+      ]
+    },
+    "he is not here": {
+      "pidgin_equivalent": "i no de hia",
+      "suggestions": [
+        "i no de hia"
+      ]
+    },
+    "I am not there": {
+      "pidgin_equivalent": "I no de dea",
+      "suggestions": [
+        "I no de dea"
+      ]
+    },
+    "nobody is at home": {
+      "pidgin_equivalent": "nobodi de for haus",
+      "suggestions": [
+        "nobodi de for haus"
+      ]
+    },
+    "there is nobody here": {
+      "pidgin_equivalent": "nobodi de hia",
+      "suggestions": [
+        "nobodi de hia"
+      ]
+    },
+    "there is no water": {
+      "pidgin_equivalent": "wata no de",
+      "suggestions": [
+        "wata no de"
+      ]
+    },
+    "there is food": {
+      "pidgin_equivalent": "chop de",
+      "suggestions": [
+        "chop de"
+      ]
+    },
+    "I have money": {
+      "pidgin_equivalent": "I get moni",
+      "suggestions": [
+        "I get moni"
+      ]
+    },
+    "do you have a pen": {
+      "pidgin_equivalent": "yu get pen",
+      "suggestions": [
+        "yu get pen"
+      ]
+    },
+    "he has no family": {
+      "pidgin_equivalent": "i no get famili",
+      "suggestions": [
+        "i no get famili"
+      ]
+    },
+    "I have finished eating": {
+      "pidgin_equivalent": "I don finish chop",
+      "suggestions": [
+        "I don finish chop"
+      ]
+    },
+    "they have not yet come": {
+      "pidgin_equivalent": "dem neba kam yet",
+      "suggestions": [
+        "dem neba kam yet"
+      ]
+    },
+    "I am almost done": {
+      "pidgin_equivalent": "I don near finish",
+      "suggestions": [
+        "I don near finish"
+      ]
+    },
+    "are you okay": {
+      "pidgin_equivalent": "yu orait",
+      "suggestions": [
+        "yu orait"
+      ]
+    },
+    "is the food ready": {
+      "pidgin_equivalent": "di chop don ready",
+      "suggestions": [
+        "di chop don ready"
+      ]
+    },
+    "it is not my fault": {
+      "pidgin_equivalent": "na no mi fault",
+      "suggestions": [
+        "na no mi fault"
+      ]
+    },
+    "that is not true": {
+      "pidgin_equivalent": "dat no bi tru",
+      "suggestions": [
+        "dat no bi tru"
+      ]
+    },
+    "this is too expensive": {
+      "pidgin_equivalent": "dis kos too much",
+      "suggestions": [
+        "dis kos too much"
+      ]
+    },
+    "it does not matter": {
+      "pidgin_equivalent": "i mek no mata",
+      "suggestions": [
+        "i mek no mata"
+      ]
+    },
+    "what happened": {
+      "pidgin_equivalent": "wetin happen",
+      "suggestions": [
+        "wetin happen"
+      ]
+    },
+    "nothing happened": {
+      "pidgin_equivalent": "nothin no happen",
+      "suggestions": [
+        "nothin no happen"
+      ]
+    },
+    "I was not there": {
+      "pidgin_equivalent": "I neba bin dea",
+      "suggestions": [
+        "I neba bin dea"
+      ]
+    },
+    "she was the one who did it": {
+      "pidgin_equivalent": "na i bin du am",
+      "suggestions": [
+        "na i bin du am"
+      ]
+    },
+    "I am the one going": {
+      "pidgin_equivalent": "na mi de go",
+      "suggestions": [
+        "na mi de go"
+      ]
+    },
+    "he is the one who talked": {
+      "pidgin_equivalent": "na i bin tok",
+      "suggestions": [
+        "na i bin tok"
+      ]
+    },
+    "I like it very much": {
+      "pidgin_equivalent": "I like am wel wel",
+      "suggestions": [
+        "I like am wel wel"
+      ]
+    },
+    "he does not like her": {
+      "pidgin_equivalent": "i no like am",
+      "suggestions": [
+        "i no like am"
+      ]
+    },
+    "they love each other": {
+      "pidgin_equivalent": "dem love each oda",
+      "suggestions": [
+        "dem love each oda"
+      ]
+    },
+    "she hates him": {
+      "pidgin_equivalent": "i vex with am",
+      "suggestions": [
+        "i vex with am"
+      ]
+    }
+  },
+  "semantic_mappings": {
+    "eat": {
+      "pidgin_equivalent": "chop",
+      "suggestions": [
+        "chop"
+      ]
+    },
+    "food": {
+      "pidgin_equivalent": "chop",
+      "suggestions": [
+        "chop"
+      ]
+    },
+    "drink": {
+      "pidgin_equivalent": "drink",
+      "suggestions": [
+        "drink"
+      ]
+    },
+    "water": {
+      "pidgin_equivalent": "wata",
+      "suggestions": [
+        "wata"
+      ]
+    },
+    "walk": {
+      "pidgin_equivalent": "waka",
+      "suggestions": [
+        "waka"
+      ]
+    },
+    "talk": {
+      "pidgin_equivalent": "tok",
+      "suggestions": [
+        "tok"
+      ]
+    },
+    "say": {
+      "pidgin_equivalent": "tok/sei",
+      "suggestions": [
+        "tok/sei"
+      ]
+    },
+    "hear": {
+      "pidgin_equivalent": "hia",
+      "suggestions": [
+        "hia"
+      ]
+    },
+    "see": {
+      "pidgin_equivalent": "si",
+      "suggestions": [
+        "si"
+      ]
+    },
+    "know": {
+      "pidgin_equivalent": "sabi",
+      "suggestions": [
+        "sabi"
+      ]
+    },
+    "understand": {
+      "pidgin_equivalent": "sabi",
+      "suggestions": [
+        "sabi"
+      ]
+    },
+    "think": {
+      "pidgin_equivalent": "tink",
+      "suggestions": [
+        "tink"
+      ]
+    },
+    "want": {
+      "pidgin_equivalent": "wan",
+      "suggestions": [
+        "wan"
+      ]
+    },
+    "like": {
+      "pidgin_equivalent": "like",
+      "suggestions": [
+        "like"
+      ]
+    },
+    "love": {
+      "pidgin_equivalent": "love",
+      "suggestions": [
+        "love"
+      ]
+    },
+    "hate": {
+      "pidgin_equivalent": "vex with",
+      "suggestions": [
+        "vex with"
+      ]
+    },
+    "fear": {
+      "pidgin_equivalent": "fraid",
+      "suggestions": [
+        "fraid"
+      ]
+    },
+    "angry": {
+      "pidgin_equivalent": "vex",
+      "suggestions": [
+        "vex"
+      ]
+    },
+    "happy": {
+      "pidgin_equivalent": "glad/joyful",
+      "suggestions": [
+        "glad/joyful"
+      ]
+    },
+    "sad": {
+      "pidgin_equivalent": "feel bad",
+      "suggestions": [
+        "feel bad"
+      ]
+    },
+    "tired": {
+      "pidgin_equivalent": "tire",
+      "suggestions": [
+        "tire"
+      ]
+    },
+    "sick": {
+      "pidgin_equivalent": "sik",
+      "suggestions": [
+        "sik"
+      ]
+    },
+    "die": {
+      "pidgin_equivalent": "dai",
+      "suggestions": [
+        "dai"
+      ]
+    },
+    "sleep": {
+      "pidgin_equivalent": "slip",
+      "suggestions": [
+        "slip"
+      ]
+    },
+    "sit": {
+      "pidgin_equivalent": "sidon",
+      "suggestions": [
+        "sidon"
+      ]
+    },
+    "stand": {
+      "pidgin_equivalent": "stand up",
+      "suggestions": [
+        "stand up"
+      ]
+    },
+    "fall": {
+      "pidgin_equivalent": "fol",
+      "suggestions": [
+        "fol"
+      ]
+    },
+    "give": {
+      "pidgin_equivalent": "giv",
+      "suggestions": [
+        "giv"
+      ]
+    },
+    "take": {
+      "pidgin_equivalent": "tek",
+      "suggestions": [
+        "tek"
+      ]
+    },
+    "bring": {
+      "pidgin_equivalent": "bring/kari kam",
+      "suggestions": [
+        "bring/kari kam"
+      ]
+    },
+    "carry": {
+      "pidgin_equivalent": "kari",
+      "suggestions": [
+        "kari"
+      ]
+    },
+    "put": {
+      "pidgin_equivalent": "put",
+      "suggestions": [
+        "put"
+      ]
+    },
+    "remove": {
+      "pidgin_equivalent": "komot",
+      "suggestions": [
+        "komot"
+      ]
+    },
+    "open": {
+      "pidgin_equivalent": "open",
+      "suggestions": [
+        "open"
+      ]
+    },
+    "close": {
+      "pidgin_equivalent": "shut",
+      "suggestions": [
+        "shut"
+      ]
+    },
+    "hold": {
+      "pidgin_equivalent": "hol",
+      "suggestions": [
+        "hol"
+      ]
+    },
+    "push": {
+      "pidgin_equivalent": "push",
+      "suggestions": [
+        "push"
+      ]
+    },
+    "pull": {
+      "pidgin_equivalent": "pul",
+      "suggestions": [
+        "pul"
+      ]
+    },
+    "throw": {
+      "pidgin_equivalent": "throw",
+      "suggestions": [
+        "throw"
+      ]
+    },
+    "catch": {
+      "pidgin_equivalent": "ketch",
+      "suggestions": [
+        "ketch"
+      ]
+    },
+    "hit": {
+      "pidgin_equivalent": "hit",
+      "suggestions": [
+        "hit"
+      ]
+    },
+    "beat": {
+      "pidgin_equivalent": "bit",
+      "suggestions": [
+        "bit"
+      ]
+    },
+    "break": {
+      "pidgin_equivalent": "brok",
+      "suggestions": [
+        "brok"
+      ]
+    },
+    "cut": {
+      "pidgin_equivalent": "kut",
+      "suggestions": [
+        "kut"
+      ]
+    },
+    "wash": {
+      "pidgin_equivalent": "wash",
+      "suggestions": [
+        "wash"
+      ]
+    },
+    "cook": {
+      "pidgin_equivalent": "kuk",
+      "suggestions": [
+        "kuk"
+      ]
+    },
+    "build": {
+      "pidgin_equivalent": "bil",
+      "suggestions": [
+        "bil"
+      ]
+    },
+    "buy": {
+      "pidgin_equivalent": "bai",
+      "suggestions": [
+        "bai"
+      ]
+    },
+    "sell": {
+      "pidgin_equivalent": "sel",
+      "suggestions": [
+        "sel"
+      ]
+    },
+    "pay": {
+      "pidgin_equivalent": "pe",
+      "suggestions": [
+        "pe"
+      ]
+    },
+    "steal": {
+      "pidgin_equivalent": "tif",
+      "suggestions": [
+        "tif"
+      ]
+    },
+    "beg": {
+      "pidgin_equivalent": "beg",
+      "suggestions": [
+        "beg"
+      ]
+    },
+    "ask": {
+      "pidgin_equivalent": "ask",
+      "suggestions": [
+        "ask"
+      ]
+    },
+    "call": {
+      "pidgin_equivalent": "kol",
+      "suggestions": [
+        "kol"
+      ]
+    },
+    "send": {
+      "pidgin_equivalent": "send",
+      "suggestions": [
+        "send"
+      ]
+    },
+    "write": {
+      "pidgin_equivalent": "rait",
+      "suggestions": [
+        "rait"
+      ]
+    },
+    "read": {
+      "pidgin_equivalent": "rid",
+      "suggestions": [
+        "rid"
+      ]
+    },
+    "learn": {
+      "pidgin_equivalent": "lan",
+      "suggestions": [
+        "lan"
+      ]
+    },
+    "teach": {
+      "pidgin_equivalent": "ticha",
+      "suggestions": [
+        "ticha"
+      ]
+    },
+    "work": {
+      "pidgin_equivalent": "wok",
+      "suggestions": [
+        "wok"
+      ]
+    },
+    "rest": {
+      "pidgin_equivalent": "res",
+      "suggestions": [
+        "res"
+      ]
+    },
+    "play": {
+      "pidgin_equivalent": "ple",
+      "suggestions": [
+        "ple"
+      ]
+    },
+    "sing": {
+      "pidgin_equivalent": "sing",
+      "suggestions": [
+        "sing"
+      ]
+    },
+    "dance": {
+      "pidgin_equivalent": "dans",
+      "suggestions": [
+        "dans"
+      ]
+    },
+    "laugh": {
+      "pidgin_equivalent": "laf",
+      "suggestions": [
+        "laf"
+      ]
+    },
+    "cry": {
+      "pidgin_equivalent": "krai",
+      "suggestions": [
+        "krai"
+      ]
+    },
+    "shout": {
+      "pidgin_equivalent": "shot",
+      "suggestions": [
+        "shot"
+      ]
+    },
+    "fight": {
+      "pidgin_equivalent": "fait",
+      "suggestions": [
+        "fait"
+      ]
+    },
+    "win": {
+      "pidgin_equivalent": "win",
+      "suggestions": [
+        "win"
+      ]
+    },
+    "lose": {
+      "pidgin_equivalent": "los",
+      "suggestions": [
+        "los"
+      ]
+    },
+    "find": {
+      "pidgin_equivalent": "fain",
+      "suggestions": [
+        "fain"
+      ]
+    },
+    "wait": {
+      "pidgin_equivalent": "wet",
+      "suggestions": [
+        "wet"
+      ]
+    },
+    "leave": {
+      "pidgin_equivalent": "komot/lif",
+      "suggestions": [
+        "komot/lif"
+      ]
+    },
+    "return": {
+      "pidgin_equivalent": "kam bak",
+      "suggestions": [
+        "kam bak"
+      ]
+    },
+    "enter": {
+      "pidgin_equivalent": "enta",
+      "suggestions": [
+        "enta"
+      ]
+    },
+    "arrive": {
+      "pidgin_equivalent": "rich",
+      "suggestions": [
+        "rich"
+      ]
+    },
+    "start": {
+      "pidgin_equivalent": "stat",
+      "suggestions": [
+        "stat"
+      ]
+    },
+    "finish": {
+      "pidgin_equivalent": "finish",
+      "suggestions": [
+        "finish"
+      ]
+    },
+    "try": {
+      "pidgin_equivalent": "trai",
+      "suggestions": [
+        "trai"
+      ]
+    },
+    "help": {
+      "pidgin_equivalent": "help",
+      "suggestions": [
+        "help"
+      ]
+    },
+    "forget": {
+      "pidgin_equivalent": "foget",
+      "suggestions": [
+        "foget"
+      ]
+    },
+    "remember": {
+      "pidgin_equivalent": "memba",
+      "suggestions": [
+        "memba"
+      ]
+    },
+    "show": {
+      "pidgin_equivalent": "sho",
+      "suggestions": [
+        "sho"
+      ]
+    },
+    "tell": {
+      "pidgin_equivalent": "tel",
+      "suggestions": [
+        "tel"
+      ]
+    },
+    "answer": {
+      "pidgin_equivalent": "ansa",
+      "suggestions": [
+        "ansa"
+      ]
+    },
+    "agree": {
+      "pidgin_equivalent": "gri",
+      "suggestions": [
+        "gri"
+      ]
+    },
+    "refuse": {
+      "pidgin_equivalent": "rifiuz",
+      "suggestions": [
+        "rifiuz"
+      ]
+    },
+    "allow": {
+      "pidgin_equivalent": "alaw",
+      "suggestions": [
+        "alaw"
+      ]
+    },
+    "stop": {
+      "pidgin_equivalent": "stop",
+      "suggestions": [
+        "stop"
+      ]
+    },
+    "continue": {
+      "pidgin_equivalent": "kontinyu",
+      "suggestions": [
+        "kontinyu"
+      ]
+    },
+    "change": {
+      "pidgin_equivalent": "chenj",
+      "suggestions": [
+        "chenj"
+      ]
+    },
+    "fix": {
+      "pidgin_equivalent": "fikis",
+      "suggestions": [
+        "fikis"
+      ]
+    },
+    "repair": {
+      "pidgin_equivalent": "riper",
+      "suggestions": [
+        "riper"
+      ]
+    },
+    "make": {
+      "pidgin_equivalent": "mek",
+      "suggestions": [
+        "mek"
+      ]
+    },
+    "use": {
+      "pidgin_equivalent": "yus",
+      "suggestions": [
+        "yus"
+      ]
+    },
+    "keep": {
+      "pidgin_equivalent": "kip",
+      "suggestions": [
+        "kip"
+      ]
+    },
+    "search": {
+      "pidgin_equivalent": "sich",
+      "suggestions": [
+        "sich"
+      ]
+    },
+    "follow": {
+      "pidgin_equivalent": "folow",
+      "suggestions": [
+        "folow"
+      ]
+    },
+    "lead": {
+      "pidgin_equivalent": "lid",
+      "suggestions": [
+        "lid"
+      ]
+    },
+    "receive": {
+      "pidgin_equivalent": "risiv",
+      "suggestions": [
+        "risiv"
+      ]
+    },
+    "owe": {
+      "pidgin_equivalent": "ow",
+      "suggestions": [
+        "ow"
+      ]
+    },
+    "borrow": {
+      "pidgin_equivalent": "baro",
+      "suggestions": [
+        "baro"
+      ]
+    },
+    "lend": {
+      "pidgin_equivalent": "len",
+      "suggestions": [
+        "len"
+      ]
+    },
+    "save": {
+      "pidgin_equivalent": "sev",
+      "suggestions": [
+        "sev"
+      ]
+    },
+    "spend": {
+      "pidgin_equivalent": "spen",
+      "suggestions": [
+        "spen"
+      ]
+    },
+    "waste": {
+      "pidgin_equivalent": "wes",
+      "suggestions": [
+        "wes"
+      ]
+    },
+    "share": {
+      "pidgin_equivalent": "shia",
+      "suggestions": [
+        "shia"
+      ]
+    },
+    "divide": {
+      "pidgin_equivalent": "divaid",
+      "suggestions": [
+        "divaid"
+      ]
+    },
+    "count": {
+      "pidgin_equivalent": "kont",
+      "suggestions": [
+        "kont"
+      ]
+    },
+    "measure": {
+      "pidgin_equivalent": "mezha",
+      "suggestions": [
+        "mezha"
+      ]
+    },
+    "weigh": {
+      "pidgin_equivalent": "we",
+      "suggestions": [
+        "we"
+      ]
+    },
+    "fill": {
+      "pidgin_equivalent": "fil",
+      "suggestions": [
+        "fil"
+      ]
+    },
+    "empty": {
+      "pidgin_equivalent": "empti",
+      "suggestions": [
+        "empti"
+      ]
+    },
+    "clean": {
+      "pidgin_equivalent": "klin",
+      "suggestions": [
+        "klin"
+      ]
+    },
+    "dirty": {
+      "pidgin_equivalent": "doti",
+      "suggestions": [
+        "doti"
+      ]
+    },
+    "new": {
+      "pidgin_equivalent": "nu",
+      "suggestions": [
+        "nu"
+      ]
+    },
+    "old": {
+      "pidgin_equivalent": "ol",
+      "suggestions": [
+        "ol"
+      ]
+    },
+    "big": {
+      "pidgin_equivalent": "big",
+      "suggestions": [
+        "big"
+      ]
+    },
+    "small": {
+      "pidgin_equivalent": "smol",
+      "suggestions": [
+        "smol"
+      ]
+    },
+    "tall": {
+      "pidgin_equivalent": "tol",
+      "suggestions": [
+        "tol"
+      ]
+    },
+    "short": {
+      "pidgin_equivalent": "shot",
+      "suggestions": [
+        "shot"
+      ]
+    },
+    "fat": {
+      "pidgin_equivalent": "fat",
+      "suggestions": [
+        "fat"
+      ]
+    },
+    "thin": {
+      "pidgin_equivalent": "thin/smol bodi",
+      "suggestions": [
+        "thin/smol bodi"
+      ]
+    },
+    "long": {
+      "pidgin_equivalent": "long",
+      "suggestions": [
+        "long"
+      ]
+    },
+    "wide": {
+      "pidgin_equivalent": "waid",
+      "suggestions": [
+        "waid"
+      ]
+    },
+    "narrow": {
+      "pidgin_equivalent": "naro",
+      "suggestions": [
+        "naro"
+      ]
+    },
+    "deep": {
+      "pidgin_equivalent": "dip",
+      "suggestions": [
+        "dip"
+      ]
+    },
+    "shallow": {
+      "pidgin_equivalent": "shalow",
+      "suggestions": [
+        "shalow"
+      ]
+    },
+    "heavy": {
+      "pidgin_equivalent": "hevi",
+      "suggestions": [
+        "hevi"
+      ]
+    },
+    "light": {
+      "pidgin_equivalent": "lait",
+      "suggestions": [
+        "lait"
+      ]
+    },
+    "hard": {
+      "pidgin_equivalent": "had",
+      "suggestions": [
+        "had"
+      ]
+    },
+    "soft": {
+      "pidgin_equivalent": "sof",
+      "suggestions": [
+        "sof"
+      ]
+    },
+    "hot": {
+      "pidgin_equivalent": "hot",
+      "suggestions": [
+        "hot"
+      ]
+    },
+    "cold": {
+      "pidgin_equivalent": "kol",
+      "suggestions": [
+        "kol"
+      ]
+    },
+    "warm": {
+      "pidgin_equivalent": "wam",
+      "suggestions": [
+        "wam"
+      ]
+    },
+    "dry": {
+      "pidgin_equivalent": "drai",
+      "suggestions": [
+        "drai"
+      ]
+    },
+    "wet": {
+      "pidgin_equivalent": "wet",
+      "suggestions": [
+        "wet"
+      ]
+    },
+    "sharp": {
+      "pidgin_equivalent": "shap",
+      "suggestions": [
+        "shap"
+      ]
+    },
+    "blunt": {
+      "pidgin_equivalent": "blunt",
+      "suggestions": [
+        "blunt"
+      ]
+    },
+    "smooth": {
+      "pidgin_equivalent": "smuth",
+      "suggestions": [
+        "smuth"
+      ]
+    },
+    "rough": {
+      "pidgin_equivalent": "rof",
+      "suggestions": [
+        "rof"
+      ]
+    },
+    "straight": {
+      "pidgin_equivalent": "stret",
+      "suggestions": [
+        "stret"
+      ]
+    },
+    "crooked": {
+      "pidgin_equivalent": "kwuk",
+      "suggestions": [
+        "kwuk"
+      ]
+    },
+    "round": {
+      "pidgin_equivalent": "roun",
+      "suggestions": [
+        "roun"
+      ]
+    },
+    "flat": {
+      "pidgin_equivalent": "flat",
+      "suggestions": [
+        "flat"
+      ]
+    },
+    "thick": {
+      "pidgin_equivalent": "thick",
+      "suggestions": [
+        "thick"
+      ]
+    },
+    "bright": {
+      "pidgin_equivalent": "breit",
+      "suggestions": [
+        "breit"
+      ]
+    },
+    "dark": {
+      "pidgin_equivalent": "dak",
+      "suggestions": [
+        "dak"
+      ]
+    },
+    "loud": {
+      "pidgin_equivalent": "laud",
+      "suggestions": [
+        "laud"
+      ]
+    },
+    "quiet": {
+      "pidgin_equivalent": "kwait",
+      "suggestions": [
+        "kwait"
+      ]
+    },
+    "fast": {
+      "pidgin_equivalent": "fas",
+      "suggestions": [
+        "fas"
+      ]
+    },
+    "slow": {
+      "pidgin_equivalent": "slo",
+      "suggestions": [
+        "slo"
+      ]
+    },
+    "early": {
+      "pidgin_equivalent": "ali",
+      "suggestions": [
+        "ali"
+      ]
+    },
+    "late": {
+      "pidgin_equivalent": "let",
+      "suggestions": [
+        "let"
+      ]
+    },
+    "soon": {
+      "pidgin_equivalent": "soon",
+      "suggestions": [
+        "soon"
+      ]
+    },
+    "always": {
+      "pidgin_equivalent": "olas",
+      "suggestions": [
+        "olas"
+      ]
+    },
+    "never": {
+      "pidgin_equivalent": "neva",
+      "suggestions": [
+        "neva"
+      ]
+    },
+    "sometimes": {
+      "pidgin_equivalent": "somtaim",
+      "suggestions": [
+        "somtaim"
+      ]
+    },
+    "often": {
+      "pidgin_equivalent": "ofen",
+      "suggestions": [
+        "ofen"
+      ]
+    },
+    "now": {
+      "pidgin_equivalent": "nau",
+      "suggestions": [
+        "nau"
+      ]
+    },
+    "then": {
+      "pidgin_equivalent": "den",
+      "suggestions": [
+        "den"
+      ]
+    },
+    "before": {
+      "pidgin_equivalent": "bifo",
+      "suggestions": [
+        "bifo"
+      ]
+    },
+    "after": {
+      "pidgin_equivalent": "afta",
+      "suggestions": [
+        "afta"
+      ]
+    },
+    "again": {
+      "pidgin_equivalent": "agen",
+      "suggestions": [
+        "agen"
+      ]
+    },
+    "still": {
+      "pidgin_equivalent": "stil",
+      "suggestions": [
+        "stil"
+      ]
+    },
+    "already": {
+      "pidgin_equivalent": "areddi",
+      "suggestions": [
+        "areddi"
+      ]
+    },
+    "yet": {
+      "pidgin_equivalent": "yet",
+      "suggestions": [
+        "yet"
+      ]
+    },
+    "just": {
+      "pidgin_equivalent": "jos",
+      "suggestions": [
+        "jos"
+      ]
+    },
+    "also": {
+      "pidgin_equivalent": "tu/oso",
+      "suggestions": [
+        "tu/oso"
+      ]
+    },
+    "only": {
+      "pidgin_equivalent": "only",
+      "suggestions": [
+        "only"
+      ]
+    },
+    "even": {
+      "pidgin_equivalent": "even",
+      "suggestions": [
+        "even"
+      ]
+    },
+    "too": {
+      "pidgin_equivalent": "tu",
+      "suggestions": [
+        "tu"
+      ]
+    },
+    "very": {
+      "pidgin_equivalent": "wel wel",
+      "suggestions": [
+        "wel wel"
+      ]
+    },
+    "more": {
+      "pidgin_equivalent": "mo",
+      "suggestions": [
+        "mo"
+      ]
+    },
+    "less": {
+      "pidgin_equivalent": "les",
+      "suggestions": [
+        "les"
+      ]
+    },
+    "enough": {
+      "pidgin_equivalent": "inof",
+      "suggestions": [
+        "inof"
+      ]
+    },
+    "too much": {
+      "pidgin_equivalent": "too much",
+      "suggestions": [
+        "too much"
+      ]
+    },
+    "a little": {
+      "pidgin_equivalent": "smol smol",
+      "suggestions": [
+        "smol smol"
+      ]
+    },
+    "a lot": {
+      "pidgin_equivalent": "plenti",
+      "suggestions": [
+        "plenti"
+      ]
+    },
+    "many": {
+      "pidgin_equivalent": "plenti/meni",
+      "suggestions": [
+        "plenti/meni"
+      ]
+    },
+    "few": {
+      "pidgin_equivalent": "smol smol",
+      "suggestions": [
+        "smol smol"
+      ]
+    },
+    "all": {
+      "pidgin_equivalent": "ol",
+      "suggestions": [
+        "ol"
+      ]
+    },
+    "both": {
+      "pidgin_equivalent": "both",
+      "suggestions": [
+        "both"
+      ]
+    },
+    "each": {
+      "pidgin_equivalent": "ech",
+      "suggestions": [
+        "ech"
+      ]
+    },
+    "every": {
+      "pidgin_equivalent": "evri",
+      "suggestions": [
+        "evri"
+      ]
+    },
+    "some": {
+      "pidgin_equivalent": "som",
+      "suggestions": [
+        "som"
+      ]
+    },
+    "any": {
+      "pidgin_equivalent": "eni",
+      "suggestions": [
+        "eni"
+      ]
+    },
+    "no": {
+      "pidgin_equivalent": "no",
+      "suggestions": [
+        "no"
+      ]
+    },
+    "not": {
+      "pidgin_equivalent": "no",
+      "suggestions": [
+        "no"
+      ]
+    },
+    "nothing": {
+      "pidgin_equivalent": "nothin",
+      "suggestions": [
+        "nothin"
+      ]
+    },
+    "nobody": {
+      "pidgin_equivalent": "nobodi",
+      "suggestions": [
+        "nobodi"
+      ]
+    },
+    "nowhere": {
+      "pidgin_equivalent": "nowia",
+      "suggestions": [
+        "nowia"
+      ]
+    },
+    "somehow": {
+      "pidgin_equivalent": "somhau",
+      "suggestions": [
+        "somhau"
+      ]
+    },
+    "somewhere": {
+      "pidgin_equivalent": "somwia",
+      "suggestions": [
+        "somwia"
+      ]
+    },
+    "someone": {
+      "pidgin_equivalent": "somwan",
+      "suggestions": [
+        "somwan"
+      ]
+    },
+    "something": {
+      "pidgin_equivalent": "somting",
+      "suggestions": [
+        "somting"
+      ]
+    },
+    "here": {
+      "pidgin_equivalent": "hia",
+      "suggestions": [
+        "hia"
+      ]
+    },
+    "there": {
+      "pidgin_equivalent": "dea",
+      "suggestions": [
+        "dea"
+      ]
+    },
+    "where": {
+      "pidgin_equivalent": "wia",
+      "suggestions": [
+        "wia"
+      ]
+    },
+    "when": {
+      "pidgin_equivalent": "wen",
+      "suggestions": [
+        "wen"
+      ]
+    },
+    "why": {
+      "pidgin_equivalent": "waifoh",
+      "suggestions": [
+        "waifoh"
+      ]
+    },
+    "how": {
+      "pidgin_equivalent": "hau",
+      "suggestions": [
+        "hau"
+      ]
+    },
+    "what": {
+      "pidgin_equivalent": "wetin",
+      "suggestions": [
+        "wetin"
+      ]
+    },
+    "who": {
+      "pidgin_equivalent": "hu",
+      "suggestions": [
+        "hu"
+      ]
+    },
+    "which": {
+      "pidgin_equivalent": "wich",
+      "suggestions": [
+        "wich"
+      ]
+    },
+    "this": {
+      "pidgin_equivalent": "dis",
+      "suggestions": [
+        "dis"
+      ]
+    },
+    "that": {
+      "pidgin_equivalent": "dat",
+      "suggestions": [
+        "dat"
+      ]
+    },
+    "these": {
+      "pidgin_equivalent": "dis dem",
+      "suggestions": [
+        "dis dem"
+      ]
+    },
+    "those": {
+      "pidgin_equivalent": "dat dem",
+      "suggestions": [
+        "dat dem"
+      ]
+    },
+    "I": {
+      "pidgin_equivalent": "I/Ai",
+      "suggestions": [
+        "I/Ai"
+      ]
+    },
+    "you": {
+      "pidgin_equivalent": "yu",
+      "suggestions": [
+        "yu"
+      ]
+    },
+    "he": {
+      "pidgin_equivalent": "i",
+      "suggestions": [
+        "i"
+      ]
+    },
+    "she": {
+      "pidgin_equivalent": "i",
+      "suggestions": [
+        "i"
+      ]
+    },
+    "it": {
+      "pidgin_equivalent": "am/i",
+      "suggestions": [
+        "am/i"
+      ]
+    },
+    "we": {
+      "pidgin_equivalent": "wi",
+      "suggestions": [
+        "wi"
+      ]
+    },
+    "they": {
+      "pidgin_equivalent": "dem",
+      "suggestions": [
+        "dem"
+      ]
+    },
+    "me": {
+      "pidgin_equivalent": "mi",
+      "suggestions": [
+        "mi"
+      ]
+    },
+    "him": {
+      "pidgin_equivalent": "am",
+      "suggestions": [
+        "am"
+      ]
+    },
+    "her": {
+      "pidgin_equivalent": "i",
+      "suggestions": [
+        "i"
+      ]
+    },
+    "us": {
+      "pidgin_equivalent": "wi",
+      "suggestions": [
+        "wi"
+      ]
+    },
+    "them": {
+      "pidgin_equivalent": "dem",
+      "suggestions": [
+        "dem"
+      ]
+    },
+    "my": {
+      "pidgin_equivalent": "ma",
+      "suggestions": [
+        "ma"
+      ]
+    },
+    "your": {
+      "pidgin_equivalent": "yu",
+      "suggestions": [
+        "yu"
+      ]
+    },
+    "his": {
+      "pidgin_equivalent": "i own",
+      "suggestions": [
+        "i own"
+      ]
+    },
+    "its": {
+      "pidgin_equivalent": "i",
+      "suggestions": [
+        "i"
+      ]
+    },
+    "our": {
+      "pidgin_equivalent": "wi own",
+      "suggestions": [
+        "wi own"
+      ]
+    },
+    "their": {
+      "pidgin_equivalent": "dem own",
+      "suggestions": [
+        "dem own"
+      ]
+    },
+    "mine": {
+      "pidgin_equivalent": "ma own",
+      "suggestions": [
+        "ma own"
+      ]
+    },
+    "yours": {
+      "pidgin_equivalent": "yu own",
+      "suggestions": [
+        "yu own"
+      ]
+    },
+    "ours": {
+      "pidgin_equivalent": "wi own",
+      "suggestions": [
+        "wi own"
+      ]
+    },
+    "theirs": {
+      "pidgin_equivalent": "dem own",
+      "suggestions": [
+        "dem own"
+      ]
+    },
+    "and": {
+      "pidgin_equivalent": "and",
+      "suggestions": [
+        "and"
+      ]
+    },
+    "but": {
+      "pidgin_equivalent": "but",
+      "suggestions": [
+        "but"
+      ]
+    },
+    "or": {
+      "pidgin_equivalent": "or",
+      "suggestions": [
+        "or"
+      ]
+    },
+    "because": {
+      "pidgin_equivalent": "bikos",
+      "suggestions": [
+        "bikos"
+      ]
+    },
+    "although": {
+      "pidgin_equivalent": "evendo",
+      "suggestions": [
+        "evendo"
+      ]
+    },
+    "if": {
+      "pidgin_equivalent": "if",
+      "suggestions": [
+        "if"
+      ]
+    },
+    "while": {
+      "pidgin_equivalent": "wail",
+      "suggestions": [
+        "wail"
+      ]
+    },
+    "until": {
+      "pidgin_equivalent": "ontil",
+      "suggestions": [
+        "ontil"
+      ]
+    },
+    "since": {
+      "pidgin_equivalent": "sins",
+      "suggestions": [
+        "sins"
+      ]
+    },
+    "unless": {
+      "pidgin_equivalent": "onles",
+      "suggestions": [
+        "onles"
+      ]
+    },
+    "so": {
+      "pidgin_equivalent": "so",
+      "suggestions": [
+        "so"
+      ]
+    },
+    "therefore": {
+      "pidgin_equivalent": "so",
+      "suggestions": [
+        "so"
+      ]
+    },
+    "however": {
+      "pidgin_equivalent": "but",
+      "suggestions": [
+        "but"
+      ]
+    },
+    "moreover": {
+      "pidgin_equivalent": "oso",
+      "suggestions": [
+        "oso"
+      ]
+    },
+    "meanwhile": {
+      "pidgin_equivalent": "wail dat",
+      "suggestions": [
+        "wail dat"
+      ]
+    },
+    "house": {
+      "pidgin_equivalent": "haus",
+      "suggestions": [
+        "haus"
+      ]
+    },
+    "home": {
+      "pidgin_equivalent": "haus",
+      "suggestions": [
+        "haus"
+      ]
+    },
+    "room": {
+      "pidgin_equivalent": "rum",
+      "suggestions": [
+        "rum"
+      ]
+    },
+    "door": {
+      "pidgin_equivalent": "domo",
+      "suggestions": [
+        "domo"
+      ]
+    },
+    "window": {
+      "pidgin_equivalent": "windo",
+      "suggestions": [
+        "windo"
+      ]
+    },
+    "floor": {
+      "pidgin_equivalent": "flo",
+      "suggestions": [
+        "flo"
+      ]
+    },
+    "roof": {
+      "pidgin_equivalent": "ruf",
+      "suggestions": [
+        "ruf"
+      ]
+    },
+    "wall": {
+      "pidgin_equivalent": "wol",
+      "suggestions": [
+        "wol"
+      ]
+    },
+    "kitchen": {
+      "pidgin_equivalent": "kisin",
+      "suggestions": [
+        "kisin"
+      ]
+    },
+    "bathroom": {
+      "pidgin_equivalent": "batrum",
+      "suggestions": [
+        "batrum"
+      ]
+    },
+    "toilet": {
+      "pidgin_equivalent": "toilet",
+      "suggestions": [
+        "toilet"
+      ]
+    },
+    "bed": {
+      "pidgin_equivalent": "bed",
+      "suggestions": [
+        "bed"
+      ]
+    },
+    "chair": {
+      "pidgin_equivalent": "shia",
+      "suggestions": [
+        "shia"
+      ]
+    },
+    "table": {
+      "pidgin_equivalent": "tebol",
+      "suggestions": [
+        "tebol"
+      ]
+    },
+    "stool": {
+      "pidgin_equivalent": "stul",
+      "suggestions": [
+        "stul"
+      ]
+    },
+    "mat": {
+      "pidgin_equivalent": "mat",
+      "suggestions": [
+        "mat"
+      ]
+    },
+    "pot": {
+      "pidgin_equivalent": "pot",
+      "suggestions": [
+        "pot"
+      ]
+    },
+    "plate": {
+      "pidgin_equivalent": "plet",
+      "suggestions": [
+        "plet"
+      ]
+    },
+    "cup": {
+      "pidgin_equivalent": "kap",
+      "suggestions": [
+        "kap"
+      ]
+    },
+    "spoon": {
+      "pidgin_equivalent": "spun",
+      "suggestions": [
+        "spun"
+      ]
+    },
+    "knife": {
+      "pidgin_equivalent": "naif",
+      "suggestions": [
+        "naif"
+      ]
+    },
+    "fork": {
+      "pidgin_equivalent": "fok",
+      "suggestions": [
+        "fok"
+      ]
+    },
+    "bucket": {
+      "pidgin_equivalent": "boket",
+      "suggestions": [
+        "boket"
+      ]
+    },
+    "lamp": {
+      "pidgin_equivalent": "lamp",
+      "suggestions": [
+        "lamp"
+      ]
+    },
+    "candle": {
+      "pidgin_equivalent": "kendol",
+      "suggestions": [
+        "kendol"
+      ]
+    },
+    "fire": {
+      "pidgin_equivalent": "faia",
+      "suggestions": [
+        "faia"
+      ]
+    },
+    "road": {
+      "pidgin_equivalent": "rod",
+      "suggestions": [
+        "rod"
+      ]
+    },
+    "path": {
+      "pidgin_equivalent": "pat",
+      "suggestions": [
+        "pat"
+      ]
+    },
+    "market": {
+      "pidgin_equivalent": "makit",
+      "suggestions": [
+        "makit"
+      ]
+    },
+    "shop": {
+      "pidgin_equivalent": "shop",
+      "suggestions": [
+        "shop"
+      ]
+    },
+    "school": {
+      "pidgin_equivalent": "skul",
+      "suggestions": [
+        "skul"
+      ]
+    },
+    "church": {
+      "pidgin_equivalent": "choch",
+      "suggestions": [
+        "choch"
+      ]
+    },
+    "hospital": {
+      "pidgin_equivalent": "ospitu",
+      "suggestions": [
+        "ospitu"
+      ]
+    },
+    "farm": {
+      "pidgin_equivalent": "fam",
+      "suggestions": [
+        "fam"
+      ]
+    },
+    "field": {
+      "pidgin_equivalent": "fil",
+      "suggestions": [
+        "fil"
+      ]
+    },
+    "river": {
+      "pidgin_equivalent": "riva",
+      "suggestions": [
+        "riva"
+      ]
+    },
+    "stream": {
+      "pidgin_equivalent": "strim",
+      "suggestions": [
+        "strim"
+      ]
+    },
+    "hill": {
+      "pidgin_equivalent": "hil",
+      "suggestions": [
+        "hil"
+      ]
+    },
+    "mountain": {
+      "pidgin_equivalent": "mauntin",
+      "suggestions": [
+        "mauntin"
+      ]
+    },
+    "forest": {
+      "pidgin_equivalent": "fores",
+      "suggestions": [
+        "fores"
+      ]
+    },
+    "tree": {
+      "pidgin_equivalent": "tri",
+      "suggestions": [
+        "tri"
+      ]
+    },
+    "leaf": {
+      "pidgin_equivalent": "lif",
+      "suggestions": [
+        "lif"
+      ]
+    },
+    "flower": {
+      "pidgin_equivalent": "flawa",
+      "suggestions": [
+        "flawa"
+      ]
+    },
+    "fruit": {
+      "pidgin_equivalent": "frut",
+      "suggestions": [
+        "frut"
+      ]
+    },
+    "seed": {
+      "pidgin_equivalent": "sid",
+      "suggestions": [
+        "sid"
+      ]
+    },
+    "root": {
+      "pidgin_equivalent": "rut",
+      "suggestions": [
+        "rut"
+      ]
+    },
+    "grass": {
+      "pidgin_equivalent": "gras",
+      "suggestions": [
+        "gras"
+      ]
+    },
+    "stone": {
+      "pidgin_equivalent": "ston",
+      "suggestions": [
+        "ston"
+      ]
+    },
+    "sand": {
+      "pidgin_equivalent": "san",
+      "suggestions": [
+        "san"
+      ]
+    },
+    "mud": {
+      "pidgin_equivalent": "mud",
+      "suggestions": [
+        "mud"
+      ]
+    },
+    "soil": {
+      "pidgin_equivalent": "sol",
+      "suggestions": [
+        "sol"
+      ]
+    },
+    "rain": {
+      "pidgin_equivalent": "ren",
+      "suggestions": [
+        "ren"
+      ]
+    },
+    "sun": {
+      "pidgin_equivalent": "san",
+      "suggestions": [
+        "san"
+      ]
+    },
+    "moon": {
+      "pidgin_equivalent": "mun",
+      "suggestions": [
+        "mun"
+      ]
+    },
+    "star": {
+      "pidgin_equivalent": "sta",
+      "suggestions": [
+        "sta"
+      ]
+    },
+    "cloud": {
+      "pidgin_equivalent": "klaud",
+      "suggestions": [
+        "klaud"
+      ]
+    },
+    "wind": {
+      "pidgin_equivalent": "win",
+      "suggestions": [
+        "win"
+      ]
+    },
+    "sky": {
+      "pidgin_equivalent": "ski",
+      "suggestions": [
+        "ski"
+      ]
+    },
+    "earth": {
+      "pidgin_equivalent": "at",
+      "suggestions": [
+        "at"
+      ]
+    },
+    "God": {
+      "pidgin_equivalent": "God",
+      "suggestions": [
+        "God"
+      ]
+    },
+    "devil": {
+      "pidgin_equivalent": "devol",
+      "suggestions": [
+        "devol"
+      ]
+    },
+    "spirit": {
+      "pidgin_equivalent": "spirit",
+      "suggestions": [
+        "spirit"
+      ]
+    },
+    "prayer": {
+      "pidgin_equivalent": "praya",
+      "suggestions": [
+        "praya"
+      ]
+    },
+    "man": {
+      "pidgin_equivalent": "man",
+      "suggestions": [
+        "man"
+      ]
+    },
+    "woman": {
+      "pidgin_equivalent": "wuman",
+      "suggestions": [
+        "wuman"
+      ]
+    },
+    "boy": {
+      "pidgin_equivalent": "man pikin",
+      "suggestions": [
+        "man pikin"
+      ]
+    },
+    "girl": {
+      "pidgin_equivalent": "wuman pikin",
+      "suggestions": [
+        "wuman pikin"
+      ]
+    },
+    "child": {
+      "pidgin_equivalent": "pikin",
+      "suggestions": [
+        "pikin"
+      ]
+    },
+    "baby": {
+      "pidgin_equivalent": "bebe",
+      "suggestions": [
+        "bebe"
+      ]
+    },
+    "mother": {
+      "pidgin_equivalent": "mama",
+      "suggestions": [
+        "mama"
+      ]
+    },
+    "father": {
+      "pidgin_equivalent": "papa",
+      "suggestions": [
+        "papa"
+      ]
+    },
+    "brother": {
+      "pidgin_equivalent": "broda",
+      "suggestions": [
+        "broda"
+      ]
+    },
+    "sister": {
+      "pidgin_equivalent": "sista",
+      "suggestions": [
+        "sista"
+      ]
+    },
+    "husband": {
+      "pidgin_equivalent": "oman man",
+      "suggestions": [
+        "oman man"
+      ]
+    },
+    "wife": {
+      "pidgin_equivalent": "man wuman",
+      "suggestions": [
+        "man wuman"
+      ]
+    },
+    "friend": {
+      "pidgin_equivalent": "paddy",
+      "suggestions": [
+        "paddy"
+      ]
+    },
+    "enemy": {
+      "pidgin_equivalent": "enemi",
+      "suggestions": [
+        "enemi"
+      ]
+    },
+    "stranger": {
+      "pidgin_equivalent": "strenj man",
+      "suggestions": [
+        "strenj man"
+      ]
+    },
+    "neighbor": {
+      "pidgin_equivalent": "neiba",
+      "suggestions": [
+        "neiba"
+      ]
+    },
+    "boss": {
+      "pidgin_equivalent": "oga/bos",
+      "suggestions": [
+        "oga/bos"
+      ]
+    },
+    "king": {
+      "pidgin_equivalent": "king",
+      "suggestions": [
+        "king"
+      ]
+    },
+    "chief": {
+      "pidgin_equivalent": "shif",
+      "suggestions": [
+        "shif"
+      ]
+    },
+    "soldier": {
+      "pidgin_equivalent": "soldia",
+      "suggestions": [
+        "soldia"
+      ]
+    },
+    "police": {
+      "pidgin_equivalent": "polis",
+      "suggestions": [
+        "polis"
+      ]
+    },
+    "teacher": {
+      "pidgin_equivalent": "tisha",
+      "suggestions": [
+        "tisha"
+      ]
+    },
+    "doctor": {
+      "pidgin_equivalent": "dokta",
+      "suggestions": [
+        "dokta"
+      ]
+    },
+    "nurse": {
+      "pidgin_equivalent": "nos",
+      "suggestions": [
+        "nos"
+      ]
+    },
+    "pastor": {
+      "pidgin_equivalent": "pasto",
+      "suggestions": [
+        "pasto"
+      ]
+    },
+    "farmer": {
+      "pidgin_equivalent": "fama",
+      "suggestions": [
+        "fama"
+      ]
+    },
+    "trader": {
+      "pidgin_equivalent": "treda",
+      "suggestions": [
+        "treda"
+      ]
+    },
+    "driver": {
+      "pidgin_equivalent": "draiva",
+      "suggestions": [
+        "draiva"
+      ]
+    },
+    "blacksmith": {
+      "pidgin_equivalent": "blaksmit",
+      "suggestions": [
+        "blaksmit"
+      ]
+    },
+    "carpenter": {
+      "pidgin_equivalent": "kapenta",
+      "suggestions": [
+        "kapenta"
+      ]
+    },
+    "tailor": {
+      "pidgin_equivalent": "telo",
+      "suggestions": [
+        "telo"
+      ]
+    },
+    "head": {
+      "pidgin_equivalent": "hed",
+      "suggestions": [
+        "hed"
+      ]
+    },
+    "hair": {
+      "pidgin_equivalent": "hia/biabia",
+      "suggestions": [
+        "hia/biabia"
+      ]
+    },
+    "face": {
+      "pidgin_equivalent": "fes",
+      "suggestions": [
+        "fes"
+      ]
+    },
+    "eye": {
+      "pidgin_equivalent": "ai",
+      "suggestions": [
+        "ai"
+      ]
+    },
+    "nose": {
+      "pidgin_equivalent": "nos",
+      "suggestions": [
+        "nos"
+      ]
+    },
+    "mouth": {
+      "pidgin_equivalent": "mot",
+      "suggestions": [
+        "mot"
+      ]
+    },
+    "ear": {
+      "pidgin_equivalent": "ia",
+      "suggestions": [
+        "ia"
+      ]
+    },
+    "neck": {
+      "pidgin_equivalent": "nek",
+      "suggestions": [
+        "nek"
+      ]
+    },
+    "shoulder": {
+      "pidgin_equivalent": "shulda",
+      "suggestions": [
+        "shulda"
+      ]
+    },
+    "arm": {
+      "pidgin_equivalent": "am",
+      "suggestions": [
+        "am"
+      ]
+    },
+    "hand": {
+      "pidgin_equivalent": "han",
+      "suggestions": [
+        "han"
+      ]
+    },
+    "finger": {
+      "pidgin_equivalent": "finga",
+      "suggestions": [
+        "finga"
+      ]
+    },
+    "chest": {
+      "pidgin_equivalent": "ches",
+      "suggestions": [
+        "ches"
+      ]
+    },
+    "stomach": {
+      "pidgin_equivalent": "bele",
+      "suggestions": [
+        "bele"
+      ]
+    },
+    "back": {
+      "pidgin_equivalent": "bak",
+      "suggestions": [
+        "bak"
+      ]
+    },
+    "leg": {
+      "pidgin_equivalent": "leg",
+      "suggestions": [
+        "leg"
+      ]
+    },
+    "foot": {
+      "pidgin_equivalent": "fut",
+      "suggestions": [
+        "fut"
+      ]
+    },
+    "knee": {
+      "pidgin_equivalent": "ni",
+      "suggestions": [
+        "ni"
+      ]
+    },
+    "toe": {
+      "pidgin_equivalent": "to",
+      "suggestions": [
+        "to"
+      ]
+    },
+    "skin": {
+      "pidgin_equivalent": "skin",
+      "suggestions": [
+        "skin"
+      ]
+    },
+    "blood": {
+      "pidgin_equivalent": "blud",
+      "suggestions": [
+        "blud"
+      ]
+    },
+    "bone": {
+      "pidgin_equivalent": "bon",
+      "suggestions": [
+        "bon"
+      ]
+    },
+    "heart": {
+      "pidgin_equivalent": "hat",
+      "suggestions": [
+        "hat"
+      ]
+    },
+    "tooth": {
+      "pidgin_equivalent": "tit",
+      "suggestions": [
+        "tit"
+      ]
+    },
+    "tongue": {
+      "pidgin_equivalent": "tong",
+      "suggestions": [
+        "tong"
+      ]
+    },
+    "voice": {
+      "pidgin_equivalent": "vois",
+      "suggestions": [
+        "vois"
+      ]
+    },
+    "cow": {
+      "pidgin_equivalent": "bif",
+      "suggestions": [
+        "bif"
+      ]
+    },
+    "goat": {
+      "pidgin_equivalent": "got",
+      "suggestions": [
+        "got"
+      ]
+    },
+    "sheep": {
+      "pidgin_equivalent": "shep",
+      "suggestions": [
+        "shep"
+      ]
+    },
+    "pig": {
+      "pidgin_equivalent": "pig",
+      "suggestions": [
+        "pig"
+      ]
+    },
+    "chicken": {
+      "pidgin_equivalent": "fowol",
+      "suggestions": [
+        "fowol"
+      ]
+    },
+    "dog": {
+      "pidgin_equivalent": "dog",
+      "suggestions": [
+        "dog"
+      ]
+    },
+    "cat": {
+      "pidgin_equivalent": "kat",
+      "suggestions": [
+        "kat"
+      ]
+    },
+    "fish": {
+      "pidgin_equivalent": "fish",
+      "suggestions": [
+        "fish"
+      ]
+    },
+    "crab": {
+      "pidgin_equivalent": "krab",
+      "suggestions": [
+        "krab"
+      ]
+    },
+    "snail": {
+      "pidgin_equivalent": "snel",
+      "suggestions": [
+        "snel"
+      ]
+    },
+    "snake": {
+      "pidgin_equivalent": "snek",
+      "suggestions": [
+        "snek"
+      ]
+    },
+    "rat": {
+      "pidgin_equivalent": "rat",
+      "suggestions": [
+        "rat"
+      ]
+    },
+    "mouse": {
+      "pidgin_equivalent": "maus",
+      "suggestions": [
+        "maus"
+      ]
+    },
+    "bird": {
+      "pidgin_equivalent": "bod",
+      "suggestions": [
+        "bod"
+      ]
+    },
+    "insect": {
+      "pidgin_equivalent": "insek",
+      "suggestions": [
+        "insek"
+      ]
+    },
+    "ant": {
+      "pidgin_equivalent": "ant",
+      "suggestions": [
+        "ant"
+      ]
+    },
+    "mosquito": {
+      "pidgin_equivalent": "moskito",
+      "suggestions": [
+        "moskito"
+      ]
+    },
+    "fly": {
+      "pidgin_equivalent": "flai",
+      "suggestions": [
+        "flai"
+      ]
+    },
+    "rice": {
+      "pidgin_equivalent": "rais",
+      "suggestions": [
+        "rais"
+      ]
+    },
+    "corn": {
+      "pidgin_equivalent": "kon",
+      "suggestions": [
+        "kon"
+      ]
+    },
+    "yam": {
+      "pidgin_equivalent": "yam",
+      "suggestions": [
+        "yam"
+      ]
+    },
+    "plantain": {
+      "pidgin_equivalent": "pleten",
+      "suggestions": [
+        "pleten"
+      ]
+    },
+    "cassava": {
+      "pidgin_equivalent": "garri/kasava",
+      "suggestions": [
+        "garri/kasava"
+      ]
+    },
+    "palm oil": {
+      "pidgin_equivalent": "palmoil",
+      "suggestions": [
+        "palmoil"
+      ]
+    },
+    "pepper": {
+      "pidgin_equivalent": "pepa",
+      "suggestions": [
+        "pepa"
+      ]
+    },
+    "salt": {
+      "pidgin_equivalent": "sol",
+      "suggestions": [
+        "sol"
+      ]
+    },
+    "sugar": {
+      "pidgin_equivalent": "shuga",
+      "suggestions": [
+        "shuga"
+      ]
+    },
+    "meat": {
+      "pidgin_equivalent": "mit",
+      "suggestions": [
+        "mit"
+      ]
+    },
+    "egg": {
+      "pidgin_equivalent": "eg",
+      "suggestions": [
+        "eg"
+      ]
+    },
+    "milk": {
+      "pidgin_equivalent": "milk",
+      "suggestions": [
+        "milk"
+      ]
+    },
+    "bread": {
+      "pidgin_equivalent": "bred",
+      "suggestions": [
+        "bred"
+      ]
+    },
+    "oil": {
+      "pidgin_equivalent": "oil",
+      "suggestions": [
+        "oil"
+      ]
+    },
+    "wine": {
+      "pidgin_equivalent": "wain",
+      "suggestions": [
+        "wain"
+      ]
+    },
+    "beer": {
+      "pidgin_equivalent": "bia",
+      "suggestions": [
+        "bia"
+      ]
+    },
+    "palm wine": {
+      "pidgin_equivalent": "palmwain",
+      "suggestions": [
+        "palmwain"
+      ]
+    },
+    "money": {
+      "pidgin_equivalent": "moni",
+      "suggestions": [
+        "moni"
+      ]
+    },
+    "price": {
+      "pidgin_equivalent": "pris",
+      "suggestions": [
+        "pris"
+      ]
+    },
+    "trade": {
+      "pidgin_equivalent": "tred",
+      "suggestions": [
+        "tred"
+      ]
+    },
+    "business": {
+      "pidgin_equivalent": "biznes",
+      "suggestions": [
+        "biznes"
+      ]
+    },
+    "profit": {
+      "pidgin_equivalent": "profit",
+      "suggestions": [
+        "profit"
+      ]
+    },
+    "loss": {
+      "pidgin_equivalent": "los",
+      "suggestions": [
+        "los"
+      ]
+    },
+    "debt": {
+      "pidgin_equivalent": "det",
+      "suggestions": [
+        "det"
+      ]
+    },
+    "gift": {
+      "pidgin_equivalent": "gif",
+      "suggestions": [
+        "gif"
+      ]
+    },
+    "reward": {
+      "pidgin_equivalent": "riwod",
+      "suggestions": [
+        "riwod"
+      ]
+    },
+    "punishment": {
+      "pidgin_equivalent": "ponishment",
+      "suggestions": [
+        "ponishment"
+      ]
+    },
+    "job": {
+      "pidgin_equivalent": "job",
+      "suggestions": [
+        "job"
+      ]
+    },
+    "salary": {
+      "pidgin_equivalent": "salari",
+      "suggestions": [
+        "salari"
+      ]
+    },
+    "morning": {
+      "pidgin_equivalent": "moning",
+      "suggestions": [
+        "moning"
+      ]
+    },
+    "afternoon": {
+      "pidgin_equivalent": "aftenun",
+      "suggestions": [
+        "aftenun"
+      ]
+    },
+    "evening": {
+      "pidgin_equivalent": "ivning",
+      "suggestions": [
+        "ivning"
+      ]
+    },
+    "night": {
+      "pidgin_equivalent": "nait",
+      "suggestions": [
+        "nait"
+      ]
+    },
+    "today": {
+      "pidgin_equivalent": "tudei",
+      "suggestions": [
+        "tudei"
+      ]
+    },
+    "yesterday": {
+      "pidgin_equivalent": "yestadei",
+      "suggestions": [
+        "yestadei"
+      ]
+    },
+    "tomorrow": {
+      "pidgin_equivalent": "tumoro",
+      "suggestions": [
+        "tumoro"
+      ]
+    },
+    "week": {
+      "pidgin_equivalent": "wik",
+      "suggestions": [
+        "wik"
+      ]
+    },
+    "month": {
+      "pidgin_equivalent": "mont",
+      "suggestions": [
+        "mont"
+      ]
+    },
+    "year": {
+      "pidgin_equivalent": "yia",
+      "suggestions": [
+        "yia"
+      ]
+    },
+    "day": {
+      "pidgin_equivalent": "dei",
+      "suggestions": [
+        "dei"
+      ]
+    },
+    "time": {
+      "pidgin_equivalent": "taim",
+      "suggestions": [
+        "taim"
+      ]
+    },
+    "hour": {
+      "pidgin_equivalent": "aua",
+      "suggestions": [
+        "aua"
+      ]
+    },
+    "minute": {
+      "pidgin_equivalent": "minit",
+      "suggestions": [
+        "minit"
+      ]
+    },
+    "second": {
+      "pidgin_equivalent": "sekond",
+      "suggestions": [
+        "sekond"
+      ]
+    },
+    "weather": {
+      "pidgin_equivalent": "weda",
+      "suggestions": [
+        "weda"
+      ]
+    },
+    "season": {
+      "pidgin_equivalent": "sizin",
+      "suggestions": [
+        "sizin"
+      ]
+    },
+    "dry season": {
+      "pidgin_equivalent": "drai sizin",
+      "suggestions": [
+        "drai sizin"
+      ]
+    },
+    "rainy season": {
+      "pidgin_equivalent": "ren sizin",
+      "suggestions": [
+        "ren sizin"
+      ]
+    },
+    "flood": {
+      "pidgin_equivalent": "flod",
+      "suggestions": [
+        "flod"
+      ]
+    },
+    "drought": {
+      "pidgin_equivalent": "drout",
+      "suggestions": [
+        "drout"
+      ]
+    },
+    "red": {
+      "pidgin_equivalent": "red",
+      "suggestions": [
+        "red"
+      ]
+    },
+    "blue": {
+      "pidgin_equivalent": "blu",
+      "suggestions": [
+        "blu"
+      ]
+    },
+    "green": {
+      "pidgin_equivalent": "grin",
+      "suggestions": [
+        "grin"
+      ]
+    },
+    "yellow": {
+      "pidgin_equivalent": "yelo",
+      "suggestions": [
+        "yelo"
+      ]
+    },
+    "white": {
+      "pidgin_equivalent": "weit",
+      "suggestions": [
+        "weit"
+      ]
+    },
+    "black": {
+      "pidgin_equivalent": "blak",
+      "suggestions": [
+        "blak"
+      ]
+    },
+    "brown": {
+      "pidgin_equivalent": "braun",
+      "suggestions": [
+        "braun"
+      ]
+    },
+    "grey": {
+      "pidgin_equivalent": "grei",
+      "suggestions": [
+        "grei"
+      ]
+    },
+    "pink": {
+      "pidgin_equivalent": "pink",
+      "suggestions": [
+        "pink"
+      ]
+    },
+    "purple": {
+      "pidgin_equivalent": "popol",
+      "suggestions": [
+        "popol"
+      ]
+    },
+    "orange": {
+      "pidgin_equivalent": "oranj",
+      "suggestions": [
+        "oranj"
+      ]
+    },
+    "one": {
+      "pidgin_equivalent": "wan",
+      "suggestions": [
+        "wan"
+      ]
+    },
+    "two": {
+      "pidgin_equivalent": "tu",
+      "suggestions": [
+        "tu"
+      ]
+    },
+    "three": {
+      "pidgin_equivalent": "tri",
+      "suggestions": [
+        "tri"
+      ]
+    },
+    "four": {
+      "pidgin_equivalent": "fo",
+      "suggestions": [
+        "fo"
+      ]
+    },
+    "five": {
+      "pidgin_equivalent": "faiv",
+      "suggestions": [
+        "faiv"
+      ]
+    },
+    "six": {
+      "pidgin_equivalent": "siks",
+      "suggestions": [
+        "siks"
+      ]
+    },
+    "seven": {
+      "pidgin_equivalent": "seven",
+      "suggestions": [
+        "seven"
+      ]
+    },
+    "eight": {
+      "pidgin_equivalent": "eit",
+      "suggestions": [
+        "eit"
+      ]
+    },
+    "nine": {
+      "pidgin_equivalent": "nain",
+      "suggestions": [
+        "nain"
+      ]
+    },
+    "ten": {
+      "pidgin_equivalent": "ten",
+      "suggestions": [
+        "ten"
+      ]
+    },
+    "twenty": {
+      "pidgin_equivalent": "twenti",
+      "suggestions": [
+        "twenti"
+      ]
+    },
+    "hundred": {
+      "pidgin_equivalent": "handred",
+      "suggestions": [
+        "handred"
+      ]
+    },
+    "thousand": {
+      "pidgin_equivalent": "touzand",
+      "suggestions": [
+        "touzand"
+      ]
+    },
+    "first": {
+      "pidgin_equivalent": "fas wan",
+      "suggestions": [
+        "fas wan"
+      ]
+    },
+    "last": {
+      "pidgin_equivalent": "las",
+      "suggestions": [
+        "las"
+      ]
+    },
+    "next": {
+      "pidgin_equivalent": "nekis",
+      "suggestions": [
+        "nekis"
+      ]
+    },
+    "previous": {
+      "pidgin_equivalent": "bifo wan",
+      "suggestions": [
+        "bifo wan"
+      ]
+    },
+    "good": {
+      "pidgin_equivalent": "gud",
+      "suggestions": [
+        "gud"
+      ]
+    },
+    "bad": {
+      "pidgin_equivalent": "bad",
+      "suggestions": [
+        "bad"
+      ]
+    },
+    "right": {
+      "pidgin_equivalent": "rait",
+      "suggestions": [
+        "rait"
+      ]
+    },
+    "wrong": {
+      "pidgin_equivalent": "rong",
+      "suggestions": [
+        "rong"
+      ]
+    },
+    "true": {
+      "pidgin_equivalent": "tru",
+      "suggestions": [
+        "tru"
+      ]
+    },
+    "false": {
+      "pidgin_equivalent": "fols",
+      "suggestions": [
+        "fols"
+      ]
+    },
+    "beautiful": {
+      "pidgin_equivalent": "fine",
+      "suggestions": [
+        "fine"
+      ]
+    },
+    "ugly": {
+      "pidgin_equivalent": "no fine",
+      "suggestions": [
+        "no fine"
+      ]
+    },
+    "strong": {
+      "pidgin_equivalent": "strong",
+      "suggestions": [
+        "strong"
+      ]
+    },
+    "weak": {
+      "pidgin_equivalent": "wik",
+      "suggestions": [
+        "wik"
+      ]
+    },
+    "rich": {
+      "pidgin_equivalent": "rich",
+      "suggestions": [
+        "rich"
+      ]
+    },
+    "poor": {
+      "pidgin_equivalent": "po",
+      "suggestions": [
+        "po"
+      ]
+    },
+    "hungry": {
+      "pidgin_equivalent": "hangi",
+      "suggestions": [
+        "hangi"
+      ]
+    },
+    "full": {
+      "pidgin_equivalent": "ful",
+      "suggestions": [
+        "ful"
+      ]
+    },
+    "thirsty": {
+      "pidgin_equivalent": "tasty fo wata",
+      "suggestions": [
+        "tasty fo wata"
+      ]
+    },
+    "afraid": {
+      "pidgin_equivalent": "fraid",
+      "suggestions": [
+        "fraid"
+      ]
+    },
+    "surprised": {
+      "pidgin_equivalent": "sosprai",
+      "suggestions": [
+        "sosprai"
+      ]
+    },
+    "confused": {
+      "pidgin_equivalent": "konfyuz",
+      "suggestions": [
+        "konfyuz"
+      ]
+    },
+    "ashamed": {
+      "pidgin_equivalent": "sheme",
+      "suggestions": [
+        "sheme"
+      ]
+    },
+    "proud": {
+      "pidgin_equivalent": "prod",
+      "suggestions": [
+        "prod"
+      ]
+    },
+    "jealous": {
+      "pidgin_equivalent": "jelus",
+      "suggestions": [
+        "jelus"
+      ]
+    },
+    "bored": {
+      "pidgin_equivalent": "bored",
+      "suggestions": [
+        "bored"
+      ]
+    },
+    "pain": {
+      "pidgin_equivalent": "pen",
+      "suggestions": [
+        "pen"
+      ]
+    },
+    "headache": {
+      "pidgin_equivalent": "hedek",
+      "suggestions": [
+        "hedek"
+      ]
+    },
+    "fever": {
+      "pidgin_equivalent": "fiva",
+      "suggestions": [
+        "fiva"
+      ]
+    },
+    "malaria": {
+      "pidgin_equivalent": "maleria",
+      "suggestions": [
+        "maleria"
+      ]
+    },
+    "cough": {
+      "pidgin_equivalent": "kof",
+      "suggestions": [
+        "kof"
+      ]
+    },
+    "wound": {
+      "pidgin_equivalent": "woun",
+      "suggestions": [
+        "woun"
+      ]
+    },
+    "scar": {
+      "pidgin_equivalent": "ska",
+      "suggestions": [
+        "ska"
+      ]
+    },
+    "medicine": {
+      "pidgin_equivalent": "medsin",
+      "suggestions": [
+        "medsin"
+      ]
+    },
+    "pray": {
+      "pidgin_equivalent": "pre",
+      "suggestions": [
+        "pre"
+      ]
+    },
+    "thank you": {
+      "pidgin_equivalent": "tenki",
+      "suggestions": [
+        "tenki"
+      ]
+    },
+    "please": {
+      "pidgin_equivalent": "plis",
+      "suggestions": [
+        "plis"
+      ]
+    },
+    "sorry": {
+      "pidgin_equivalent": "sori",
+      "suggestions": [
+        "sori"
+      ]
+    },
+    "welcome": {
+      "pidgin_equivalent": "welkom",
+      "suggestions": [
+        "welkom"
+      ]
+    },
+    "goodbye": {
+      "pidgin_equivalent": "bai bai",
+      "suggestions": [
+        "bai bai"
+      ]
+    },
+    "hello": {
+      "pidgin_equivalent": "helo",
+      "suggestions": [
+        "helo"
+      ]
+    },
+    "yes": {
+      "pidgin_equivalent": "yes/na so",
+      "suggestions": [
+        "yes/na so"
+      ]
+    },
+    "okay": {
+      "pidgin_equivalent": "orait",
+      "suggestions": [
+        "orait"
+      ]
+    },
+    "maybe": {
+      "pidgin_equivalent": "mebi",
+      "suggestions": [
+        "mebi"
+      ]
+    },
+    "really": {
+      "pidgin_equivalent": "tru tru",
+      "suggestions": [
+        "tru tru"
+      ]
+    },
+    "exactly": {
+      "pidgin_equivalent": "ekzatli",
+      "suggestions": [
+        "ekzatli"
+      ]
+    },
+    "immediately": {
+      "pidgin_equivalent": "nau nau",
+      "suggestions": [
+        "nau nau"
+      ]
+    },
+    "together": {
+      "pidgin_equivalent": "togeda",
+      "suggestions": [
+        "togeda"
+      ]
+    },
+    "alone": {
+      "pidgin_equivalent": "alone",
+      "suggestions": [
+        "alone"
+      ]
+    },
+    "outside": {
+      "pidgin_equivalent": "ausa",
+      "suggestions": [
+        "ausa"
+      ]
+    },
+    "inside": {
+      "pidgin_equivalent": "insaid",
+      "suggestions": [
+        "insaid"
+      ]
+    },
+    "up": {
+      "pidgin_equivalent": "op",
+      "suggestions": [
+        "op"
+      ]
+    },
+    "down": {
+      "pidgin_equivalent": "daun",
+      "suggestions": [
+        "daun"
+      ]
+    },
+    "near": {
+      "pidgin_equivalent": "nia",
+      "suggestions": [
+        "nia"
+      ]
+    },
+    "far": {
+      "pidgin_equivalent": "fa",
+      "suggestions": [
+        "fa"
+      ]
+    },
+    "front": {
+      "pidgin_equivalent": "front",
+      "suggestions": [
+        "front"
+      ]
+    },
+    "behind": {
+      "pidgin_equivalent": "bihaind",
+      "suggestions": [
+        "bihaind"
+      ]
+    },
+    "left": {
+      "pidgin_equivalent": "lef",
+      "suggestions": [
+        "lef"
+      ]
+    },
+    "between": {
+      "pidgin_equivalent": "bitwin",
+      "suggestions": [
+        "bitwin"
+      ]
+    },
+    "above": {
+      "pidgin_equivalent": "abov",
+      "suggestions": [
+        "abov"
+      ]
+    },
+    "below": {
+      "pidgin_equivalent": "bilow",
+      "suggestions": [
+        "bilow"
+      ]
+    },
+    "beside": {
+      "pidgin_equivalent": "bsaid",
+      "suggestions": [
+        "bsaid"
+      ]
+    },
+    "across": {
+      "pidgin_equivalent": "akros",
+      "suggestions": [
+        "akros"
+      ]
+    },
+    "through": {
+      "pidgin_equivalent": "thru",
+      "suggestions": [
+        "thru"
+      ]
+    },
+    "around": {
+      "pidgin_equivalent": "araun",
+      "suggestions": [
+        "araun"
+      ]
+    },
+    "about": {
+      "pidgin_equivalent": "abaut",
+      "suggestions": [
+        "abaut"
+      ]
+    },
+    "with": {
+      "pidgin_equivalent": "with",
+      "suggestions": [
+        "with"
+      ]
+    },
+    "without": {
+      "pidgin_equivalent": "without",
+      "suggestions": [
+        "without"
+      ]
+    },
+    "for": {
+      "pidgin_equivalent": "fo",
+      "suggestions": [
+        "fo"
+      ]
+    },
+    "from": {
+      "pidgin_equivalent": "from",
+      "suggestions": [
+        "from"
+      ]
+    },
+    "to": {
+      "pidgin_equivalent": "to",
+      "suggestions": [
+        "to"
+      ]
+    },
+    "at": {
+      "pidgin_equivalent": "fo/na",
+      "suggestions": [
+        "fo/na"
+      ]
+    },
+    "in": {
+      "pidgin_equivalent": "for/in",
+      "suggestions": [
+        "for/in"
+      ]
+    },
+    "on": {
+      "pidgin_equivalent": "on",
+      "suggestions": [
+        "on"
+      ]
+    },
+    "under": {
+      "pidgin_equivalent": "onda",
+      "suggestions": [
+        "onda"
+      ]
+    },
+    "over": {
+      "pidgin_equivalent": "ova",
+      "suggestions": [
+        "ova"
+      ]
+    },
+    "into": {
+      "pidgin_equivalent": "inta",
+      "suggestions": [
+        "inta"
+      ]
+    },
+    "out of": {
+      "pidgin_equivalent": "auta",
+      "suggestions": [
+        "auta"
+      ]
+    },
+    "because of": {
+      "pidgin_equivalent": "bikos of",
+      "suggestions": [
+        "bikos of"
+      ]
+    },
+    "instead of": {
+      "pidgin_equivalent": "insted of",
+      "suggestions": [
+        "insted of"
+      ]
+    },
+    "in front of": {
+      "pidgin_equivalent": "for front of",
+      "suggestions": [
+        "for front of"
+      ]
+    },
+    "problem": {
+      "pidgin_equivalent": "palava/trobul",
+      "suggestions": [
+        "palava/trobul"
+      ]
+    },
+    "trouble": {
+      "pidgin_equivalent": "trobul",
+      "suggestions": [
+        "trobul"
+      ]
+    },
+    "quarrel": {
+      "pidgin_equivalent": "kwarel",
+      "suggestions": [
+        "kwarel"
+      ]
+    },
+    "gossip": {
+      "pidgin_equivalent": "gosip",
+      "suggestions": [
+        "gosip"
+      ]
+    },
+    "lie": {
+      "pidgin_equivalent": "lai",
+      "suggestions": [
+        "lai"
+      ]
+    },
+    "truth": {
+      "pidgin_equivalent": "tru",
+      "suggestions": [
+        "tru"
+      ]
+    },
+    "secret": {
+      "pidgin_equivalent": "sikrit",
+      "suggestions": [
+        "sikrit"
+      ]
+    },
+    "news": {
+      "pidgin_equivalent": "nyus",
+      "suggestions": [
+        "nyus"
+      ]
+    },
+    "story": {
+      "pidgin_equivalent": "stori",
+      "suggestions": [
+        "stori"
+      ]
+    },
+    "joke": {
+      "pidgin_equivalent": "jok",
+      "suggestions": [
+        "jok"
+      ]
+    },
+    "song": {
+      "pidgin_equivalent": "song",
+      "suggestions": [
+        "song"
+      ]
+    },
+    "game": {
+      "pidgin_equivalent": "gem",
+      "suggestions": [
+        "gem"
+      ]
+    },
+    "competition": {
+      "pidgin_equivalent": "kompetishon",
+      "suggestions": [
+        "kompetishon"
+      ]
+    },
+    "draw": {
+      "pidgin_equivalent": "dro",
+      "suggestions": [
+        "dro"
+      ]
+    },
+    "cinema": {
+      "pidgin_equivalent": "sinema",
+      "suggestions": [
+        "sinema"
+      ]
+    },
+    "radio": {
+      "pidgin_equivalent": "radio",
+      "suggestions": [
+        "radio"
+      ]
+    },
+    "television": {
+      "pidgin_equivalent": "televizon",
+      "suggestions": [
+        "televizon"
+      ]
+    },
+    "phone": {
+      "pidgin_equivalent": "fon",
+      "suggestions": [
+        "fon"
+      ]
+    },
+    "letter": {
+      "pidgin_equivalent": "leta",
+      "suggestions": [
+        "leta"
+      ]
+    },
+    "message": {
+      "pidgin_equivalent": "mesej",
+      "suggestions": [
+        "mesej"
+      ]
+    },
+    "book": {
+      "pidgin_equivalent": "buk",
+      "suggestions": [
+        "buk"
+      ]
+    },
+    "newspaper": {
+      "pidgin_equivalent": "nyupepa",
+      "suggestions": [
+        "nyupepa"
+      ]
+    },
+    "pen": {
+      "pidgin_equivalent": "pen",
+      "suggestions": [
+        "pen"
+      ]
+    },
+    "pencil": {
+      "pidgin_equivalent": "pensol",
+      "suggestions": [
+        "pensol"
+      ]
+    },
+    "paper": {
+      "pidgin_equivalent": "pepa",
+      "suggestions": [
+        "pepa"
+      ]
+    },
+    "bag": {
+      "pidgin_equivalent": "bag",
+      "suggestions": [
+        "bag"
+      ]
+    },
+    "box": {
+      "pidgin_equivalent": "boks",
+      "suggestions": [
+        "boks"
+      ]
+    },
+    "bottle": {
+      "pidgin_equivalent": "botol",
+      "suggestions": [
+        "botol"
+      ]
+    },
+    "clothes": {
+      "pidgin_equivalent": "klot",
+      "suggestions": [
+        "klot"
+      ]
+    },
+    "shirt": {
+      "pidgin_equivalent": "shut",
+      "suggestions": [
+        "shut"
+      ]
+    },
+    "trousers": {
+      "pidgin_equivalent": "trawzas",
+      "suggestions": [
+        "trawzas"
+      ]
+    },
+    "dress": {
+      "pidgin_equivalent": "dres",
+      "suggestions": [
+        "dres"
+      ]
+    },
+    "shoes": {
+      "pidgin_equivalent": "shu",
+      "suggestions": [
+        "shu"
+      ]
+    },
+    "hat": {
+      "pidgin_equivalent": "hat",
+      "suggestions": [
+        "hat"
+      ]
+    },
+    "glasses": {
+      "pidgin_equivalent": "glas",
+      "suggestions": [
+        "glas"
+      ]
+    },
+    "watch": {
+      "pidgin_equivalent": "woch",
+      "suggestions": [
+        "woch"
+      ]
+    },
+    "ring": {
+      "pidgin_equivalent": "ring",
+      "suggestions": [
+        "ring"
+      ]
+    },
+    "earring": {
+      "pidgin_equivalent": "iring",
+      "suggestions": [
+        "iring"
+      ]
+    },
+    "necklace": {
+      "pidgin_equivalent": "neklis",
+      "suggestions": [
+        "neklis"
+      ]
+    },
+    "bicycle": {
+      "pidgin_equivalent": "baisikel",
+      "suggestions": [
+        "baisikel"
+      ]
+    },
+    "motorcycle": {
+      "pidgin_equivalent": "motosaikel",
+      "suggestions": [
+        "motosaikel"
+      ]
+    },
+    "car": {
+      "pidgin_equivalent": "ka",
+      "suggestions": [
+        "ka"
+      ]
+    },
+    "bus": {
+      "pidgin_equivalent": "bos",
+      "suggestions": [
+        "bos"
+      ]
+    },
+    "truck": {
+      "pidgin_equivalent": "truk",
+      "suggestions": [
+        "truk"
+      ]
+    },
+    "boat": {
+      "pidgin_equivalent": "bot",
+      "suggestions": [
+        "bot"
+      ]
+    },
+    "plane": {
+      "pidgin_equivalent": "plen",
+      "suggestions": [
+        "plen"
+      ]
+    },
+    "bridge": {
+      "pidgin_equivalent": "brij",
+      "suggestions": [
+        "brij"
+      ]
+    },
+    "gate": {
+      "pidgin_equivalent": "geit",
+      "suggestions": [
+        "geit"
+      ]
+    },
+    "fence": {
+      "pidgin_equivalent": "fens",
+      "suggestions": [
+        "fens"
+      ]
+    },
+    "well": {
+      "pidgin_equivalent": "wel",
+      "suggestions": [
+        "wel"
+      ]
+    },
+    "tank": {
+      "pidgin_equivalent": "tank",
+      "suggestions": [
+        "tank"
+      ]
+    },
+    "pipe": {
+      "pidgin_equivalent": "paip",
+      "suggestions": [
+        "paip"
+      ]
+    },
+    "wire": {
+      "pidgin_equivalent": "waia",
+      "suggestions": [
+        "waia"
+      ]
+    },
+    "key": {
+      "pidgin_equivalent": "ki",
+      "suggestions": [
+        "ki"
+      ]
+    },
+    "lock": {
+      "pidgin_equivalent": "lok",
+      "suggestions": [
+        "lok"
+      ]
+    },
+    "chain": {
+      "pidgin_equivalent": "shen",
+      "suggestions": [
+        "shen"
+      ]
+    },
+    "rope": {
+      "pidgin_equivalent": "rop",
+      "suggestions": [
+        "rop"
+      ]
+    },
+    "stick": {
+      "pidgin_equivalent": "stik",
+      "suggestions": [
+        "stik"
+      ]
+    },
+    "axe": {
+      "pidgin_equivalent": "aks",
+      "suggestions": [
+        "aks"
+      ]
+    },
+    "hoe": {
+      "pidgin_equivalent": "ho",
+      "suggestions": [
+        "ho"
+      ]
+    },
+    "cutlass": {
+      "pidgin_equivalent": "katlas",
+      "suggestions": [
+        "katlas"
+      ]
+    },
+    "gun": {
+      "pidgin_equivalent": "gon",
+      "suggestions": [
+        "gon"
+      ]
+    },
+    "sword": {
+      "pidgin_equivalent": "sod",
+      "suggestions": [
+        "sod"
+      ]
+    },
+    "arrow": {
+      "pidgin_equivalent": "aro",
+      "suggestions": [
+        "aro"
+      ]
+    },
+    "bow": {
+      "pidgin_equivalent": "bo",
+      "suggestions": [
+        "bo"
+      ]
+    }
+  }
+}
