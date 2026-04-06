@@ -1,45 +1,46 @@
 """
-Pidgin lexer error categories:
-- SPELLING: misspelled words with correction guidance.
-- SYNTAX: English sentence structures that should be converted to Pidgin forms.
-- SEMANTIC: English words where a Pidgin equivalent is expected.
+API Views for the Pidgin Translator
 """
 
 import json
-import re
-from pathlib import Path
 
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
+from django.views.decorators.http import require_http_methods
+
+from .lexer import PidginLexer
+from .parser import PidginParser
 
 
-LEXICON_PATH = Path(__file__).resolve().parent.parent / "json data" / "lexicon.json"
-with LEXICON_PATH.open("r", encoding="utf-8") as lexicon_file:
-	LEXICON = json.load(lexicon_file)
-
-
-TOKEN_REGEX = re.compile(r"([a-zA-Z'\-]+|[^a-zA-Z\s])")
-PUNCTUATION_REGEX = re.compile(r"^[^a-zA-Z']+")
-
-
-def _get_syntax_suggestion(pattern_value):
-	pidgin_equivalent = pattern_value.get("pidgin_equivalent", "")
-	suggestions = pattern_value.get("suggestions", [])
-	if pidgin_equivalent:
-		return pidgin_equivalent
-	if isinstance(suggestions, list) and suggestions:
-		return suggestions[0]
-	if isinstance(suggestions, str) and suggestions:
-		return suggestions
-	return "—"
+# Initialize lexer once
+lexer = PidginLexer()
 
 
 @csrf_exempt
+@require_http_methods(["POST"])
 def analyze(request):
-	"""Analyze a JSON sentence input and return tokens, errors, and summary metadata."""
-	if request.method != "POST":
-		return JsonResponse({"error": "Method not allowed"}, status=405)
-
+	"""Analyze a sentence using lexical and syntactic analysis.
+	
+	POST endpoint that accepts a JSON payload with a 'sentence' field.
+	Performs two-phase analysis:
+	  1. Lexer: tokenization, spelling detection, word vocabulary lookup
+	  2. Parser: syntax pattern detection, semantic equivalence checking
+	
+	Returns combined tokens and errors from both phases.
+	
+	Request body:
+		{
+			"sentence": "text to analyze"
+		}
+	
+	Response (200 OK):
+		{
+			"sentence": "...",
+			"tokens": [...],
+			"errors": [...],
+			"summary": {...}
+		}
+	"""
 	try:
 		body = json.loads(request.body)
 	except json.JSONDecodeError:
@@ -50,107 +51,45 @@ def analyze(request):
 		return JsonResponse({"error": "sentence field is required"}, status=400)
 
 	try:
-		tokens = []
-		errors = []
+		# Phase 1: Lexer - tokenize and detect spelling errors
+		lexer_result = lexer.analyze(sentence)
+		tokens = lexer_result["tokens"]
+		lex_errors = lexer_result["errors"]
 
-		lowered_sentence = sentence.lower()
-		syntax_patterns = LEXICON.get("syntax_patterns", {})
-		sorted_patterns = sorted(syntax_patterns.keys(), key=len, reverse=True)
-		for pattern in sorted_patterns:
-			if pattern in lowered_sentence:
-				pattern_value = syntax_patterns.get(pattern, {})
-				errors.append(
-					{
-						"type": "SYNTAX",
-						"word": sentence,
-						"message": "English grammar pattern detected",
-						"suggestion": _get_syntax_suggestion(pattern_value),
-					}
-				)
+		# Phase 2: Parser - detect syntax and semantic errors
+		parser = PidginParser(sentence, tokens)
+		parser_errors = parser.parse()
 
-		word_vocabulary = LEXICON.get("word_vocabulary", {})
-		spell_correction = LEXICON.get("spell_correction", {})
-		semantic_mappings = LEXICON.get("semantic_mappings", {})
+		# Merge errors from both phases
+		all_errors = lex_errors + parser_errors
+		
+		# Remove duplicates while preserving order
+		seen = set()
+		unique_errors = []
+		for error in all_errors:
+			error_key = (error["type"], error["word"], error.get("start", error["word"]))
+			if error_key not in seen:
+				seen.add(error_key)
+				unique_errors.append(error)
 
-		for token in TOKEN_REGEX.findall(sentence):
-			if PUNCTUATION_REGEX.match(token):
-				continue
-
-			lower_token = token.lower()
-
-			if lower_token in word_vocabulary:
-				token_type = word_vocabulary[lower_token].get("token_type", "UNKNOWN")
-				tokens.append({"raw": token, "type": token_type, "lower": lower_token})
-
-				semantic_info = semantic_mappings.get(lower_token)
-				if semantic_info:
-					pidgin_equivalent = semantic_info.get("pidgin_equivalent", "")
-					if pidgin_equivalent and pidgin_equivalent.lower() != lower_token:
-						errors.append(
-							{
-								"type": "SEMANTIC",
-								"word": token,
-								"message": f'English word "{token}" — Pidgin equivalent is "{pidgin_equivalent}"',
-								"suggestion": pidgin_equivalent,
-							}
-						)
-				continue
-
-			if lower_token in spell_correction:
-				correction_info = spell_correction[lower_token]
-				correct = correction_info.get("correct", lower_token)
-				pidgin_equivalent = correction_info.get("pidgin_equivalent", correct)
-				tokens.append({"raw": token, "type": "UNKNOWN", "lower": lower_token})
-				errors.append(
-					{
-						"type": "SPELLING",
-						"word": token,
-						"message": (
-							f'Misspelled word "{token}". Correct form is "{correct}" '
-							f'and Pidgin equivalent is "{pidgin_equivalent}"'
-						),
-						"suggestion": pidgin_equivalent,
-					}
-				)
-				continue
-
-			if lower_token in semantic_mappings:
-				semantic_info = semantic_mappings[lower_token]
-				pidgin_equivalent = semantic_info.get("pidgin_equivalent", "—")
-				tokens.append({"raw": token, "type": "WORD", "lower": lower_token})
-				errors.append(
-					{
-						"type": "SEMANTIC",
-						"word": token,
-						"message": f'English word "{token}" — Pidgin equivalent is "{pidgin_equivalent}"',
-						"suggestion": pidgin_equivalent,
-					}
-				)
-				continue
-
-			tokens.append({"raw": token, "type": "UNKNOWN", "lower": lower_token})
-			errors.append(
-				{
-					"type": "UNKNOWN",
-					"word": token,
-					"message": f'Word "{token}" not found in lexicon',
-					"suggestion": "—",
-				}
-			)
-
-		error_types = list(dict.fromkeys(error["type"] for error in errors))
+		# Build response
+		error_types = list(dict.fromkeys(error["type"] for error in unique_errors))
 		response = {
 			"sentence": sentence,
 			"tokens": tokens,
-			"errors": errors,
+			"errors": unique_errors,
 			"summary": {
 				"total_tokens": len(tokens),
-				"total_errors": len(errors),
+				"total_errors": len(unique_errors),
 				"error_types": error_types,
-				"status": "errors_found" if errors else "ok",
+				"status": "errors_found" if unique_errors else "ok",
 			},
 		}
 
 		return JsonResponse(response, status=200)
+
 	except Exception as e:
-		return JsonResponse({"error": "Internal lexer error", "detail": str(e)}, status=500)
+		return JsonResponse({
+			"error": "Internal analysis error",
+			"detail": str(e)
+		}, status=500)

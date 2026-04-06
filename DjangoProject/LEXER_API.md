@@ -1,7 +1,7 @@
 # Pidgin Lexer API Documentation
 
 ## Overview
-This API analyzes a sentence and detects language issues for Nigerian Pidgin English.
+This API analyzes a sentence and detects language issues for Cameroonian Pidgin English.
 
 Detected categories:
 - SPELLING: Misspelled words with correction guidance.
