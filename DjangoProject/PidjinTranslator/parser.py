@@ -16,20 +16,9 @@ SORTED_PATTERNS = sorted(syntax_patterns.keys(), key=len, reverse=True)
 
 # ─── The Parser class ─────────────────────────────────────────────────────────
 class PidginParser:
-    """
-    Receives the token list produced by the lexer and detects:
-    - SYNTAX errors: sequences of tokens matching known bad grammar patterns
-    - SEMANTIC errors: individual tokens that have a more natural Pidgin form
-    
-    Returns a list of error objects with exact character positions.
-    """
-
+   
     def __init__(self, sentence: str, tokens: list):
-        """
-        sentence : the original raw text the user typed
-        tokens   : list of token dicts from the lexer, each must have
-                   {"raw": ..., "lower": ..., "start": ..., "end": ...}
-        """
+        
         self.sentence = sentence
         self.tokens = tokens
         self.errors = []
@@ -39,19 +28,14 @@ class PidginParser:
         self.flagged_indices = set()
 
     def parse(self) -> list:
-        """Run all checks and return the combined error list."""
+        # Run all checks and return the combined error list.
         self._check_syntax()
         self._check_semantics()
         return self.errors
 
     # ── SYNTAX CHECK ──────────────────────────────────────────────────────────
     def _check_syntax(self):
-        """
-        Slide a window over the lowercased sentence and look for known
-        syntax patterns (e.g. "I am going", "they are eating").
-        When found, record the start/end positions so the UI knows
-        exactly where to draw the BLUE underline.
-        """
+       
         lowered = self.sentence.lower()
 
         for pattern in SORTED_PATTERNS:
@@ -84,14 +68,13 @@ class PidginParser:
 
     # ── SEMANTIC CHECK ────────────────────────────────────────────────────────
     def _check_semantics(self):
-        """
-        For each token NOT already flagged by a syntax rule,
-        check whether it has a more natural Pidgin equivalent
-        in semantic_mappings.
-        """
+    
         for i, token in enumerate(self.tokens):
             if i in self.flagged_indices:
                 continue  # already covered by a syntax error, skip
+
+            if token["type"] == "UNKNOWN":
+                continue
 
             lower = token["lower"]
             if lower in semantic_mappings:

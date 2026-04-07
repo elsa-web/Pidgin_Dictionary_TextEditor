@@ -54,35 +54,23 @@ def analyze(request):
 		# Phase 1: Lexer - tokenize and detect spelling errors
 		lexer_result = lexer.analyze(sentence)
 		tokens = lexer_result["tokens"]
-		lex_errors = lexer_result["errors"]
+		#lex_errors = lexer_result["errors"]
 
 		# Phase 2: Parser - detect syntax and semantic errors
 		parser = PidginParser(sentence, tokens)
 		parser_errors = parser.parse()
 
-		# Merge errors from both phases
-		all_errors = lex_errors + parser_errors
-		
-		# Remove duplicates while preserving order
-		seen = set()
-		unique_errors = []
-		for error in all_errors:
-			error_key = (error["type"], error["word"], error.get("start", error["word"]))
-			if error_key not in seen:
-				seen.add(error_key)
-				unique_errors.append(error)
-
 		# Build response
-		error_types = list(dict.fromkeys(error["type"] for error in unique_errors))
+		error_types = list(dict.fromkeys(error["type"] for error in parser_errors))
 		response = {
 			"sentence": sentence,
 			"tokens": tokens,
-			"errors": unique_errors,
+			"errors": parser_errors,
 			"summary": {
 				"total_tokens": len(tokens),
-				"total_errors": len(unique_errors),
+				"total_errors": len(parser_errors),
 				"error_types": error_types,
-				"status": "errors_found" if unique_errors else "ok",
+				"status": "errors_found" if parser_errors else "ok",
 			},
 		}
 
