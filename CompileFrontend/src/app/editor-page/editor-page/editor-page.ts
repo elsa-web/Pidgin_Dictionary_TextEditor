@@ -1,31 +1,31 @@
-import { Component, ElementRef, ViewChild } from '@angular/core';
+import { Component, ElementRef, ViewChild, OnDestroy } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { RouterLink } from '@angular/router';
 import { NeonButtonComponent } from '../../components/neon-button.component/neon-button.component';
-import { FontSelectorComponent, TextFormat } from '../../components/font-selector/font-selector';
+import { PidginAnalyzer, AnalysisError } from '../../services/pidgin-analyzer';
 
 @Component({
   selector: 'app-editor-page',
   standalone: true,
-  imports: [CommonModule, FormsModule, RouterLink, NeonButtonComponent, FontSelectorComponent],
+  imports: [CommonModule, FormsModule, RouterLink, NeonButtonComponent],
   templateUrl: './editor-page.html',
   styleUrls: ['./editor-page.css']
 })
-export class EditorPageComponent {
+export class EditorPageComponent implements OnDestroy {
   @ViewChild('fileInput') fileInput!: ElementRef<HTMLInputElement>;
+  @ViewChild('highlightLayer') highlightLayer!: ElementRef<HTMLDivElement>;
 
   editorText = '';
+  errors: AnalysisError[] = [];
 
-  // Applied formatting state
-  editorStyle: { [key: string]: string } = {
-    fontFamily: "'Segoe UI', system-ui, sans-serif",
-    fontSize: '14px',
-    fontWeight: 'normal',
-    fontStyle: 'normal',
-    textDecoration: 'none',
-    textAlign: 'left',
-  };
+  private debounceTimer: any = null;
+
+  constructor(private analyzer: PidginAnalyzer) {}
+
+  ngOnDestroy() {
+    if (this.debounceTimer) clearTimeout(this.debounceTimer);
+  }
 
   get wordCount(): number {
     return this.editorText.trim() ? this.editorText.trim().split(/\s+/).length : 0;
@@ -33,6 +33,29 @@ export class EditorPageComponent {
 
   get charCount(): number {
     return this.editorText.length;
+  }
+
+  // ── Called on every keystroke ──
+  onTextChange() {
+    console.log('Text changed, scheduling analysis...');
+    if (this.debounceTimer) clearTimeout(this.debounceTimer);
+
+    if (!this.editorText.trim()) {
+      this.errors = [];
+      return;
+    }
+
+    this.debounceTimer = setTimeout(() => {
+      this.analyzer.analyze(this.editorText).subscribe({
+        next: (result) => {
+          this.errors = result.errors;
+          console.log('Errors received:', this.errors); // so you can see it working
+        },
+        error: (err) => {
+          console.error('Analysis failed:', err);
+        }
+      });
+    }, 400);
   }
 
   // ── Upload ──
@@ -44,7 +67,10 @@ export class EditorPageComponent {
     const file = (event.target as HTMLInputElement).files?.[0];
     if (!file) return;
     const reader = new FileReader();
-    reader.onload = (e) => { this.editorText = e.target?.result as string; };
+    reader.onload = (e) => {
+      this.editorText = e.target?.result as string;
+      this.onTextChange();
+    };
     reader.readAsText(file);
   }
 
@@ -58,20 +84,5 @@ export class EditorPageComponent {
     a.download = 'pidgincheck-document.txt';
     a.click();
     URL.revokeObjectURL(url);
-  }
-
-  // ── Format ──
-  onFontChanged(format: TextFormat) {
-    this.editorStyle = {
-      fontFamily: format.fontFamily,
-      fontSize: format.fontSize + 'px',
-      fontWeight: format.bold ? 'bold' : 'normal',
-      fontStyle: format.italic ? 'italic' : 'normal',
-      textDecoration: [
-        format.underline     ? 'underline'    : '',
-        format.strikethrough ? 'line-through' : ''
-      ].filter(Boolean).join(' ') || 'none',
-      textAlign: format.alignment,
-    };
   }
 }

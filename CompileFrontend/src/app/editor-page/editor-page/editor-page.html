@@ -55,7 +55,7 @@
         </app-neon-button>
 
         <!-- Formatting toolbar -->
-        <app-font-selector (formatChanged)="onFontChanged($event)"></app-font-selector>
+        <!-- <app-font-selector (formatChanged)="onFontChanged($event)"></app-font-selector> -->
       </div>
 
       <!-- Right: word/char count + Download -->
@@ -89,13 +89,16 @@
       <div class="panel-divider"></div>
 
       <!-- Textarea -->
-      <textarea
-        #editorArea
-        class="editor-textarea"
-        [(ngModel)]="editorText"
-        [ngStyle]="editorStyle"
-        placeholder="Type or paste your text here... You can also upload a document above.">
-      </textarea>
+      <div class="editor-wrap">
+  <div #highlightLayer class="highlight-layer"></div>
+  <textarea
+  #editorArea
+  class="editor-textarea"
+  [(ngModel)]="editorText"
+  (ngModelChange)="onTextChange()"
+  placeholder="Type or paste your text here...">
+</textarea>
+</div>
     </div>
 
     <!-- ── Legend Strip ── -->

@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { EditorPage } from './editor-page';
+import { EditorPageComponent } from './editor-page';
 
 describe('EditorPage', () => {
-  let component: EditorPage;
-  let fixture: ComponentFixture<EditorPage>;
+  let component: EditorPageComponent;
+  let fixture: ComponentFixture<EditorPageComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [EditorPage]
+      imports: [EditorPageComponent]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(EditorPage);
+    fixture = TestBed.createComponent(EditorPageComponent);
     component = fixture.componentInstance;
     await fixture.whenStable();
   });

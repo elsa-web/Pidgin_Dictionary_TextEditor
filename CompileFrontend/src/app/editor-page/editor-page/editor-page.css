@@ -246,45 +246,56 @@
 }
 
 /* Textarea */
-.editor-textarea {
-  flex: 1;
-  width: 100%;
+/* ══════════════════
+   OVERLAY STRUCTURE
+══════════════════ */
+.editor-wrap {
+  position: relative;
   min-height: 520px;
+  flex: 1;
+}
+
+.highlight-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 24px;
+  color: transparent;
+  font-size: 1rem;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 1;
+  box-sizing: border-box;
+}
+
+.editor-textarea {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   padding: 24px;
   background: transparent;
   border: none;
   outline: none;
-  resize: vertical;
+  resize: none;
   color: var(--text-primary);
   font-size: 1rem;
   line-height: 1.75;
   letter-spacing: 0.01em;
   caret-color: var(--neon-blue-bright);
   font-family: 'Segoe UI', system-ui, sans-serif;
+  z-index: 2;
+  box-sizing: border-box;
+  overflow-y: auto;
 }
-
-.editor-textarea::placeholder {
-  color: rgba(130, 160, 200, 0.35);
-  font-style: italic;
-}
-
-.editor-textarea::-webkit-scrollbar {
-  width: 5px;
-}
-
-.editor-textarea::-webkit-scrollbar-track {
-  background: transparent;
-}
-
-.editor-textarea::-webkit-scrollbar-thumb {
-  background: rgba(26, 140, 255, 0.2);
-  border-radius: 3px;
-}
-
-.editor-textarea::-webkit-scrollbar-thumb:hover {
-  background: rgba(26, 140, 255, 0.4);
-}
-
 /* ══════════════════
    LEGEND STRIP
 ══════════════════ */
