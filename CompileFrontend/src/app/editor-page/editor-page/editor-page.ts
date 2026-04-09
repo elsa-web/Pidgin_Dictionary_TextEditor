@@ -1,9 +1,10 @@
-import { Component, ElementRef, ViewChild, OnDestroy } from '@angular/core';
+import { Component, ElementRef, ViewChild, OnDestroy, AfterViewInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { RouterLink } from '@angular/router';
 import { NeonButtonComponent } from '../../components/neon-button.component/neon-button.component';
 import { PidginAnalyzer, AnalysisError } from '../../services/pidgin-analyzer';
+// import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-editor-page',
@@ -12,17 +13,21 @@ import { PidginAnalyzer, AnalysisError } from '../../services/pidgin-analyzer';
   templateUrl: './editor-page.html',
   styleUrls: ['./editor-page.css']
 })
-export class EditorPageComponent implements OnDestroy {
+export class EditorPageComponent implements OnDestroy, AfterViewInit{
   @ViewChild('fileInput') fileInput!: ElementRef<HTMLInputElement>;
   @ViewChild('highlightLayer') highlightLayer!: ElementRef<HTMLDivElement>;
+
+  ngAfterViewInit() {
+  console.log('highlight layer ready:', this.highlightLayer);
+  }
 
   editorText = '';
   errors: AnalysisError[] = [];
 
   private debounceTimer: any = null;
+  // highlightHtml: SafeHtml = '';
 
-  constructor(private analyzer: PidginAnalyzer) {}
-
+constructor(private analyzer: PidginAnalyzer) {}
   ngOnDestroy() {
     if (this.debounceTimer) clearTimeout(this.debounceTimer);
   }
@@ -34,6 +39,60 @@ export class EditorPageComponent implements OnDestroy {
   get charCount(): number {
     return this.editorText.length;
   }
+
+  // 👇 ADD this new method
+renderHighlights() {
+  if (!this.editorText) {
+    if (this.highlightLayer) {
+      this.highlightLayer.nativeElement.innerHTML = '';
+    }
+    return; 
+  }
+
+
+  const text = this.editorText;
+
+  // Sort errors by start position
+  const sorted = [...this.errors].sort((a, b) => a.start - b.start);
+
+  let html = '';
+  let cursor = 0;
+
+  for (const error of sorted) {
+    // Skip if this error overlaps with something already rendered
+    if (error.start < cursor) continue;
+
+    // Add plain text before this error
+    html += this.escapeHtml(text.slice(cursor, error.start));
+
+    // Add the underlined word
+    const colorClass = error.type === 'SPELLING' ? 'underline-red'
+                     : error.type === 'SYNTAX'   ? 'underline-blue'
+                     : 'underline-green';
+
+    html += `<span class="${colorClass}">${this.escapeHtml(text.slice(error.start, error.end))}</span>`;
+
+    cursor = error.end;
+  }
+
+  // Add any remaining plain text
+  html += this.escapeHtml(text.slice(cursor));
+
+    console.log('Generated HTML:', html);
+  if (this.highlightLayer) {
+    this.highlightLayer.nativeElement.innerHTML = html;
+}
+}
+
+
+escapeHtml(text: string): string {
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/\n/g, '<br>')
+    .replace(/ /g, '&nbsp;');
+}
 
   // ── Called on every keystroke ──
   onTextChange() {
@@ -48,9 +107,10 @@ export class EditorPageComponent implements OnDestroy {
     this.debounceTimer = setTimeout(() => {
       this.analyzer.analyze(this.editorText).subscribe({
         next: (result) => {
-          this.errors = result.errors;
-          console.log('Errors received:', this.errors); // so you can see it working
-        },
+        this.errors = result.errors;
+        this.renderHighlights(); 
+        console.log('Errors received:', this.errors);
+},
         error: (err) => {
           console.error('Analysis failed:', err);
         }

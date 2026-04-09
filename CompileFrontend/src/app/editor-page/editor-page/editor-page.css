@@ -1,8 +1,4 @@
-/* ══════════════════════════════════════════════
-   PidginCheck — Editor Page CSS
-══════════════════════════════════════════════ */
 
-/* ── Variables ── */
 :host {
   --bg-base: #03060f;
   --neon-blue: #1a8cff;
@@ -353,4 +349,23 @@
   .editor-textarea {
     min-height: 380px;
   }
+}
+
+
+.underline-red {
+  color: white;
+  text-decoration: underline wavy #ff4d6d;
+  text-underline-offset: 3px;
+}
+
+.underline-blue {
+  color: white; 
+  text-decoration: underline wavy #1a8cff;
+  text-underline-offset: 3px;
+}
+
+.underline-green {
+  color: white; 
+  text-decoration: underline wavy #00e5a0;
+  text-underline-offset: 3px;
 }
