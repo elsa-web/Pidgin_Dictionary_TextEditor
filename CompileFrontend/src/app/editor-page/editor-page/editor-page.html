@@ -54,8 +54,6 @@
           (clicked)="triggerUpload()">
         </app-neon-button>
 
-        <!-- Formatting toolbar -->
-        <!-- <app-font-selector (formatChanged)="onFontChanged($event)"></app-font-selector> -->
       </div>
 
       <!-- Right: word/char count + Download -->
@@ -88,18 +86,37 @@
 
       <div class="panel-divider"></div>
 
-      <!-- Textarea -->
+      <!-- Textarea + Highlight Layer -->
       <div class="editor-wrap">
-  <div #highlightLayer class="highlight-layer"></div>
-  <textarea
-  #editorArea
-  class="editor-textarea"
-  [(ngModel)]="editorText"
-  (ngModelChange)="onTextChange()"
-  placeholder="Type or paste your text here...">
-</textarea>
-</div>
+        <div #highlightLayer class="highlight-layer"></div>
+        <textarea
+          #editorArea
+          class="editor-textarea"
+          [(ngModel)]="editorText"
+          (ngModelChange)="onTextChange()"
+          (click)="onEditorClick($event)"
+          placeholder="Type or paste your text here...">
+        </textarea>
+      </div>
+
+      <!-- Suggestion Popup — inside editor-panel -->
+      <div class="suggestion-popup"
+           *ngIf="popup.visible"
+           [style.top.px]="popup.top"
+           [style.left.px]="popup.left">
+        <div class="popup-error-type">{{ popup.errorType }}</div>
+        <div class="popup-suggestions">
+          <button
+            *ngFor="let s of popup.suggestions"
+            class="popup-suggestion-btn"
+            (click)="applySuggestion(s)">
+            {{ s }}
+          </button>
+        </div>
+      </div>
+
     </div>
+    <!-- end editor-panel -->
 
     <!-- ── Legend Strip ── -->
     <div class="legend-strip">

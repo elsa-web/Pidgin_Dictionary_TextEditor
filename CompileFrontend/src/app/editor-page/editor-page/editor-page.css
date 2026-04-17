@@ -196,6 +196,7 @@
 .editor-panel {
   display: flex;
   flex-direction: column;
+  position: relative;
   background: rgba(255, 255, 255, 0.025);
   border: 1px solid var(--border-subtle);
   border-radius: 16px;
@@ -368,4 +369,46 @@
   color: white; 
   text-decoration: underline wavy #00e5a0;
   text-underline-offset: 3px;
+}
+
+/* ══════════════════
+   SUGGESTION POPUP
+══════════════════ */
+.suggestion-popup {
+  position: absolute;
+  z-index: 100;
+  background: #0d1b2e;
+  border: 1px solid rgba(26, 140, 255, 0.3);
+  border-radius: 10px;
+  padding: 10px 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  min-width: 160px;
+}
+
+.popup-error-type {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: rgba(160, 185, 220, 0.65);
+  margin-bottom: 8px;
+}
+
+.popup-suggestion-btn {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: transparent;
+  border: none;
+  color: #e8f0fe;
+  font-size: 0.9rem;
+  padding: 6px 8px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.popup-suggestion-btn:hover {
+  background: rgba(26, 140, 255, 0.15);
+  color: #33aaff;
 }
