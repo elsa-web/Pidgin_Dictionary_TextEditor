@@ -24,8 +24,28 @@ export class EditorPageComponent implements OnDestroy, AfterViewInit{
   editorText = '';
   errors: AnalysisError[] = [];
 
-  private debounceTimer: any = null;
-  // highlightHtml: SafeHtml = '';
+
+
+ popup: {
+  visible: boolean;
+  top: number;
+  left: number;
+  errorType: string;
+  suggestions: string[];
+  errorStart: number;
+  errorEnd: number;
+} = {
+  visible: false,
+  top: 0,
+  left: 0,
+  errorType: '',
+  suggestions: [],
+  errorStart: 0,
+  errorEnd: 0
+};
+
+private debounceTimer: any = null;
+
 
 constructor(private analyzer: PidginAnalyzer) {}
   ngOnDestroy() {
@@ -123,6 +143,8 @@ escapeHtml(text: string): string {
     this.fileInput.nativeElement.click();
   }
 
+
+
   onFileSelected(event: Event) {
     const file = (event.target as HTMLInputElement).files?.[0];
     if (!file) return;
@@ -132,6 +154,45 @@ escapeHtml(text: string): string {
       this.onTextChange();
     };
     reader.readAsText(file);
+  }
+
+  onEditorClick(event: MouseEvent) {
+    const textarea = event.target as HTMLTextAreaElement;
+    const cursorPos = textarea.selectionStart;
+
+    // Find if cursor is inside any error range
+    const matchedError = this.errors.find(
+      e => cursorPos >= e.start && cursorPos <= e.end
+    );
+
+    if (matchedError) {
+      console.log('matched error:', matchedError);
+      const rect = textarea.getBoundingClientRect();
+      const wrapRect = textarea.closest('.editor-wrap')!.getBoundingClientRect();
+
+      this.popup = {
+        visible: true,
+        top: event.clientY - wrapRect.top + 10,
+        left: event.clientX - wrapRect.left,
+        errorType: matchedError.type,
+        suggestions: matchedError.all_suggestions?.length
+          ? matchedError.all_suggestions
+          : [matchedError.suggestion],
+        errorStart: matchedError.start,
+        errorEnd: matchedError.end
+      };
+    } else {
+      this.popup.visible = false;
+    }
+  }
+
+
+  applySuggestion(suggestion: string) {
+    const before = this.editorText.slice(0, this.popup.errorStart);
+    const after = this.editorText.slice(this.popup.errorEnd);
+    this.editorText = before + suggestion + after;
+    this.popup.visible = false;
+    this.onTextChange();
   }
 
   // ── Download ──
@@ -145,4 +206,7 @@ escapeHtml(text: string): string {
     a.click();
     URL.revokeObjectURL(url);
   }
+
+  
 }
+
