@@ -1,7 +1,3 @@
-"""
-API Views for the Pidgin Translator
-"""
-
 import json
 
 from django.http import JsonResponse
@@ -19,28 +15,6 @@ lexer = PidginLexer()
 @csrf_exempt
 @require_http_methods(["POST"])
 def analyze(request):
-	"""Analyze a sentence using lexical and syntactic analysis.
-	
-	POST endpoint that accepts a JSON payload with a 'sentence' field.
-	Performs two-phase analysis:
-	  1. Lexer: tokenization, spelling detection, word vocabulary lookup
-	  2. Parser: syntax pattern detection, semantic equivalence checking
-	
-	Returns combined tokens and errors from both phases.
-	
-	Request body:
-		{
-			"sentence": "text to analyze"
-		}
-	
-	Response (200 OK):
-		{
-			"sentence": "...",
-			"tokens": [...],
-			"errors": [...],
-			"summary": {...}
-		}
-	"""
 	try:
 		body = json.loads(request.body)
 	except json.JSONDecodeError:
