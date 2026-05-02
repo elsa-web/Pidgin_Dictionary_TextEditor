@@ -60,7 +60,7 @@ constructor(private analyzer: PidginAnalyzer) {}
     return this.editorText.length;
   }
 
-  // 👇 ADD this new method
+  
 renderHighlights() {
   if (!this.editorText) {
     if (this.highlightLayer) {
@@ -124,6 +124,20 @@ escapeHtml(text: string): string {
       return;
     }
 
+    console.log('Text changed, scheduling analysis...');
+    if (this.debounceTimer) clearTimeout(this.debounceTimer);
+
+    
+    if (this.highlightLayer) {
+      this.highlightLayer.nativeElement.innerHTML = '';
+    }
+
+    if (!this.editorText.trim()) {
+      this.errors = [];
+      this.popup.visible = false; 
+      return;
+    }
+
     this.debounceTimer = setTimeout(() => {
       this.analyzer.analyze(this.editorText).subscribe({
         next: (result) => {
@@ -150,9 +164,9 @@ escapeHtml(text: string): string {
     if (!file) return;
     const reader = new FileReader();
     reader.onload = (e) => {
-      this.editorText = e.target?.result as string;
-      this.onTextChange();
-    };
+  
+      this.editorText = (e.target?.result as string).replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+      setTimeout(() => this.onTextChange(), 200);    };
     reader.readAsText(file);
   }
 
@@ -206,6 +220,14 @@ escapeHtml(text: string): string {
     a.click();
     URL.revokeObjectURL(url);
   }
+
+  onScroll(event: Event) {
+  const textarea = event.target as HTMLTextAreaElement;
+  if (this.highlightLayer) {
+    // 👇 Use negative margin to shift content instead of scrolling
+    this.highlightLayer.nativeElement.style.marginTop = `-${textarea.scrollTop}px`;
+  }
+}
 
   
 }

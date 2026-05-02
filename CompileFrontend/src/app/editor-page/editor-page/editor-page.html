@@ -95,6 +95,7 @@
           [(ngModel)]="editorText"
           (ngModelChange)="onTextChange()"
           (click)="onEditorClick($event)"
+          (scroll)="onScroll($event)"
           placeholder="Type or paste your text here...">
         </textarea>
       </div>
