@@ -1,0 +1,130 @@
+<div class="formatting-toolbar" (click)="$event.stopPropagation()">
+
+  <!-- ── Group 1: Font Family + Size ── -->
+  <div class="toolbar-group">
+
+    <!-- Font Family Dropdown -->
+    <div class="dropdown-wrap">
+      <button class="dropdown-trigger" (click)="toggleFontDropdown()" [class.open]="isFontOpen" type="button">
+        <span class="trigger-label" [style.fontFamily]="selectedFont.value">{{ selectedFont.label }}</span>
+        <svg class="chevron" [class.rotated]="isFontOpen" xmlns="http://www.w3.org/2000/svg"
+             viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+             stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="6 9 12 15 18 9"/>
+        </svg>
+      </button>
+      <div class="dropdown-list" [class.visible]="isFontOpen">
+        <button *ngFor="let font of fonts" class="dropdown-item"
+                [class.selected]="font.value === format.fontFamily"
+                [style.fontFamily]="font.value"
+                (click)="selectFont(font)" type="button">
+          {{ font.label }}
+          <svg *ngIf="font.value === format.fontFamily" class="check-icon"
+               xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2.5"
+               stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20 6 9 17 4 12"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <div class="group-divider"></div>
+
+    <!-- Font Size Dropdown -->
+    <div class="dropdown-wrap size-wrap">
+      <button class="dropdown-trigger size-trigger" (click)="toggleSizeDropdown()" [class.open]="isSizeOpen" type="button">
+        <span class="trigger-label">{{ format.fontSize }}</span>
+        <svg class="chevron" [class.rotated]="isSizeOpen" xmlns="http://www.w3.org/2000/svg"
+             viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+             stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="6 9 12 15 18 9"/>
+        </svg>
+      </button>
+      <div class="dropdown-list size-list" [class.visible]="isSizeOpen">
+        <button *ngFor="let size of fontSizes" class="dropdown-item size-item"
+                [class.selected]="size === format.fontSize"
+                (click)="selectSize(size)" type="button">
+          {{ size }}
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toolbar-separator"></div>
+
+  <!-- ── Group 2: Style (Bold, Italic, Underline, Strikethrough) ── -->
+  <div class="toolbar-group">
+    <button class="style-btn" [class.active]="format.bold"
+            (click)="toggleBold()" type="button" title="Bold">
+      <strong>B</strong>
+    </button>
+    <button class="style-btn italic-btn" [class.active]="format.italic"
+            (click)="toggleItalic()" type="button" title="Italic">
+      <em>I</em>
+    </button>
+    <button class="style-btn" [class.active]="format.underline"
+            (click)="toggleUnderline()" type="button" title="Underline">
+      <span class="underline-label">U</span>
+    </button>
+    <button class="style-btn" [class.active]="format.strikethrough"
+            (click)="toggleStrikethrough()" type="button" title="Strikethrough">
+      <span class="strike-label">S</span>
+    </button>
+  </div>
+
+  <div class="toolbar-separator"></div>
+
+  <!-- ── Group 3: Alignment ── -->
+  <div class="toolbar-group">
+
+    <!-- Align Left -->
+    <button class="style-btn" [class.active]="format.alignment === 'left'"
+            (click)="setAlignment('left')" type="button" title="Align Left">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="3" y1="6"  x2="21" y2="6"/>
+        <line x1="3" y1="10" x2="17" y2="10"/>
+        <line x1="3" y1="14" x2="21" y2="14"/>
+        <line x1="3" y1="18" x2="17" y2="18"/>
+      </svg>
+    </button>
+
+    <!-- Align Center -->
+    <button class="style-btn" [class.active]="format.alignment === 'center'"
+            (click)="setAlignment('center')" type="button" title="Align Center">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="3" y1="6"  x2="21" y2="6"/>
+        <line x1="6" y1="10" x2="18" y2="10"/>
+        <line x1="3" y1="14" x2="21" y2="14"/>
+        <line x1="6" y1="18" x2="18" y2="18"/>
+      </svg>
+    </button>
+
+    <!-- Align Right -->
+    <button class="style-btn" [class.active]="format.alignment === 'right'"
+            (click)="setAlignment('right')" type="button" title="Align Right">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="3"  y1="6"  x2="21" y2="6"/>
+        <line x1="7"  y1="10" x2="21" y2="10"/>
+        <line x1="3"  y1="14" x2="21" y2="14"/>
+        <line x1="7"  y1="18" x2="21" y2="18"/>
+      </svg>
+    </button>
+
+    <!-- Justify -->
+    <button class="style-btn" [class.active]="format.alignment === 'justify'"
+            (click)="setAlignment('justify')" type="button" title="Justify">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="3" y1="6"  x2="21" y2="6"/>
+        <line x1="3" y1="10" x2="21" y2="10"/>
+        <line x1="3" y1="14" x2="21" y2="14"/>
+        <line x1="3" y1="18" x2="21" y2="18"/>
+      </svg>
+    </button>
+
+  </div>
+</div>

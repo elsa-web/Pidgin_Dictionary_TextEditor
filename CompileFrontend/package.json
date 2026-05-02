@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:Compile_Frontend": "node dist/Compile_Frontend/server/server.mjs"
+    "serve:ssr:CompileFrontend": "node dist/CompileFrontend/server/server.mjs"
   },
   "prettier": {
     "printWidth": 100,

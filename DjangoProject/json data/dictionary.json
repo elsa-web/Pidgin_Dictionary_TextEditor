@@ -4265,10 +4265,10 @@
   },
   {
     "english": "say",
-    "pidgin": "tok/sei",
+    "pidgin": "tok",
     "error_type": "SEMANTIC",
     "suggestions": [
-      "tok/sei"
+      "tok"
     ]
   },
   {
@@ -5752,14 +5752,6 @@
     ]
   },
   {
-    "english": "no",
-    "pidgin": "no",
-    "error_type": "SEMANTIC",
-    "suggestions": [
-      "no"
-    ]
-  },
-  {
     "english": "not",
     "pidgin": "no",
     "error_type": "SEMANTIC",
@@ -5929,10 +5921,10 @@
   },
   {
     "english": "I",
-    "pidgin": "I/Ai",
+    "pidgin": "I",
     "error_type": "SEMANTIC",
     "suggestions": [
-      "I/Ai"
+      "I"
     ]
   },
   {

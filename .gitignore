@@ -2,3 +2,7 @@
 /DjangoProject/.idea/
 /CompileFrontend/node_modules/
 /CompileFrontend/.angular/
+/DjangoProject/PidginTranslator/__pycache__/
+/DjangoProject/PidginTranslator/migrations/__pycache__/
+DjangoProject/PidginTranslator/migrations/0001_initial.py
+

@@ -1,0 +1,101 @@
+/* ── Neon Button Component ── */
+
+.neon-btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 32px;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  border-radius: 10px;
+  cursor: pointer;
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.35s ease,
+    background 0.35s ease,
+    border-color 0.35s ease;
+  outline: none;
+  overflow: hidden;
+  z-index: 0;
+}
+
+/* Shimmer pseudo-element */
+.neon-btn::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    120deg,
+    transparent 30%,
+    rgba(255, 255, 255, 0.08) 50%,
+    transparent 70%
+  );
+  transform: translateX(-100%);
+  transition: transform 0.55s ease;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.neon-btn:hover::before {
+  transform: translateX(100%);
+}
+
+/* ── Primary Variant ── */
+.neon-btn--primary {
+  background: linear-gradient(135deg, #1a8cff 0%, #0057cc 100%);
+  color: #ffffff;
+  border: 1.5px solid rgba(26, 140, 255, 0.4);
+  box-shadow:
+    0 0 10px rgba(26, 140, 255, 0.25),
+    0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+.neon-btn--primary:hover {
+  background: linear-gradient(135deg, #33aaff 0%, #1a6ee0 100%);
+  border-color: rgba(51, 170, 255, 0.9);
+  box-shadow:
+    0 0 18px rgba(51, 170, 255, 0.7),
+    0 0 40px rgba(26, 140, 255, 0.4),
+    0 0 70px rgba(26, 140, 255, 0.15),
+    inset 0 0 16px rgba(100, 200, 255, 0.12);
+  transform: translateY(-2px) scale(1.02);
+}
+
+.neon-btn--primary:active {
+  transform: translateY(0) scale(0.98);
+  box-shadow:
+    0 0 8px rgba(51, 170, 255, 0.5),
+    0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+/* ── Outline Variant ── */
+.neon-btn--outline {
+  background: rgba(255, 255, 255, 0.03);
+  color: #a0c8ff;
+  border: 1.5px solid rgba(100, 170, 255, 0.35);
+  box-shadow:
+    0 0 6px rgba(100, 170, 255, 0.1),
+    0 4px 16px rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.neon-btn--outline:hover {
+  background: rgba(26, 140, 255, 0.1);
+  color: #66ccff;
+  border-color: rgba(51, 200, 255, 0.85);
+  box-shadow:
+    0 0 16px rgba(51, 200, 255, 0.6),
+    0 0 36px rgba(26, 140, 255, 0.3),
+    0 0 60px rgba(26, 140, 255, 0.12),
+    inset 0 0 14px rgba(80, 200, 255, 0.08);
+  transform: translateY(-2px) scale(1.02);
+}
+
+.neon-btn--outline:active {
+  transform: translateY(0) scale(0.98);
+}

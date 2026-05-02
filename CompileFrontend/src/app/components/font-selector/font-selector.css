@@ -1,0 +1,217 @@
+/* ── Full Formatting Toolbar ── */
+
+.formatting-toolbar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+/* ── Groups ── */
+.toolbar-group {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.toolbar-separator {
+  width: 1px;
+  height: 26px;
+  background: rgba(255, 255, 255, 0.1);
+  margin: 0 6px;
+  flex-shrink: 0;
+}
+
+.group-divider {
+  width: 1px;
+  height: 22px;
+  background: rgba(255, 255, 255, 0.08);
+  margin: 0 4px;
+  flex-shrink: 0;
+}
+
+/* ── Dropdown Wrapper ── */
+.dropdown-wrap {
+  position: relative;
+}
+
+/* ── Dropdown Trigger ── */
+.dropdown-trigger {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 10px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 8px;
+  color: #c8d8f0;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s, box-shadow 0.2s;
+  white-space: nowrap;
+  min-width: 150px;
+}
+
+.size-trigger {
+  min-width: 58px;
+  justify-content: space-between;
+}
+
+.dropdown-trigger:hover,
+.dropdown-trigger.open {
+  background: rgba(26, 140, 255, 0.1);
+  border-color: rgba(26, 140, 255, 0.45);
+  color: #ffffff;
+  box-shadow: 0 0 10px rgba(26, 140, 255, 0.2);
+}
+
+.trigger-label {
+  flex: 1;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.chevron {
+  width: 13px;
+  height: 13px;
+  color: #6ab8ff;
+  flex-shrink: 0;
+  transition: transform 0.22s ease;
+}
+.chevron.rotated { transform: rotate(180deg); }
+
+/* ── Dropdown List ── */
+.dropdown-list {
+  position: absolute;
+  top: calc(100% + 5px);
+  left: 0;
+  min-width: 100%;
+  background: rgba(6, 12, 26, 0.96);
+  border: 1px solid rgba(26, 140, 255, 0.25);
+  border-radius: 10px;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  box-shadow:
+    0 0 18px rgba(26, 140, 255, 0.12),
+    0 8px 30px rgba(0, 0, 0, 0.65);
+  overflow: hidden;
+  z-index: 9999;
+  max-height: 260px;
+  overflow-y: auto;
+
+  opacity: 0;
+  transform: translateY(-6px) scale(0.97);
+  pointer-events: none;
+  transition: opacity 0.18s ease, transform 0.18s ease;
+}
+
+.dropdown-list.visible {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  pointer-events: all;
+}
+
+.dropdown-list::-webkit-scrollbar { width: 4px; }
+.dropdown-list::-webkit-scrollbar-track { background: transparent; }
+.dropdown-list::-webkit-scrollbar-thumb { background: rgba(26,140,255,0.3); border-radius: 2px; }
+
+.size-list {
+  min-width: 70px;
+}
+
+/* ── Dropdown Items ── */
+.dropdown-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  width: 100%;
+  padding: 9px 14px;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  color: rgba(180, 205, 240, 0.85);
+  font-size: 0.875rem;
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.dropdown-item:last-child { border-bottom: none; }
+
+.dropdown-item:hover {
+  background: rgba(26, 140, 255, 0.12);
+  color: #ffffff;
+}
+
+.dropdown-item.selected {
+  color: #6ab8ff;
+  background: rgba(26, 140, 255, 0.08);
+}
+
+.size-item {
+  justify-content: center;
+  padding: 8px 10px;
+}
+
+.check-icon {
+  width: 13px;
+  height: 13px;
+  color: #33aaff;
+  flex-shrink: 0;
+}
+
+/* ── Style Buttons (B, I, U, S + alignment) ── */
+.style-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 7px;
+  color: rgba(180, 205, 240, 0.75);
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background 0.18s, border-color 0.18s, color 0.18s, box-shadow 0.18s;
+  flex-shrink: 0;
+}
+
+.style-btn svg {
+  width: 15px;
+  height: 15px;
+}
+
+.style-btn:hover {
+  background: rgba(26, 140, 255, 0.1);
+  border-color: rgba(26, 140, 255, 0.4);
+  color: #ffffff;
+  box-shadow: 0 0 8px rgba(26, 140, 255, 0.2);
+}
+
+.style-btn.active {
+  background: rgba(26, 140, 255, 0.18);
+  border-color: rgba(26, 140, 255, 0.6);
+  color: #66ccff;
+  box-shadow: 0 0 10px rgba(26, 140, 255, 0.3);
+}
+
+/* Individual style labels */
+.underline-label {
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.strike-label {
+  text-decoration: line-through;
+  font-weight: 600;
+}
+
+.italic-btn em {
+  font-style: italic;
+  font-family: Georgia, serif;
+}
